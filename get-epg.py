@@ -50,13 +50,26 @@ def getChannelEPG(fhandle, channelID):
         for n in range(len(channelID)):
             name = epgdata[channelID[n]]['channelName']
             program = epgdata[channelID[n]]['program']
-            for detail in program:
+            # for detail in program:
+            #     # write programe
+            #     st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M') + '00'
+            #     et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
+
+            #     fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
+            #     fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
+            #     fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
+            #     fhandle.write('\t</programme>\n')
+            program_length = len(program)-1
+            for x in range(len(program)):
+                detail = program[x]
                 # write programe
                 st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M') + '00'
-                et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
+                if x == program_length:
+                    et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
+                else:
+                    et = datetime.fromtimestamp(program[x+1]['st']).strftime('%Y%m%d%H%M') + '00'
 
-                # fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
-                fhandle.write(f'\t<programme start="{st} +0800" channel="{channelID[n]}">\n')
+                fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
                 fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
                 fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
                 fhandle.write('\t</programme>\n')
