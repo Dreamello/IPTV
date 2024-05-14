@@ -6798,28 +6798,24 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240514193800 +0800" stop="20240514200000 +0800" channel="cctv1">
+	<programme start="20240514193800 +0800" stop="20240514195600 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240514200000 +0800" stop="20240514200600 +0800" channel="cctv1">
+	<programme start="20240514195600 +0800" stop="20240514195900 +0800" channel="cctv1">
 		<title lang="zh">前情提要- 《星星的故乡》第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240514200600 +0800" stop="20240514205600 +0800" channel="cctv1">
+	<programme start="20240514195900 +0800" stop="20240514205100 +0800" channel="cctv1">
 		<title lang="zh">星星的故乡-（高清文件）一套版-第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240514205600 +0800" stop="20240514210000 +0800" channel="cctv1">
-		<title lang="zh">前情提要- 《星星的故乡》第2集</title>
+	<programme start="20240514205100 +0800" stop="20240514212400 +0800" channel="cctv1">
+		<title lang="zh">阔步迈向网络强国-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240514210000 +0800" stop="20240514214800 +0800" channel="cctv1">
-		<title lang="zh">星星的故乡-（高清文件）一套版-第2集</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240514214800 +0800" stop="20240514220000 +0800" channel="cctv1">
-		<title lang="zh">精彩一刻-2024-148国宝四早春图</title>
+	<programme start="20240514212400 +0800" stop="20240514220000 +0800" channel="cctv1">
+		<title lang="zh">阔步迈向网络强国-2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240514220000 +0800" stop="20240514223500 +0800" channel="cctv1">
@@ -7811,7 +7807,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240514221700 +0800" stop="20240514221800 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《庆余年第一季（精编版）》12/16</title>
+		<title lang="zh">本集提要- 《庆余年第一季（精编版）》第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240514221800 +0800" stop="20240514230700 +0800" channel="cctv8">
@@ -10198,28 +10194,24 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515193800 +0800" stop="20240515200000 +0800" channel="cctv1">
+	<programme start="20240515193800 +0800" stop="20240515195700 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515200000 +0800" stop="20240515200600 +0800" channel="cctv1">
-		<title lang="zh">前情提要- 《星星的故乡》第3集</title>
+	<programme start="20240515195700 +0800" stop="20240515200000 +0800" channel="cctv1">
+		<title lang="zh">前情提要- 《星星的故乡》第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515200600 +0800" stop="20240515205500 +0800" channel="cctv1">
-		<title lang="zh">星星的故乡-（高清文件）一套版-3/25</title>
+	<programme start="20240515200000 +0800" stop="20240515204900 +0800" channel="cctv1">
+		<title lang="zh">星星的故乡-（高清文件）一套版-第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515205500 +0800" stop="20240515205800 +0800" channel="cctv1">
-		<title lang="zh">前情提要- 《星星的故乡》第4集</title>
+	<programme start="20240515204900 +0800" stop="20240515212200 +0800" channel="cctv1">
+		<title lang="zh">阔步迈向网络强国-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515205800 +0800" stop="20240515214700 +0800" channel="cctv1">
-		<title lang="zh">星星的故乡-（高清文件）一套版-4/25</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240515214700 +0800" stop="20240515220000 +0800" channel="cctv1">
-		<title lang="zh">精彩一刻-2024-149国宝四春水玉</title>
+	<programme start="20240515212200 +0800" stop="20240515220000 +0800" channel="cctv1">
+		<title lang="zh">阔步迈向网络强国-4</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515220000 +0800" stop="20240515223500 +0800" channel="cctv1">
@@ -10474,12 +10466,20 @@
 		<title lang="zh">绽放吧！妈妈-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515225600 +0800" stop="20240515234400 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2024-446亲爱的自己2/45</title>
+	<programme start="20240515225600 +0800" stop="20240515234300 +0800" channel="cctv3">
+		<title lang="zh">综艺喜乐汇-2024-446 亲爱的自己 2/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240515234300 +0800" stop="20240515234400 +0800" channel="cctv3">
+		<title lang="zh">越战越勇-2024-19</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240515234400 +0800" stop="20240515234400 +0800" channel="cctv3">
+		<title lang="zh">越战越勇-2024-20宝贝第一赛后小课堂1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515234400 +0800" stop="20240515235900 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2024-446</title>
+		<title lang="zh">综艺喜乐汇-2024-446 亲爱的自己 2/45</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515002700 +0800" stop="20240515011300 +0800" channel="cctv4">
@@ -10542,27 +10542,23 @@
 		<title lang="zh">今日环球</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515090000 +0800" stop="20240515093000 +0800" channel="cctv4">
+	<programme start="20240515090000 +0800" stop="20240515092800 +0800" channel="cctv4">
 		<title lang="zh">今日亚洲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515093000 +0800" stop="20240515100000 +0800" channel="cctv4">
+	<programme start="20240515092800 +0800" stop="20240515100000 +0800" channel="cctv4">
 		<title lang="zh">中国文艺-2024-97</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515100000 +0800" stop="20240515101000 +0800" channel="cctv4">
-		<title lang="zh">中国新闻</title>
+	<programme start="20240515100000 +0800" stop="20240515110000 +0800" channel="cctv4">
+		<title lang="zh">2024年国新办发布会-33</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515101000 +0800" stop="20240515105500 +0800" channel="cctv4">
-		<title lang="zh">远方的家2024-52</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240515105500 +0800" stop="20240515112600 +0800" channel="cctv4">
+	<programme start="20240515110000 +0800" stop="20240515113000 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2024-32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240515112600 +0800" stop="20240515120000 +0800" channel="cctv4">
+	<programme start="20240515113000 +0800" stop="20240515120000 +0800" channel="cctv4">
 		<title lang="zh">海峡两岸-2024-135</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11179,35 +11175,35 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515192500 +0800" stop="20240515193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《庆余年第一季（精编版）》13/16</title>
+		<title lang="zh">本集提要- 《庆余年第一季（精编版）》第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515193000 +0800" stop="20240515202600 +0800" channel="cctv8">
-		<title lang="zh">庆余年第一季（精编版）13/16</title>
+		<title lang="zh">庆余年第一季（精编版）第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515202600 +0800" stop="20240515203100 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《庆余年第一季（精编版）》14/16</title>
+		<title lang="zh">本集提要- 《庆余年第一季（精编版）》第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515203100 +0800" stop="20240515212400 +0800" channel="cctv8">
-		<title lang="zh">庆余年第一季（精编版）14/16</title>
+		<title lang="zh">庆余年第一季（精编版）第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515212400 +0800" stop="20240515212800 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《庆余年第一季（精编版）》15/16</title>
+		<title lang="zh">本集提要- 《庆余年第一季（精编版）》第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515212800 +0800" stop="20240515221700 +0800" channel="cctv8">
-		<title lang="zh">庆余年第一季（精编版）15/16</title>
+		<title lang="zh">庆余年第一季（精编版）第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515221700 +0800" stop="20240515221800 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《庆余年第一季（精编版）》16/16</title>
+		<title lang="zh">本集提要- 《庆余年第一季（精编版）》第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515221800 +0800" stop="20240515230700 +0800" channel="cctv8">
-		<title lang="zh">庆余年第一季（精编版）16/16</title>
+		<title lang="zh">庆余年第一季（精编版）第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240515230700 +0800" stop="20240515235300 +0800" channel="cctv8">
@@ -13631,23 +13627,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240516200000 +0800" stop="20240516200600 +0800" channel="cctv1">
-		<title lang="zh">前情提要-《星星的故乡》5/25</title>
+		<title lang="zh">前情提要-《星星的故乡》3/25</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240516200600 +0800" stop="20240516205700 +0800" channel="cctv1">
-		<title lang="zh">星星的故乡-（高清文件）一套版-5/25</title>
+	<programme start="20240516200600 +0800" stop="20240516210500 +0800" channel="cctv1">
+		<title lang="zh">星星的故乡-（高清文件）一套版-3/25</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240516205700 +0800" stop="20240516205800 +0800" channel="cctv1">
-		<title lang="zh">前情提要-《星星的故乡》6/25</title>
+	<programme start="20240516210500 +0800" stop="20240516214400 +0800" channel="cctv1">
+		<title lang="zh">阔步迈向网络强国-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240516205800 +0800" stop="20240516215000 +0800" channel="cctv1">
-		<title lang="zh">星星的故乡-（高清文件）一套版-6/25</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240516215000 +0800" stop="20240516220000 +0800" channel="cctv1">
-		<title lang="zh">精彩一刻-2024-150国宝四漆器</title>
+	<programme start="20240516214400 +0800" stop="20240516220000 +0800" channel="cctv1">
+		<title lang="zh">2024秘境之眼-世界珍禽朱鹮(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240516220000 +0800" stop="20240516223500 +0800" channel="cctv1">
@@ -13815,7 +13807,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240516003000 +0800" stop="20240516011600 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2024-446</title>
+		<title lang="zh">综艺喜乐汇-2024-446 亲爱的自己 2/45</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240516011600 +0800" stop="20240516023300 +0800" channel="cctv3">
