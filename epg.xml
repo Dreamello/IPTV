@@ -10206,15 +10206,15 @@
 		<title lang="zh">星星的故乡-（高清文件）一套版-4/25</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240520205600 +0800" stop="20240520205800 +0800" channel="cctv1">
+	<programme start="20240520205600 +0800" stop="20240520210000 +0800" channel="cctv1">
 		<title lang="zh">前情提要- 《星星的故乡》第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240520205800 +0800" stop="20240520214700 +0800" channel="cctv1">
+	<programme start="20240520210000 +0800" stop="20240520214900 +0800" channel="cctv1">
 		<title lang="zh">星星的故乡-（高清文件）一套版-5/25</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240520214700 +0800" stop="20240520220000 +0800" channel="cctv1">
+	<programme start="20240520214900 +0800" stop="20240520220000 +0800" channel="cctv1">
 		<title lang="zh">精彩一刻-2024-196国宝鎏金银壶</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -13386,8 +13386,12 @@
 		<title lang="zh">中央广播电视总台2023年中秋晚会-万里梦同心（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240520225900 +0800" stop="20240520235900 +0800" channel="cctv8k">
+	<programme start="20240520225900 +0800" stop="20240520230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240520230000 +0800" stop="20240520235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240521000900 +0800" stop="20240521004500 +0800" channel="cctv1">
@@ -14122,8 +14126,12 @@
 		<title lang="zh">2024年国际冰联男子冰球世界锦标赛-顶级组A组（加拿大队-捷克队）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240521000700 +0800" stop="20240521060300 +0800" channel="cctv7">
+	<programme start="20240521000700 +0800" stop="20240521004500 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2024-101</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240521004500 +0800" stop="20240521060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240521060300 +0800" stop="20240521063400 +0800" channel="cctv7">
