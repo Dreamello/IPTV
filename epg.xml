@@ -6934,11 +6934,11 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240608200600 +0800" stop="20240608214000 +0800" channel="cctv1">
+	<programme start="20240608200600 +0800" stop="20240608213900 +0800" channel="cctv1">
 		<title lang="zh">美美与共-和美之歌1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240608214000 +0800" stop="20240608220000 +0800" channel="cctv1">
+	<programme start="20240608213900 +0800" stop="20240608220000 +0800" channel="cctv1">
 		<title lang="zh">2024秘境之眼-穿山甲归山记(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10334,20 +10334,24 @@
 		<title lang="zh">2023精品财经纪录-乡野有真味-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240609111400 +0800" stop="20240609120000 +0800" channel="cctv2">
-		<title lang="zh">2023精品财经纪录-寻味贵阳-2</title>
+	<programme start="20240609111400 +0800" stop="20240609112900 +0800" channel="cctv2">
+		<title lang="zh">2023精品财经纪录-乡野有真味-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240609112900 +0800" stop="20240609120000 +0800" channel="cctv2">
+		<title lang="zh">2023精品财经纪录-圈粉食刻-3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240609120000 +0800" stop="20240609130100 +0800" channel="cctv2">
 		<title lang="zh">天下财经</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240609130100 +0800" stop="20240609133100 +0800" channel="cctv2">
-		<title lang="zh">2023精品财经纪录-圈粉食刻-3</title>
+	<programme start="20240609130100 +0800" stop="20240609132900 +0800" channel="cctv2">
+		<title lang="zh">2021精品财经纪录-傲椒的湘菜-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240609133100 +0800" stop="20240609140000 +0800" channel="cctv2">
-		<title lang="zh">2021精品财经纪录-傲椒的湘菜-2</title>
+	<programme start="20240609132900 +0800" stop="20240609140000 +0800" channel="cctv2">
+		<title lang="zh">2022精品财经纪录-乡厨-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240609140000 +0800" stop="20240609142600 +0800" channel="cctv2">
@@ -15452,6 +15456,10 @@
 	</programme>
 	<programme start="20240610234100 +0800" stop="20240610235900 +0800" channel="cctv17">
 		<title lang="zh">乡理乡亲-2024-57</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240610000000 +0800" stop="20240610060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240610060000 +0800" stop="20240610060100 +0800" channel="cctv4k">
