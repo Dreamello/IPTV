@@ -6955,7 +6955,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612200600 +0800" stop="20240612205600 +0800" channel="cctv1">
-		<title lang="zh">海天雄鹰3/35</title>
+		<title lang="zh">海天雄鹰第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612205600 +0800" stop="20240612210000 +0800" channel="cctv1">
@@ -6963,7 +6963,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612210000 +0800" stop="20240612220000 +0800" channel="cctv1">
-		<title lang="zh">海天雄鹰4/35</title>
+		<title lang="zh">海天雄鹰第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612220000 +0800" stop="20240612223600 +0800" channel="cctv1">
@@ -7322,12 +7322,16 @@
 		<title lang="zh">中国文艺-2024-117</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240612100000 +0800" stop="20240612110000 +0800" channel="cctv4">
+	<programme start="20240612100000 +0800" stop="20240612111700 +0800" channel="cctv4">
 		<title lang="zh">2024年国新办发布会-45</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240612110000 +0800" stop="20240612113000 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2024-52</title>
+	<programme start="20240612111700 +0800" stop="20240612112500 +0800" channel="cctv4">
+		<title lang="zh">国家公园精彩片段-12</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240612112500 +0800" stop="20240612113000 +0800" channel="cctv4">
+		<title lang="zh">国家公园精彩片段-7</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612113000 +0800" stop="20240612120000 +0800" channel="cctv4">
@@ -7947,7 +7951,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612193000 +0800" stop="20240612202600 +0800" channel="cctv8">
-		<title lang="zh">玫瑰的故事9/38</title>
+		<title lang="zh">玫瑰的故事第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612202600 +0800" stop="20240612203100 +0800" channel="cctv8">
@@ -7955,7 +7959,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612203100 +0800" stop="20240612212300 +0800" channel="cctv8">
-		<title lang="zh">玫瑰的故事10/38</title>
+		<title lang="zh">玫瑰的故事第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240612212300 +0800" stop="20240612212700 +0800" channel="cctv8">
@@ -10718,12 +10722,8 @@
 		<title lang="zh">中国文艺-2024-118</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613100000 +0800" stop="20240613101200 +0800" channel="cctv4">
-		<title lang="zh">中国新闻</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240613101200 +0800" stop="20240613110000 +0800" channel="cctv4">
-		<title lang="zh">远方的家2024-70</title>
+	<programme start="20240613100000 +0800" stop="20240613110000 +0800" channel="cctv4">
+		<title lang="zh">2024年国新办发布会-46</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240613110000 +0800" stop="20240613113000 +0800" channel="cctv4">
@@ -13950,12 +13950,16 @@
 		<title lang="zh">我爱满堂彩-2024-18妙语连珠</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240614032100 +0800" stop="20240614044500 +0800" channel="cctv3">
+	<programme start="20240614032100 +0800" stop="20240614044100 +0800" channel="cctv3">
 		<title lang="zh">乐在旅途-6</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240614044100 +0800" stop="20240614044500 +0800" channel="cctv3">
+		<title lang="zh">2024年春节联欢晚会-如果要写年（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240614044500 +0800" stop="20240614045900 +0800" channel="cctv3">
-		<title lang="zh">非常6+1-2024-2</title>
+		<title lang="zh">中国文艺报道-2024-60村节2 圆梦 千户营高台</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614045900 +0800" stop="20240614061600 +0800" channel="cctv3">
@@ -14042,8 +14046,16 @@
 		<title lang="zh">中国文艺报道-2024-62</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240614223700 +0800" stop="20240614232600 +0800" channel="cctv3">
+	<programme start="20240614223700 +0800" stop="20240614232500 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2024-519 曾少年16/35</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240614232500 +0800" stop="20240614232500 +0800" channel="cctv3">
+		<title lang="zh">开心日历-34</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240614232500 +0800" stop="20240614232600 +0800" channel="cctv3">
+		<title lang="zh">综艺喜乐汇-2024-643</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614232600 +0800" stop="20240614235900 +0800" channel="cctv3">
@@ -15131,7 +15143,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614203400 +0800" stop="20240614215400 +0800" channel="cctv11">
-		<title lang="zh">宝贝亮相吧-2024-26</title>
+		<title lang="zh">国风超有戏-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614215400 +0800" stop="20240614224500 +0800" channel="cctv11">
