@@ -11498,24 +11498,16 @@
 		<title lang="zh">自然传奇-2024-156</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240616203100 +0800" stop="20240616212000 +0800" channel="cctv10">
+	<programme start="20240616203100 +0800" stop="20240616221400 +0800" channel="cctv10">
+		<title lang="zh">全民健康大会-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240616221400 +0800" stop="20240616230400 +0800" channel="cctv10">
 		<title lang="zh">探索·发现-2024-168</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240616212000 +0800" stop="20240616221800 +0800" channel="cctv10">
-		<title lang="zh">探索.发现-奥秘2024-51</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240616221800 +0800" stop="20240616231600 +0800" channel="cctv10">
+	<programme start="20240616230400 +0800" stop="20240616235900 +0800" channel="cctv10">
 		<title lang="zh">2024大千世界-72</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240616231600 +0800" stop="20240616235200 +0800" channel="cctv10">
-		<title lang="zh">实验现场-2024-24</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240616235200 +0800" stop="20240616235900 +0800" channel="cctv10">
-		<title lang="zh">味道-2024-98</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616001500 +0800" stop="20240616010600 +0800" channel="cctv11">
@@ -12135,15 +12127,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616093000 +0800" stop="20240616101900 +0800" channel="cctv17">
-		<title lang="zh">人世间18/58</title>
+		<title lang="zh">人世间第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616101900 +0800" stop="20240616111000 +0800" channel="cctv17">
-		<title lang="zh">人世间19/58</title>
+		<title lang="zh">人世间第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616111000 +0800" stop="20240616120000 +0800" channel="cctv17">
-		<title lang="zh">人世间20/58</title>
+		<title lang="zh">人世间第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616120000 +0800" stop="20240616123100 +0800" channel="cctv17">
@@ -12155,23 +12147,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616124600 +0800" stop="20240616133600 +0800" channel="cctv17">
-		<title lang="zh">越活越来劲16/47</title>
+		<title lang="zh">越活越来劲第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616133600 +0800" stop="20240616142700 +0800" channel="cctv17">
-		<title lang="zh">越活越来劲17/47</title>
+		<title lang="zh">越活越来劲第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616142700 +0800" stop="20240616151900 +0800" channel="cctv17">
-		<title lang="zh">越活越来劲18/47</title>
+		<title lang="zh">越活越来劲第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616151900 +0800" stop="20240616161100 +0800" channel="cctv17">
-		<title lang="zh">越活越来劲19/47</title>
+		<title lang="zh">越活越来劲第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616161100 +0800" stop="20240616170000 +0800" channel="cctv17">
-		<title lang="zh">越活越来劲20/47</title>
+		<title lang="zh">越活越来劲第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616170000 +0800" stop="20240616173000 +0800" channel="cctv17">
@@ -12187,11 +12179,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616183500 +0800" stop="20240616192900 +0800" channel="cctv17">
-		<title lang="zh">人世间21/58</title>
+		<title lang="zh">人世间第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616192900 +0800" stop="20240616201800 +0800" channel="cctv17">
-		<title lang="zh">人世间22/58</title>
+		<title lang="zh">人世间第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240616201800 +0800" stop="20240616205100 +0800" channel="cctv17">
@@ -14254,6 +14246,10 @@
 		<title lang="zh">屋顶上的轻骑兵</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240617001300 +0800" stop="20240617060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240617060300 +0800" stop="20240617063400 +0800" channel="cctv7">
 		<title lang="zh">第二战场-2024-16</title>
 		<desc lang="zh"></desc>
@@ -14682,20 +14678,28 @@
 		<title lang="zh">寰宇视野2024-169</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240617002300 +0800" stop="20240617010300 +0800" channel="cctv10">
+	<programme start="20240617000100 +0800" stop="20240617003100 +0800" channel="cctv10">
+		<title lang="zh">实验现场-2024-24</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240617003100 +0800" stop="20240617010100 +0800" channel="cctv10">
+		<title lang="zh">味道-2024-98</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240617010100 +0800" stop="20240617014100 +0800" channel="cctv10">
 		<title lang="zh">探索·发现-2024-168</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240617010300 +0800" stop="20240617015300 +0800" channel="cctv10">
-		<title lang="zh">探索.发现-奥秘2024-51</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240617015300 +0800" stop="20240617022300 +0800" channel="cctv10">
+	<programme start="20240617014100 +0800" stop="20240617021100 +0800" channel="cctv10">
 		<title lang="zh">地理·中国-2024-168</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240617022300 +0800" stop="20240617060000 +0800" channel="cctv10">
+	<programme start="20240617021100 +0800" stop="20240617025100 +0800" channel="cctv10">
 		<title lang="zh">百家讲坛-2024-168</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240617025100 +0800" stop="20240617060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240617060000 +0800" stop="20240617061000 +0800" channel="cctv10">
@@ -15420,6 +15424,10 @@
 	</programme>
 	<programme start="20240617225000 +0800" stop="20240617235900 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-2024年世界男排联赛 日本站 日本队-斯洛文尼亚队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240617001000 +0800" stop="20240617055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240617055500 +0800" stop="20240617060500 +0800" channel="cctv17">
