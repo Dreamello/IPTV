@@ -31,7 +31,6 @@ def getChannelCNTV(fhandle, channelID):
 def getChannelEPG(fhandle, channelID):
     date = '%Y%m%d'
     epgdate = [
-        
         (datetime.now(tz) + timedelta(days=-2)).strftime(date),
         (datetime.now(tz) + timedelta(days=-1)).strftime(date),
         datetime.now(tz).strftime(date),
