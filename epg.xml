@@ -10210,11 +10210,11 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240721200600 +0800" stop="20240721214500 +0800" channel="cctv1">
+	<programme start="20240721200600 +0800" stop="20240721214400 +0800" channel="cctv1">
 		<title lang="zh">三餐四季-7</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240721214500 +0800" stop="20240721220000 +0800" channel="cctv1">
+	<programme start="20240721214400 +0800" stop="20240721220000 +0800" channel="cctv1">
 		<title lang="zh">2024秘境之眼-珠峰下的家园(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11439,11 +11439,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721112200 +0800" stop="20240721121300 +0800" channel="cctv11">
-		<title lang="zh">心想事成11/36</title>
+		<title lang="zh">心想事成第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721121300 +0800" stop="20240721130300 +0800" channel="cctv11">
-		<title lang="zh">心想事成12/36</title>
+		<title lang="zh">心想事成第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721130300 +0800" stop="20240721142200 +0800" channel="cctv11">
@@ -11455,11 +11455,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721171300 +0800" stop="20240721180300 +0800" channel="cctv11">
-		<title lang="zh">熟年12/39</title>
+		<title lang="zh">熟年第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721180300 +0800" stop="20240721190000 +0800" channel="cctv11">
-		<title lang="zh">熟年13/39</title>
+		<title lang="zh">熟年第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721190000 +0800" stop="20240721193000 +0800" channel="cctv11">
@@ -11475,15 +11475,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721215300 +0800" stop="20240721224300 +0800" channel="cctv11">
-		<title lang="zh">塞上风云记26/48</title>
+		<title lang="zh">塞上风云记第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721224300 +0800" stop="20240721233400 +0800" channel="cctv11">
-		<title lang="zh">塞上风云记27/48</title>
+		<title lang="zh">塞上风云记－第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721233400 +0800" stop="20240721235900 +0800" channel="cctv11">
-		<title lang="zh">塞上风云记28/48</title>
+		<title lang="zh">塞上风云记－第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240721000800 +0800" stop="20240721010100 +0800" channel="cctv12">
@@ -13326,8 +13326,12 @@
 		<title lang="zh">中央广播电视总台2023年中秋晚会-江河恋（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240721225900 +0800" stop="20240721235900 +0800" channel="cctv8k">
+	<programme start="20240721225900 +0800" stop="20240721230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240721230000 +0800" stop="20240721235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240722010100 +0800" stop="20240722012900 +0800" channel="cctv1">
@@ -14766,8 +14770,12 @@
 		<title lang="zh">科学动物园-2024-29</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240722002400 +0800" stop="20240722060600 +0800" channel="cctv11">
+	<programme start="20240722002400 +0800" stop="20240722005500 +0800" channel="cctv11">
 		<title lang="zh">典藏-2024-94</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240722005500 +0800" stop="20240722060600 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240722060600 +0800" stop="20240722071700 +0800" channel="cctv11">
