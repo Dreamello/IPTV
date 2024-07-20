@@ -44,7 +44,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "🚀 Update TV guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          git diff-index --quiet HEAD || git commit -m "Update EPG at $(date '+%Y-%m-%d %H:%M:%S')"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
