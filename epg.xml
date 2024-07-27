@@ -7442,16 +7442,40 @@
 		<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-15(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727142000 +0800" stop="20240727181000 +0800" channel="cctv5">
-		<title lang="zh">巴黎奥运会-射击10米气步枪混合团体铜牌赛、决赛等</title>
+	<programme start="20240727142000 +0800" stop="20240727163000 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-羽毛球小组赛 混双、女单</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727163000 +0800" stop="20240727173000 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-射击10米气步枪混合团体铜牌赛、决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727173000 +0800" stop="20240727181000 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-跳水女子双人3米板决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240727181000 +0800" stop="20240727191000 +0800" channel="cctv5">
 		<title lang="zh">体育新闻-全景奥运会</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727191000 +0800" stop="20240727235900 +0800" channel="cctv5">
-		<title lang="zh">巴黎奥运会-乒乓球混双1/8决赛、游泳决赛等</title>
+	<programme start="20240727191000 +0800" stop="20240727200000 +0800" channel="cctv5">
+		<title lang="zh">录像：巴黎奥运会-游泳预赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727200000 +0800" stop="20240727203000 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-羽毛球小组赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727203000 +0800" stop="20240727220000 +0800" channel="cctv5">
+		<title lang="zh">录像：巴黎奥运会-羽毛球小组赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727220000 +0800" stop="20240727223000 +0800" channel="cctv5">
+		<title lang="zh">录像：巴黎奥运会-赛艇预赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727223000 +0800" stop="20240727235900 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-乒乓球混双1/8决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240727000000 +0800" stop="20240727013000 +0800" channel="cctv5plus">
@@ -7486,12 +7510,20 @@
 		<title lang="zh">巴黎奥运会-开幕式（录播）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727165000 +0800" stop="20240727174500 +0800" channel="cctv5plus">
-		<title lang="zh">巴黎奥运会-赛事直播1-跳水 女子双人3米板决赛</title>
+	<programme start="20240727165000 +0800" stop="20240727175000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-跳水女子双人3米板决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727174500 +0800" stop="20240727235900 +0800" channel="cctv5plus">
-		<title lang="zh">巴黎奥运会-赛事直播2</title>
+	<programme start="20240727175000 +0800" stop="20240727193000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-游泳多项预赛（100米蛙泳、男子400米自由泳、女子4*100米自由泳、男子4*100米自由泳）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727193000 +0800" stop="20240727213000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-男篮小组赛 德国-日本</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727213000 +0800" stop="20240727235900 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-体操男子资格赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240727003300 +0800" stop="20240727004800 +0800" channel="cctv6">
@@ -8346,52 +8378,12 @@
 		<title lang="zh">高端访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727010000 +0800" stop="20240727012100 +0800" channel="cctv13">
+	<programme start="20240727010000 +0800" stop="20240727050000 +0800" channel="cctv13">
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727012100 +0800" stop="20240727013700 +0800" channel="cctv13">
-		<title lang="zh">焦点访谈</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727013700 +0800" stop="20240727020000 +0800" channel="cctv13">
-		<title lang="zh">法治在线</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727020000 +0800" stop="20240727023300 +0800" channel="cctv13">
+	<programme start="20240727050000 +0800" stop="20240727060000 +0800" channel="cctv13">
 		<title lang="zh">新闻直播间</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727023300 +0800" stop="20240727030000 +0800" channel="cctv13">
-		<title lang="zh">新闻1+1</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727030000 +0800" stop="20240727033000 +0800" channel="cctv13">
-		<title lang="zh">新闻直播间</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727033000 +0800" stop="20240727040000 +0800" channel="cctv13">
-		<title lang="zh">高端访谈</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727040000 +0800" stop="20240727043300 +0800" channel="cctv13">
-		<title lang="zh">新闻直播间</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727043300 +0800" stop="20240727050000 +0800" channel="cctv13">
-		<title lang="zh">新闻1+1</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727050000 +0800" stop="20240727051800 +0800" channel="cctv13">
-		<title lang="zh">新闻直播间</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727051800 +0800" stop="20240727053400 +0800" channel="cctv13">
-		<title lang="zh">焦点访谈</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240727053400 +0800" stop="20240727060000 +0800" channel="cctv13">
-		<title lang="zh">法治在线</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240727060000 +0800" stop="20240727090000 +0800" channel="cctv13">
@@ -8654,8 +8646,28 @@
 		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女足小组赛 加拿大队-新西兰队</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240727145500 +0800" stop="20240727235900 +0800" channel="cctv16">
-		<title lang="zh">2024年巴黎奥运会-赛事直播 7.27</title>
+	<programme start="20240727145500 +0800" stop="20240727170000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会男排小组赛 日本-德国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727170000 +0800" stop="20240727191000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-赛艇多项预赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727191000 +0800" stop="20240727203000 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-射击10米气步枪混合团体铜牌赛、决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727203000 +0800" stop="20240727220000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-女子公路自行车计时赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727220000 +0800" stop="20240727230000 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-跳水女子双人3米板</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240727230000 +0800" stop="20240727235900 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-男子滑板街式赛决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240727000100 +0800" stop="20240727002800 +0800" channel="cctv17">
@@ -9479,19 +9491,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728083500 +0800" stop="20240728092300 +0800" channel="cctv1">
-		<title lang="zh">赤热9/34</title>
+		<title lang="zh">赤热第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728092300 +0800" stop="20240728101600 +0800" channel="cctv1">
-		<title lang="zh">赤热10/34</title>
+		<title lang="zh">赤热第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728101600 +0800" stop="20240728110400 +0800" channel="cctv1">
-		<title lang="zh">赤热11/34</title>
+		<title lang="zh">赤热第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728110400 +0800" stop="20240728115100 +0800" channel="cctv1">
-		<title lang="zh">赤热12/34</title>
+		<title lang="zh">赤热第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728115100 +0800" stop="20240728115600 +0800" channel="cctv1">
@@ -9511,23 +9523,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728130500 +0800" stop="20240728135100 +0800" channel="cctv1">
-		<title lang="zh">繁花5/30</title>
+		<title lang="zh">繁花第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728135100 +0800" stop="20240728143800 +0800" channel="cctv1">
-		<title lang="zh">繁花6/30</title>
+		<title lang="zh">繁花第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728143800 +0800" stop="20240728152500 +0800" channel="cctv1">
-		<title lang="zh">繁花7/30</title>
+		<title lang="zh">繁花第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728152500 +0800" stop="20240728161100 +0800" channel="cctv1">
-		<title lang="zh">繁花8/30</title>
+		<title lang="zh">繁花第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728161100 +0800" stop="20240728165800 +0800" channel="cctv1">
-		<title lang="zh">繁花9/30</title>
+		<title lang="zh">繁花第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728165800 +0800" stop="20240728175000 +0800" channel="cctv1">
@@ -9951,7 +9963,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728233000 +0800" stop="20240728235900 +0800" channel="cctv4">
-		<title lang="zh">奔腾岁月4/40</title>
+		<title lang="zh">奔腾岁月第4集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728000000 +0800" stop="20240728023000 +0800" channel="cctv5">
+		<title lang="zh">录像：巴黎奥运会-体操男子资格赛2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728023000 +0800" stop="20240728043300 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-游泳（女子100米蝶泳半决赛、男子400米自由泳决赛、女子400米自由泳决赛、男子100米蛙泳半决赛、女子4*100米接力决赛、男子4*100米自由泳决赛）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728043300 +0800" stop="20240728060000 +0800" channel="cctv5">
@@ -10000,6 +10020,26 @@
 	</programme>
 	<programme start="20240728193000 +0800" stop="20240728235900 +0800" channel="cctv5">
 		<title lang="zh">巴黎奥运会-乒乓球混双1/4决赛、游泳决赛等</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728000000 +0800" stop="20240728010000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-沙滩排球 女子预赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728010000 +0800" stop="20240728014500 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-七人制橄榄球男子铜牌赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728014500 +0800" stop="20240728021500 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-七人制橄榄球男子决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728021500 +0800" stop="20240728024000 +0800" channel="cctv5plus">
+		<title lang="zh">录像：巴黎奥运会-赛艇预赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728024000 +0800" stop="20240728043000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-击剑女子重剑、男子佩剑铜牌赛、决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728043000 +0800" stop="20240728060000 +0800" channel="cctv5plus">
@@ -10251,19 +10291,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728043100 +0800" stop="20240728051700 +0800" channel="cctv8">
-		<title lang="zh">远方的山楂树8/48</title>
+		<title lang="zh">远方的山楂树第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728051700 +0800" stop="20240728060300 +0800" channel="cctv8">
-		<title lang="zh">远方的山楂树9/48</title>
+		<title lang="zh">远方的山楂树第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728060300 +0800" stop="20240728065400 +0800" channel="cctv8">
-		<title lang="zh">远方的山楂树10/48</title>
+		<title lang="zh">远方的山楂树第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728065400 +0800" stop="20240728074000 +0800" channel="cctv8">
-		<title lang="zh">远方的山楂树11/48</title>
+		<title lang="zh">远方的山楂树第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728074000 +0800" stop="20240728074800 +0800" channel="cctv8">
@@ -10271,11 +10311,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728074800 +0800" stop="20240728084400 +0800" channel="cctv8">
-		<title lang="zh">大决战1/49</title>
+		<title lang="zh">大决战第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728084400 +0800" stop="20240728093400 +0800" channel="cctv8">
-		<title lang="zh">大决战2/49</title>
+		<title lang="zh">大决战第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728093400 +0800" stop="20240728094500 +0800" channel="cctv8">
@@ -10283,15 +10323,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728094500 +0800" stop="20240728104200 +0800" channel="cctv8">
-		<title lang="zh">大决战3/49</title>
+		<title lang="zh">大决战第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728104200 +0800" stop="20240728113800 +0800" channel="cctv8">
-		<title lang="zh">大决战4/49</title>
+		<title lang="zh">大决战第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728113800 +0800" stop="20240728122400 +0800" channel="cctv8">
-		<title lang="zh">大决战5/49</title>
+		<title lang="zh">大决战第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728122400 +0800" stop="20240728123900 +0800" channel="cctv8">
@@ -10299,19 +10339,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728123900 +0800" stop="20240728133500 +0800" channel="cctv8">
-		<title lang="zh">玫瑰的故事29/38</title>
+		<title lang="zh">玫瑰的故事第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728133500 +0800" stop="20240728143000 +0800" channel="cctv8">
-		<title lang="zh">玫瑰的故事30/38</title>
+		<title lang="zh">玫瑰的故事第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728143000 +0800" stop="20240728152700 +0800" channel="cctv8">
-		<title lang="zh">玫瑰的故事31/38</title>
+		<title lang="zh">玫瑰的故事第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728152700 +0800" stop="20240728161300 +0800" channel="cctv8">
-		<title lang="zh">玫瑰的故事32/38</title>
+		<title lang="zh">玫瑰的故事第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728161300 +0800" stop="20240728162600 +0800" channel="cctv8">
@@ -10323,11 +10363,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728163100 +0800" stop="20240728173300 +0800" channel="cctv8">
-		<title lang="zh">夺金9/38</title>
+		<title lang="zh">夺金第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728173300 +0800" stop="20240728182600 +0800" channel="cctv8">
-		<title lang="zh">夺金10/38</title>
+		<title lang="zh">夺金第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728182600 +0800" stop="20240728183300 +0800" channel="cctv8">
@@ -10335,7 +10375,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728183300 +0800" stop="20240728192200 +0800" channel="cctv8">
-		<title lang="zh">夺金11/38</title>
+		<title lang="zh">夺金第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728192200 +0800" stop="20240728192700 +0800" channel="cctv8">
@@ -10343,27 +10383,27 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728192700 +0800" stop="20240728193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-赤热-29/34</title>
+		<title lang="zh">本集提要-赤热-第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728193000 +0800" stop="20240728202500 +0800" channel="cctv8">
-		<title lang="zh">赤热29/34</title>
+		<title lang="zh">赤热第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728202500 +0800" stop="20240728202900 +0800" channel="cctv8">
-		<title lang="zh">本集提要-赤热-30/34</title>
+		<title lang="zh">本集提要-赤热-第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728202900 +0800" stop="20240728212100 +0800" channel="cctv8">
-		<title lang="zh">赤热30/34</title>
+		<title lang="zh">赤热第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728212100 +0800" stop="20240728212500 +0800" channel="cctv8">
-		<title lang="zh">本集提要-江河之上-20/34</title>
+		<title lang="zh">本集提要-江河之上-第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728212500 +0800" stop="20240728221600 +0800" channel="cctv8">
-		<title lang="zh">江河之上20/34</title>
+		<title lang="zh">江河之上第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728221600 +0800" stop="20240728230400 +0800" channel="cctv8">
@@ -10379,7 +10419,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728235800 +0800" stop="20240728235900 +0800" channel="cctv8">
-		<title lang="zh">一路向前2/30</title>
+		<title lang="zh">一路向前第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728000300 +0800" stop="20240728005900 +0800" channel="cctvjilu">
@@ -10659,11 +10699,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728112100 +0800" stop="20240728121100 +0800" channel="cctv11">
-		<title lang="zh">心想事成25/36</title>
+		<title lang="zh">心想事成第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728121100 +0800" stop="20240728130200 +0800" channel="cctv11">
-		<title lang="zh">心想事成26/36</title>
+		<title lang="zh">心想事成第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728130200 +0800" stop="20240728142100 +0800" channel="cctv11">
@@ -10679,11 +10719,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728171900 +0800" stop="20240728180900 +0800" channel="cctv11">
-		<title lang="zh">熟年26/39</title>
+		<title lang="zh">熟年第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728180900 +0800" stop="20240728190000 +0800" channel="cctv11">
-		<title lang="zh">熟年27/39</title>
+		<title lang="zh">熟年第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728190000 +0800" stop="20240728193000 +0800" channel="cctv11">
@@ -10699,15 +10739,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728215300 +0800" stop="20240728224300 +0800" channel="cctv11">
-		<title lang="zh">塞上风云记47/48</title>
+		<title lang="zh">塞上风云记－第47集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728224300 +0800" stop="20240728233400 +0800" channel="cctv11">
-		<title lang="zh">塞上风云记48/48</title>
+		<title lang="zh">塞上风云记－第48集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728233400 +0800" stop="20240728235900 +0800" channel="cctv11">
-		<title lang="zh">芝麻胡同1/51</title>
+		<title lang="zh">芝麻胡同第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728000800 +0800" stop="20240728010100 +0800" channel="cctv12">
@@ -11106,6 +11146,14 @@
 		<title lang="zh">CCTV音乐厅-2024-143-名家名曲（62）</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240728003500 +0800" stop="20240728020000 +0800" channel="cctv16">
+		<title lang="zh">录像：羽毛球小组赛今日中国选手精选</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728020000 +0800" stop="20240728050000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-乒乓球男单、女单第1轮</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240728050000 +0800" stop="20240728055800 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-2024年世界泳联世锦赛 跳水 男子双人三米板决赛</title>
 		<desc lang="zh"></desc>
@@ -11187,15 +11235,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728093000 +0800" stop="20240728101900 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇26/39</title>
+		<title lang="zh">刘家媳妇第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728101900 +0800" stop="20240728111000 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇27/39</title>
+		<title lang="zh">刘家媳妇第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728111000 +0800" stop="20240728120000 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇28/39</title>
+		<title lang="zh">刘家媳妇第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728120000 +0800" stop="20240728123100 +0800" channel="cctv17">
@@ -11207,23 +11255,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728124400 +0800" stop="20240728133400 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开12/42</title>
+		<title lang="zh">兰桐花开第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728133400 +0800" stop="20240728142600 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开13/42</title>
+		<title lang="zh">兰桐花开第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728142600 +0800" stop="20240728151900 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开14/42</title>
+		<title lang="zh">兰桐花开第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728151900 +0800" stop="20240728161100 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开15/42</title>
+		<title lang="zh">兰桐花开第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728161100 +0800" stop="20240728170000 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开16/42</title>
+		<title lang="zh">兰桐花开第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728170000 +0800" stop="20240728173000 +0800" channel="cctv17">
@@ -11239,15 +11287,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728183500 +0800" stop="20240728192900 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇29/39</title>
+		<title lang="zh">刘家媳妇第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728192900 +0800" stop="20240728202300 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇30/39</title>
+		<title lang="zh">刘家媳妇第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728202300 +0800" stop="20240728211200 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇31/39</title>
+		<title lang="zh">刘家媳妇第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728211200 +0800" stop="20240728214500 +0800" channel="cctv17">
@@ -11311,11 +11359,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728085900 +0800" stop="20240728094500 +0800" channel="cctv4k">
-		<title lang="zh">我的阿勒泰-(4K)-7/8</title>
+		<title lang="zh">我的阿勒泰-（4K）-7/8</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728094500 +0800" stop="20240728103100 +0800" channel="cctv4k">
-		<title lang="zh">我的阿勒泰-(4K)-8/8</title>
+		<title lang="zh">我的阿勒泰-（4K）-8/8</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240728103100 +0800" stop="20240728103200 +0800" channel="cctv4k">
@@ -12338,8 +12386,12 @@
 		<title lang="zh">中央广播电视总台2023年中秋晚会-万里梦同心（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240728225900 +0800" stop="20240728235900 +0800" channel="cctv8k">
+	<programme start="20240728225900 +0800" stop="20240728230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240728230000 +0800" stop="20240728235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729040000 +0800" stop="20240729041200 +0800" channel="cctv1">
@@ -12719,11 +12771,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729001600 +0800" stop="20240729010200 +0800" channel="cctv4">
-		<title lang="zh">奔腾岁月5/40</title>
+		<title lang="zh">奔腾岁月第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729010200 +0800" stop="20240729015000 +0800" channel="cctv4">
-		<title lang="zh">奔腾岁月6/40</title>
+		<title lang="zh">奔腾岁月第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729015000 +0800" stop="20240729020000 +0800" channel="cctv4">
@@ -13042,6 +13094,10 @@
 		<title lang="zh">中国体育彩票阳光开奖2024-07-29</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240729001300 +0800" stop="20240729060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240729060300 +0800" stop="20240729063400 +0800" channel="cctv7">
 		<title lang="zh">第二战场-2024-22</title>
 		<desc lang="zh"></desc>
@@ -13187,15 +13243,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729004900 +0800" stop="20240729013500 +0800" channel="cctv8">
-		<title lang="zh">一路向前3/30</title>
+		<title lang="zh">一路向前第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729013500 +0800" stop="20240729022100 +0800" channel="cctv8">
-		<title lang="zh">一路向前4/30</title>
+		<title lang="zh">一路向前第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729022100 +0800" stop="20240729030700 +0800" channel="cctv8">
-		<title lang="zh">一路向前5/30</title>
+		<title lang="zh">一路向前第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729030700 +0800" stop="20240729031600 +0800" channel="cctv8">
@@ -13203,7 +13259,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729031600 +0800" stop="20240729040200 +0800" channel="cctv8">
-		<title lang="zh">一路向前6/30</title>
+		<title lang="zh">一路向前第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729040200 +0800" stop="20240729042200 +0800" channel="cctv8">
@@ -13474,8 +13530,12 @@
 		<title lang="zh">地理·中国-2024-210</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240729022100 +0800" stop="20240729060000 +0800" channel="cctv10">
+	<programme start="20240729022100 +0800" stop="20240729030100 +0800" channel="cctv10">
 		<title lang="zh">百家讲坛-2024-210</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240729030100 +0800" stop="20240729060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729060000 +0800" stop="20240729061000 +0800" channel="cctv10">
@@ -13622,8 +13682,12 @@
 		<title lang="zh">科学动物园-2024-30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240729002400 +0800" stop="20240729060600 +0800" channel="cctv11">
+	<programme start="20240729002400 +0800" stop="20240729005500 +0800" channel="cctv11">
 		<title lang="zh">典藏-2024-82</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240729005500 +0800" stop="20240729060600 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729060600 +0800" stop="20240729072000 +0800" channel="cctv11">
@@ -13702,8 +13766,12 @@
 		<title lang="zh">方圆剧阵2024-15</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240729015400 +0800" stop="20240729060300 +0800" channel="cctv12">
+	<programme start="20240729015400 +0800" stop="20240729022500 +0800" channel="cctv12">
 		<title lang="zh">法律讲堂-2024-210</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240729022500 +0800" stop="20240729060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729060300 +0800" stop="20240729063600 +0800" channel="cctv12">
@@ -13958,6 +14026,10 @@
 		<title lang="zh">24小时</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240729011700 +0800" stop="20240729060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240729060000 +0800" stop="20240729063000 +0800" channel="cctvchild">
 		<title lang="zh">小小智慧树-2024-151</title>
 		<desc lang="zh"></desc>
@@ -14026,8 +14098,12 @@
 		<title lang="zh">影视留声机-2024-10</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240729012000 +0800" stop="20240729060000 +0800" channel="cctv15">
+	<programme start="20240729012000 +0800" stop="20240729020700 +0800" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2024-142-名家名曲（61）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240729020700 +0800" stop="20240729060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729060000 +0800" stop="20240729071200 +0800" channel="cctv15">
@@ -14146,8 +14222,12 @@
 		<title lang="zh">2024年巴黎奥运会-赛事直播 7.29</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240729003200 +0800" stop="20240729055500 +0800" channel="cctv17">
+	<programme start="20240729003200 +0800" stop="20240729010500 +0800" channel="cctv17">
 		<title lang="zh">乡理乡亲-2024-71</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240729010500 +0800" stop="20240729055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240729055500 +0800" stop="20240729060500 +0800" channel="cctv17">
