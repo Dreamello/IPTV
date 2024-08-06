@@ -9050,32 +9050,40 @@
 		<title lang="zh">综艺喜乐汇-2024-825 红心向未来</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807085100 +0800" stop="20240807095400 +0800" channel="cctv3">
+	<programme start="20240807085100 +0800" stop="20240807095300 +0800" channel="cctv3">
 		<title lang="zh">综艺盛典-2024-12选对健康12</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807095400 +0800" stop="20240807111400 +0800" channel="cctv3">
+	<programme start="20240807095300 +0800" stop="20240807095600 +0800" channel="cctv3">
+		<title lang="zh">悦读一夏-贴秋膘</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807095600 +0800" stop="20240807111500 +0800" channel="cctv3">
 		<title lang="zh">星光大道-2024-33（这一站星光9）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807111400 +0800" stop="20240807112400 +0800" channel="cctv3">
+	<programme start="20240807111500 +0800" stop="20240807112500 +0800" channel="cctv3">
 		<title lang="zh">我的艺术夜校-我们的文学课-7</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807112400 +0800" stop="20240807124300 +0800" channel="cctv3">
+	<programme start="20240807112500 +0800" stop="20240807124500 +0800" channel="cctv3">
 		<title lang="zh">向幸福出发-2024-32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807124300 +0800" stop="20240807124800 +0800" channel="cctv3">
+	<programme start="20240807124500 +0800" stop="20240807124900 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2024-825 红心向未来</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807124800 +0800" stop="20240807131000 +0800" channel="cctv3">
+	<programme start="20240807124900 +0800" stop="20240807131100 +0800" channel="cctv3">
 		<title lang="zh">文化十分-2024-166</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807131000 +0800" stop="20240807141600 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2024-770</title>
+	<programme start="20240807131100 +0800" stop="20240807141200 +0800" channel="cctv3">
+		<title lang="zh">综艺喜乐汇-2024-767</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807141200 +0800" stop="20240807141600 +0800" channel="cctv3">
+		<title lang="zh">悦读一夏-贴秋膘</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807141600 +0800" stop="20240807152400 +0800" channel="cctv3">
@@ -9827,7 +9835,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807193000 +0800" stop="20240807202300 +0800" channel="cctv8">
-		<title lang="zh">小夫妻15/36</title>
+		<title lang="zh">小夫妻第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807202300 +0800" stop="20240807202800 +0800" channel="cctv8">
@@ -10970,6 +10978,10 @@
 		<title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240807133300 +0800" stop="20240807133300 +0800" channel="cctv4k">
+		<title lang="zh">4K宣传片-立秋</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240807133300 +0800" stop="20240807134000 +0800" channel="cctv4k">
 		<title lang="zh">4K超清精品-奥运典藏樊振东</title>
 		<desc lang="zh"></desc>
@@ -10999,131 +11011,83 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807070000 +0800" stop="20240807070100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
+		<title lang="zh">美术里的中国-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807070100 +0800" stop="20240807070100 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
+		<title lang="zh">巅峰食客-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807070100 +0800" stop="20240807070200 +0800" channel="cctv8k">
-		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070200 +0800" stop="20240807070300 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片3（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070300 +0800" stop="20240807070400 +0800" channel="cctv8k">
-		<title lang="zh">巅峰食客-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070400 +0800" stop="20240807070400 +0800" channel="cctv8k">
-		<title lang="zh">美术里的中国-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070400 +0800" stop="20240807070800 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070800 +0800" stop="20240807070800 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070800 +0800" stop="20240807070900 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807070900 +0800" stop="20240807073900 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会击剑比赛1-1/2</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807073900 +0800" stop="20240807075200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会击剑比赛1-2/2</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807075200 +0800" stop="20240807075400 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会DAY5</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807075400 +0800" stop="20240807075700 +0800" channel="cctv8k">
-		<title lang="zh">8K超高清万象-美丽中国 北上广</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807075700 +0800" stop="20240807075700 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻8</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807075700 +0800" stop="20240807075800 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807075800 +0800" stop="20240807075800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会ID（0727）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807075800 +0800" stop="20240807080000 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片3（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807080000 +0800" stop="20240807080000 +0800" channel="cctv8k">
-		<title lang="zh">美术里的中国-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807080000 +0800" stop="20240807080100 +0800" channel="cctv8k">
-		<title lang="zh">巅峰食客-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807080100 +0800" stop="20240807080100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807080100 +0800" stop="20240807080200 +0800" channel="cctv8k">
-		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807080200 +0800" stop="20240807080200 +0800" channel="cctv8k">
 		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807080200 +0800" stop="20240807080600 +0800" channel="cctv8k">
+	<programme start="20240807070200 +0800" stop="20240807070200 +0800" channel="cctv8k">
+		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807070200 +0800" stop="20240807070600 +0800" channel="cctv8k">
 		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807080600 +0800" stop="20240807080600 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
+	<programme start="20240807070600 +0800" stop="20240807070700 +0800" channel="cctv8k">
+		<title lang="zh">品牌强国-宣传片3（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807080600 +0800" stop="20240807083100 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会射击比赛3</title>
+	<programme start="20240807070700 +0800" stop="20240807070800 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807083100 +0800" stop="20240807083200 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807083200 +0800" stop="20240807083200 +0800" channel="cctv8k">
+	<programme start="20240807070800 +0800" stop="20240807070800 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807083200 +0800" stop="20240807083800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏射击10米气步枪混合团体决赛</title>
+	<programme start="20240807070800 +0800" stop="20240807070900 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807083800 +0800" stop="20240807084800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏跳水女子三米板和游泳女子4×100</title>
+	<programme start="20240807070900 +0800" stop="20240807073900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会羽毛球女单决赛-1/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807084800 +0800" stop="20240807085800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏2</title>
+	<programme start="20240807073900 +0800" stop="20240807080900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会羽毛球女单决赛-2/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807085800 +0800" stop="20240807085900 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会ID（0727）</title>
+	<programme start="20240807080900 +0800" stop="20240807082900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会羽毛球女单决赛-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807085900 +0800" stop="20240807090000 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片2（8K）</title>
+	<programme start="20240807082900 +0800" stop="20240807083000 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807083000 +0800" stop="20240807085500 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会射击比赛5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807085500 +0800" stop="20240807085600 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻14</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807085600 +0800" stop="20240807085600 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻15</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807085600 +0800" stop="20240807085700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻16</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807085700 +0800" stop="20240807085700 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807085700 +0800" stop="20240807085800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-中国跳水40年50金宣传片</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807085800 +0800" stop="20240807090000 +0800" channel="cctv8k">
+		<title lang="zh">品牌强国-宣传片3（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807090000 +0800" stop="20240807090000 +0800" channel="cctv8k">
@@ -11135,127 +11099,151 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807090100 +0800" stop="20240807090100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
+		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807090100 +0800" stop="20240807090200 +0800" channel="cctv8k">
 		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807090200 +0800" stop="20240807090200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
+	<programme start="20240807090200 +0800" stop="20240807090500 +0800" channel="cctv8k">
+		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807090200 +0800" stop="20240807090600 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
+	<programme start="20240807090500 +0800" stop="20240807090600 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807090600 +0800" stop="20240807090600 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807090600 +0800" stop="20240807090700 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807090600 +0800" stop="20240807093600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会乒乓球混双决赛-1/2</title>
+	<programme start="20240807090700 +0800" stop="20240807093700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会体操单项决赛1-1/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807093600 +0800" stop="20240807095900 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会乒乓球混双决赛-2/2</title>
+	<programme start="20240807093700 +0800" stop="20240807100700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会体操单项决赛1-2/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807095900 +0800" stop="20240807100000 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片（8K）</title>
+	<programme start="20240807100700 +0800" stop="20240807102700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会体操单项决赛1-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807100000 +0800" stop="20240807100000 +0800" channel="cctv8k">
-		<title lang="zh">美术里的中国-宣传片（8K）</title>
+	<programme start="20240807102700 +0800" stop="20240807102800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807100000 +0800" stop="20240807100100 +0800" channel="cctv8k">
-		<title lang="zh">巅峰食客-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807100100 +0800" stop="20240807100100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807100100 +0800" stop="20240807100200 +0800" channel="cctv8k">
-		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807100200 +0800" stop="20240807100200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807100200 +0800" stop="20240807100600 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807100600 +0800" stop="20240807100600 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807100600 +0800" stop="20240807103600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会女排小组赛中国队—美国队1/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807103600 +0800" stop="20240807110600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会女排小组赛中国队—美国队2/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807110600 +0800" stop="20240807111600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会女排小组赛中国队—美国队3/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807111600 +0800" stop="20240807111700 +0800" channel="cctv8k">
+	<programme start="20240807102800 +0800" stop="20240807102900 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807111700 +0800" stop="20240807111700 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
+	<programme start="20240807102900 +0800" stop="20240807103300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏羽毛球女双决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807111700 +0800" stop="20240807112000 +0800" channel="cctv8k">
-		<title lang="zh">千秋诗颂-宣传片2（8K）</title>
+	<programme start="20240807103300 +0800" stop="20240807104300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏10</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807112000 +0800" stop="20240807112100 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片2（8K）</title>
+	<programme start="20240807104300 +0800" stop="20240807105300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807112100 +0800" stop="20240807112500 +0800" channel="cctv8k">
+	<programme start="20240807105300 +0800" stop="20240807105400 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105400 +0800" stop="20240807105400 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105400 +0800" stop="20240807105500 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻18</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105500 +0800" stop="20240807105500 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻19</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105500 +0800" stop="20240807105600 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻20</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105600 +0800" stop="20240807105600 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻21</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105600 +0800" stop="20240807105900 +0800" channel="cctv8k">
+		<title lang="zh">美丽中国-海南岛（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807105900 +0800" stop="20240807110000 +0800" channel="cctv8k">
+		<title lang="zh">品牌强国-宣传片（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807110000 +0800" stop="20240807110000 +0800" channel="cctv8k">
+		<title lang="zh">美术里的中国-宣传片（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807110000 +0800" stop="20240807110100 +0800" channel="cctv8k">
+		<title lang="zh">巅峰食客-宣传片（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807110100 +0800" stop="20240807110100 +0800" channel="cctv8k">
+		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807110100 +0800" stop="20240807110200 +0800" channel="cctv8k">
+		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807110200 +0800" stop="20240807110500 +0800" channel="cctv8k">
 		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807112500 +0800" stop="20240807112600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会DAY5</title>
+	<programme start="20240807110500 +0800" stop="20240807110600 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807112600 +0800" stop="20240807113200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏射击10米气步枪混合团体决赛</title>
+	<programme start="20240807110600 +0800" stop="20240807110600 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807113200 +0800" stop="20240807114200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏跳水女子三米板和游泳女子4×100</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807114200 +0800" stop="20240807115200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏2</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807115200 +0800" stop="20240807115800 +0800" channel="cctv8k">
-		<title lang="zh">美丽中国-新疆1（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807115800 +0800" stop="20240807115800 +0800" channel="cctv8k">
+	<programme start="20240807110600 +0800" stop="20240807110700 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807115800 +0800" stop="20240807115900 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片2（8K）</title>
+	<programme start="20240807110700 +0800" stop="20240807113700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会乒乓球男单决赛-1/2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807115900 +0800" stop="20240807120000 +0800" channel="cctv8k">
-		<title lang="zh">8K标识演绎-彩带（8K）</title>
+	<programme start="20240807113700 +0800" stop="20240807115000 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会乒乓球男单决赛-2/2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807115000 +0800" stop="20240807115200 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807115200 +0800" stop="20240807115200 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻20</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807115200 +0800" stop="20240807115300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻21</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807115300 +0800" stop="20240807115800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏游泳男子4×100米混合泳接力</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807115800 +0800" stop="20240807120000 +0800" channel="cctv8k">
+		<title lang="zh">品牌强国-宣传片3（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807120000 +0800" stop="20240807120000 +0800" channel="cctv8k">
@@ -11267,35 +11255,59 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807120100 +0800" stop="20240807120100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
+		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807120100 +0800" stop="20240807120200 +0800" channel="cctv8k">
 		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807120200 +0800" stop="20240807120200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807120200 +0800" stop="20240807120600 +0800" channel="cctv8k">
+	<programme start="20240807120200 +0800" stop="20240807120500 +0800" channel="cctv8k">
 		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240807120500 +0800" stop="20240807120600 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240807120600 +0800" stop="20240807120600 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807120600 +0800" stop="20240807120700 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807120600 +0800" stop="20240807123600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会乒乓球混双决赛-1/2</title>
+	<programme start="20240807120700 +0800" stop="20240807123700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛5-1/2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807123600 +0800" stop="20240807125900 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会乒乓球混双决赛-2/2</title>
+	<programme start="20240807123700 +0800" stop="20240807125000 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛5-2/2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807125900 +0800" stop="20240807130000 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片（8K）</title>
+	<programme start="20240807125000 +0800" stop="20240807125200 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807125200 +0800" stop="20240807125200 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻22</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807125200 +0800" stop="20240807125300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻23</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807125300 +0800" stop="20240807125700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏射击男子25米手枪速射</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807125700 +0800" stop="20240807125800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-中国跳水40年50金宣传片</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807125800 +0800" stop="20240807130000 +0800" channel="cctv8k">
+		<title lang="zh">品牌强国-宣传片3（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807130000 +0800" stop="20240807130000 +0800" channel="cctv8k">
@@ -11307,87 +11319,59 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807130100 +0800" stop="20240807130100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
+		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807130100 +0800" stop="20240807130200 +0800" channel="cctv8k">
 		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807130200 +0800" stop="20240807130200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
+	<programme start="20240807130200 +0800" stop="20240807130500 +0800" channel="cctv8k">
+		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807130200 +0800" stop="20240807130600 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
+	<programme start="20240807130500 +0800" stop="20240807130600 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807130600 +0800" stop="20240807130600 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807130600 +0800" stop="20240807133600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会女排小组赛中国队—美国队1/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807133600 +0800" stop="20240807140600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会女排小组赛中国队—美国队2/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807140600 +0800" stop="20240807141600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会女排小组赛中国队—美国队3/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807141600 +0800" stop="20240807141700 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807141700 +0800" stop="20240807141700 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807141700 +0800" stop="20240807142000 +0800" channel="cctv8k">
-		<title lang="zh">千秋诗颂-宣传片2（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807142000 +0800" stop="20240807142100 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片2（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807142100 +0800" stop="20240807142500 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807142500 +0800" stop="20240807142600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会DAY5</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807142600 +0800" stop="20240807143200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏射击10米气步枪混合团体决赛</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807143200 +0800" stop="20240807144200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏跳水女子三米板和游泳女子4×100</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807144200 +0800" stop="20240807145200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏2</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807145200 +0800" stop="20240807145800 +0800" channel="cctv8k">
-		<title lang="zh">美丽中国-新疆1（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807145800 +0800" stop="20240807145800 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807145800 +0800" stop="20240807145900 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片2（8K）</title>
+	<programme start="20240807130600 +0800" stop="20240807130700 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807130700 +0800" stop="20240807133700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会网球比赛1-1/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807133700 +0800" stop="20240807140700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会网球比赛1-2/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807140700 +0800" stop="20240807142700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会网球比赛1-3/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807142700 +0800" stop="20240807142800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807142800 +0800" stop="20240807145300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会射击比赛5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807145300 +0800" stop="20240807145900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏游泳男子4×100米混合泳接力</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807145900 +0800" stop="20240807145900 +0800" channel="cctv8k">
+		<title lang="zh">8K标识演绎-彩带（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807145900 +0800" stop="20240807150000 +0800" channel="cctv8k">
-		<title lang="zh">8K标识演绎-极光（8K）</title>
+		<title lang="zh">品牌强国-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807150000 +0800" stop="20240807150000 +0800" channel="cctv8k">
@@ -11399,119 +11383,83 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807150100 +0800" stop="20240807150100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
+		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807150100 +0800" stop="20240807150200 +0800" channel="cctv8k">
 		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807150200 +0800" stop="20240807150200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
+	<programme start="20240807150200 +0800" stop="20240807150500 +0800" channel="cctv8k">
+		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807150200 +0800" stop="20240807150600 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
+	<programme start="20240807150500 +0800" stop="20240807150600 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807150600 +0800" stop="20240807150600 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807150600 +0800" stop="20240807150700 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807150600 +0800" stop="20240807153600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会击剑比赛1-1/2</title>
+	<programme start="20240807150700 +0800" stop="20240807153700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会体操单项决赛1-1/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807153600 +0800" stop="20240807155000 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会击剑比赛1-2/2</title>
+	<programme start="20240807153700 +0800" stop="20240807160700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会体操单项决赛1-2/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155000 +0800" stop="20240807155100 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会DAY5</title>
+	<programme start="20240807160700 +0800" stop="20240807162700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会体操单项决赛1-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155100 +0800" stop="20240807155200 +0800" channel="cctv8k">
+	<programme start="20240807162700 +0800" stop="20240807162800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807162800 +0800" stop="20240807162900 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155200 +0800" stop="20240807155500 +0800" channel="cctv8k">
-		<title lang="zh">8K超高清万象-美丽中国 北上广</title>
+	<programme start="20240807162900 +0800" stop="20240807163300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏羽毛球女双决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155500 +0800" stop="20240807155500 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
+	<programme start="20240807163300 +0800" stop="20240807164300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏10</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155500 +0800" stop="20240807155600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻7</title>
+	<programme start="20240807164300 +0800" stop="20240807165300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155600 +0800" stop="20240807155600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻8</title>
+	<programme start="20240807165300 +0800" stop="20240807165400 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-立秋2024</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807155600 +0800" stop="20240807155900 +0800" channel="cctv8k">
+	<programme start="20240807165400 +0800" stop="20240807165400 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻20</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807165400 +0800" stop="20240807165500 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻21</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807165500 +0800" stop="20240807165500 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻22</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807165500 +0800" stop="20240807165600 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻23</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807165600 +0800" stop="20240807165900 +0800" channel="cctv8k">
 		<title lang="zh">美丽中国-海南岛（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807155900 +0800" stop="20240807160000 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160000 +0800" stop="20240807160000 +0800" channel="cctv8k">
-		<title lang="zh">美术里的中国-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160000 +0800" stop="20240807160100 +0800" channel="cctv8k">
-		<title lang="zh">巅峰食客-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160100 +0800" stop="20240807160100 +0800" channel="cctv8k">
-		<title lang="zh">国家宝藏-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160100 +0800" stop="20240807160200 +0800" channel="cctv8k">
-		<title lang="zh">非遗里的中国（第二季）-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160200 +0800" stop="20240807160200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160200 +0800" stop="20240807160600 +0800" channel="cctv8k">
-		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160600 +0800" stop="20240807160600 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807160600 +0800" stop="20240807163100 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会射击比赛3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807163100 +0800" stop="20240807163200 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807163200 +0800" stop="20240807163200 +0800" channel="cctv8k">
-		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807163200 +0800" stop="20240807163800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏射击10米气步枪混合团体决赛</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807163800 +0800" stop="20240807164800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏跳水女子三米板和游泳女子4×100</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807164800 +0800" stop="20240807165800 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏2</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240807165800 +0800" stop="20240807165900 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会ID（0727）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807165900 +0800" stop="20240807170000 +0800" channel="cctv8k">
