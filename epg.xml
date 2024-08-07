@@ -6530,12 +6530,12 @@
 		<title lang="zh">体坛快讯-巴黎最前沿</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807130500 +0800" stop="20240807135500 +0800" channel="cctv5">
+	<programme start="20240807130500 +0800" stop="20240807133000 +0800" channel="cctv5">
 		<title lang="zh">录像：巴黎奥运会-女排1/4决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807135500 +0800" stop="20240807142000 +0800" channel="cctv5">
-		<title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-9</title>
+	<programme start="20240807133000 +0800" stop="20240807142000 +0800" channel="cctv5">
+		<title lang="zh">直播：巴黎奥运会-田径马拉松竞走混合接力决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807142000 +0800" stop="20240807144500 +0800" channel="cctv5">
@@ -8447,11 +8447,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807120700 +0800" stop="20240807123700 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛5-1/2</title>
+		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛4-1/2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807123700 +0800" stop="20240807125000 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛5-2/2</title>
+		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛4-2/2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807125000 +0800" stop="20240807125200 +0800" channel="cctv8k">
@@ -8530,8 +8530,12 @@
 		<title lang="zh">8K全景呈现-巴黎奥运会射击比赛5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807145300 +0800" stop="20240807145900 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏游泳男子4×100米混合泳接力</title>
+	<programme start="20240807145300 +0800" stop="20240807145800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏射击男子25米手枪速射</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807145800 +0800" stop="20240807145900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-中国跳水40年50金宣传片</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807145900 +0800" stop="20240807145900 +0800" channel="cctv8k">
@@ -8603,7 +8607,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807164300 +0800" stop="20240807165300 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-奥运典藏11</title>
+		<title lang="zh">8K全景呈现-奥运典藏9</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807165300 +0800" stop="20240807165400 +0800" channel="cctv8k">
@@ -8611,11 +8615,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807165400 +0800" stop="20240807165400 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻20</title>
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻18</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807165400 +0800" stop="20240807165500 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻21</title>
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻20</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807165500 +0800" stop="20240807165500 +0800" channel="cctv8k">
@@ -10722,8 +10726,12 @@
 		<title lang="zh">直播：巴黎奥运会-场地自行车 男子团体追逐决赛、女子团体追逐决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240808014000 +0800" stop="20240808031500 +0800" channel="cctv16">
+	<programme start="20240808014000 +0800" stop="20240808020000 +0800" channel="cctv16">
 		<title lang="zh">直播：巴黎奥运会-花样游泳集体技巧自选</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240808020000 +0800" stop="20240808031500 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-乒乓球男子团体半决赛 日本-瑞典</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240808031500 +0800" stop="20240808035500 +0800" channel="cctv16">
@@ -12170,19 +12178,19 @@
 		<title lang="zh">正点财经</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240809170000 +0800" stop="20240809173100 +0800" channel="cctv2">
+	<programme start="20240809170000 +0800" stop="20240809173200 +0800" channel="cctv2">
 		<title lang="zh">正点财经</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240809173100 +0800" stop="20240809174400 +0800" channel="cctv2">
+	<programme start="20240809173200 +0800" stop="20240809174500 +0800" channel="cctv2">
 		<title lang="zh">周末特供2023-乡野有真味2-13分版</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240809174400 +0800" stop="20240809180600 +0800" channel="cctv2">
+	<programme start="20240809174500 +0800" stop="20240809180700 +0800" channel="cctv2">
 		<title lang="zh">2024精品财经纪录-八闽奇味-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240809180600 +0800" stop="20240809183000 +0800" channel="cctv2">
+	<programme start="20240809180700 +0800" stop="20240809183000 +0800" channel="cctv2">
 		<title lang="zh">2024精品财经纪录-八闽奇味-4</title>
 		<desc lang="zh"></desc>
 	</programme>
