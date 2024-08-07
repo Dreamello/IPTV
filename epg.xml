@@ -4842,8 +4842,12 @@
 		<title lang="zh">录像：巴黎奥运会-跳水女子10米台决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240807033000 +0800" stop="20240807053000 +0800" channel="cctv16">
+	<programme start="20240807033000 +0800" stop="20240807043000 +0800" channel="cctv16">
 		<title lang="zh">直播：巴黎奥运会-男篮1/4决赛 巴西-美国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240807043000 +0800" stop="20240807053000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-乒乓球男团半决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240807053000 +0800" stop="20240807070000 +0800" channel="cctv16">
@@ -6662,15 +6666,11 @@
 		<title lang="zh">录像：巴黎奥运会-乒乓球男团、女团半决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240808013000 +0800" stop="20240808033000 +0800" channel="cctv5plus">
+	<programme start="20240808013000 +0800" stop="20240808040500 +0800" channel="cctv5plus">
 		<title lang="zh">直播：巴黎奥运会-举重 女子49公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240808033000 +0800" stop="20240808040000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛2（4K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240808040000 +0800" stop="20240808053000 +0800" channel="cctv5plus">
+	<programme start="20240808040500 +0800" stop="20240808053000 +0800" channel="cctv5plus">
 		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 羽毛球比赛（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7898,12 +7898,12 @@
 		<title lang="zh">直播：巴黎奥运会-花样游泳集体技巧自选</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240808031500 +0800" stop="20240808035500 +0800" channel="cctv16">
+	<programme start="20240808031500 +0800" stop="20240808040600 +0800" channel="cctv16">
 		<title lang="zh">直播：巴黎奥运会-跆拳道女子-49公斤级、男子-58公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240808035500 +0800" stop="20240808050000 +0800" channel="cctv16">
-		<title lang="zh">直播：巴黎奥运会-乒乓球男团半决赛</title>
+	<programme start="20240808040600 +0800" stop="20240808050000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-乒乓球男团半决赛 日本-瑞典</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240808050000 +0800" stop="20240808052800 +0800" channel="cctv16">
