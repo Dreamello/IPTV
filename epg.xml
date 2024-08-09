@@ -6579,7 +6579,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810173000 +0800" stop="20240810200000 +0800" channel="cctv5">
-		<title lang="zh">直播：巴黎奥运会-举重男子102公斤级</title>
+		<title lang="zh">直播：巴黎奥运会-举重男子102公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810200000 +0800" stop="20240810210000 +0800" channel="cctv5">
@@ -6587,7 +6587,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810210000 +0800" stop="20240810233000 +0800" channel="cctv5">
-		<title lang="zh">巴黎奥运会-乒乓球女团决赛</title>
+		<title lang="zh">直播：巴黎奥运会-乒乓球女团决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810233000 +0800" stop="20240810235900 +0800" channel="cctv5">
@@ -6634,8 +6634,40 @@
 		<title lang="zh">录像：巴黎奥运会-花样游泳双人技术自选</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240810130000 +0800" stop="20240810235900 +0800" channel="cctv5plus">
+	<programme start="20240810130000 +0800" stop="20240810140000 +0800" channel="cctv5plus">
 		<title lang="zh">录像：巴黎奥运会-田径各项决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810140000 +0800" stop="20240810161500 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-男子马拉松决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810161500 +0800" stop="20240810173000 +0800" channel="cctv5plus">
+		<title lang="zh">录像：巴黎奥运会-女子曲棍球决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810173000 +0800" stop="20240810182800 +0800" channel="cctv5plus">
+		<title lang="zh">录像：巴黎奥运会-霹雳舞女子决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810182800 +0800" stop="20240810190000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-攀岩女子两项全能难度决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810190000 +0800" stop="20240810210000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-男排决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810210000 +0800" stop="20240810223500 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-跳水男子10米台决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810223500 +0800" stop="20240810230000 +0800" channel="cctv5plus">
+		<title lang="zh">录像：巴黎奥运会-皮划艇各项决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810230000 +0800" stop="20240810235900 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-女足决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810000400 +0800" stop="20240810012700 +0800" channel="cctv6">
@@ -7806,8 +7838,28 @@
 		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水男子3米板决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240810150000 +0800" stop="20240810235900 +0800" channel="cctv16">
-		<title lang="zh">2024年巴黎奥运会-赛事直播 8.10</title>
+	<programme start="20240810150000 +0800" stop="20240810160000 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-花样游泳双人技术自选</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810160000 +0800" stop="20240810190000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-乒乓球女团铜牌赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810190000 +0800" stop="20240810200000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-皮划艇各项决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810200000 +0800" stop="20240810213500 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-艺术体操集体全能</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810213500 +0800" stop="20240810230000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-女子水球决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810230000 +0800" stop="20240810235900 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-举重男子102公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810000100 +0800" stop="20240810002800 +0800" channel="cctv17">
@@ -9343,7 +9395,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240811000000 +0800" stop="20240811011000 +0800" channel="cctv5">
-		<title lang="zh">直播：巴黎奥运会-场地自行车 男子麦迪逊决赛</title>
+		<title lang="zh">直播：巴黎奥运会-场地自行车 男子麦迪逊赛决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240811011000 +0800" stop="20240811013000 +0800" channel="cctv5">
@@ -9412,6 +9464,18 @@
 	</programme>
 	<programme start="20240811233000 +0800" stop="20240811235900 +0800" channel="cctv5">
 		<title lang="zh">体育新闻-巴黎奥运会 闭幕式特别节目</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811010000 +0800" stop="20240811013000 +0800" channel="cctv5plus">
+		<title lang="zh">录像：巴黎奥运会-举重男子102公斤级决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811013000 +0800" stop="20240811033000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-花样游泳双人自由自选</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811033000 +0800" stop="20240811053000 +0800" channel="cctv5plus">
+		<title lang="zh">直播：巴黎奥运会-男篮决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240811053000 +0800" stop="20240811070000 +0800" channel="cctv5plus">
@@ -10548,6 +10612,22 @@
 	</programme>
 	<programme start="20240811233100 +0800" stop="20240811235900 +0800" channel="cctv15">
 		<title lang="zh">2023江山如画系列交响音乐会-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811000000 +0800" stop="20240811022000 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-跳水男子10米台决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811022000 +0800" stop="20240811035000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-跆拳道男子80公斤级以上铜牌赛、决赛 女子67公斤级以上铜牌赛、决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811035000 +0800" stop="20240811043000 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-攀岩女子两项全能决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811043000 +0800" stop="20240811053000 +0800" channel="cctv16">
+		<title lang="zh">直播：巴黎奥运会-沙滩排球男子决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240811053000 +0800" stop="20240811070000 +0800" channel="cctv16">
