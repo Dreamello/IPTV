@@ -7726,8 +7726,12 @@
 		<title lang="zh">直播：巴黎奥运会-男足决赛 法国-西班牙</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240810023000 +0800" stop="20240810033000 +0800" channel="cctv16">
+	<programme start="20240810023000 +0800" stop="20240810031000 +0800" channel="cctv16">
 		<title lang="zh">直播：巴黎奥运会-霹雳舞女子决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240810031000 +0800" stop="20240810033000 +0800" channel="cctv16">
+		<title lang="zh">录像：巴黎奥运会-皮划艇静水各项决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240810033000 +0800" stop="20240810043000 +0800" channel="cctv16">
