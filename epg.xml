@@ -6674,8 +6674,12 @@
 		<title lang="zh">录像：巴黎奥运会-男篮决赛 法国-美国</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811190000 +0800" stop="20240811210000 +0800" channel="cctv5plus">
+	<programme start="20240811190000 +0800" stop="20240811203000 +0800" channel="cctv5plus">
 		<title lang="zh">直播：巴黎奥运会-女排决赛 美国-意大利</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811203000 +0800" stop="20240811210000 +0800" channel="cctv5plus">
+		<title lang="zh">录像：巴黎奥运会-举重男子102公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240811210000 +0800" stop="20240811213500 +0800" channel="cctv5plus">
