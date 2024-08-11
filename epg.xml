@@ -8818,36 +8818,60 @@
 		<title lang="zh">非遗总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811220200 +0800" stop="20240811220200 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20240811220200 +0800" stop="20240811220600 +0800" channel="cctv8k">
+	<programme start="20240811220200 +0800" stop="20240811220500 +0800" channel="cctv8k">
 		<title lang="zh">鹿鸣课堂-宣传片(8K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811220600 +0800" stop="20240811220600 +0800" channel="cctv8k">
+	<programme start="20240811220500 +0800" stop="20240811220700 +0800" channel="cctv8k">
+		<title lang="zh">品牌强国-宣传片3（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811220700 +0800" stop="20240811220700 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运会宣传片-（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811220700 +0800" stop="20240811220800 +0800" channel="cctv8k">
 		<title lang="zh">央视频巴黎奥运-水墨长卷（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811220600 +0800" stop="20240811223600 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛2-1/2</title>
+	<programme start="20240811220800 +0800" stop="20240811223300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会花样游泳双人技术自选</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811223600 +0800" stop="20240811225000 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会游泳比赛2-2/2</title>
+	<programme start="20240811223300 +0800" stop="20240811223400 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会DAY15</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811225000 +0800" stop="20240811225200 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-巴黎奥运会DAY6</title>
+	<programme start="20240811223400 +0800" stop="20240811224400 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏14</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811225200 +0800" stop="20240811225300 +0800" channel="cctv8k">
-		<title lang="zh">8K全景呈现-中国跳水40年50金宣传片</title>
+	<programme start="20240811224400 +0800" stop="20240811224500 +0800" channel="cctv8k">
+		<title lang="zh">央视频巴黎奥运-青花瓷韵（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240811225300 +0800" stop="20240811225900 +0800" channel="cctv8k">
-		<title lang="zh">美丽中国-新疆1（8K）</title>
+	<programme start="20240811224500 +0800" stop="20240811224800 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏皮划艇静水男子500米双人划艇决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811224800 +0800" stop="20240811225300 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-奥运典藏举重59公斤级决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811225300 +0800" stop="20240811225700 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-皮划艇女子双人划艇500米决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811225700 +0800" stop="20240811225800 +0800" channel="cctv8k">
+		<title lang="zh">8K超高清万象-莲·荷</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811225800 +0800" stop="20240811225900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻35</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240811225900 +0800" stop="20240811225900 +0800" channel="cctv8k">
+		<title lang="zh">8K全景呈现-巴黎奥运会夺金时刻36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240811225900 +0800" stop="20240811230000 +0800" channel="cctv8k">
@@ -10311,7 +10335,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240812190000 +0800" stop="20240812193000 +0800" channel="cctv11">
-		<title lang="zh">典藏-2023-79</title>
+		<title lang="zh">典藏-2024-72</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240812193000 +0800" stop="20240812222500 +0800" channel="cctv11">
@@ -13667,7 +13691,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240813005600 +0800" stop="20240813012700 +0800" channel="cctv11">
-		<title lang="zh">典藏-2023-79</title>
+		<title lang="zh">典藏-2024-72</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240813012700 +0800" stop="20240813060600 +0800" channel="cctv11">
