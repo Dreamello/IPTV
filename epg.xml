@@ -7234,15 +7234,15 @@
 		<title lang="zh">从北京到巴黎 中国艺术大展行-85(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241002110000 +0800" stop="20241002120000 +0800" channel="cctv5">
+	<programme start="20241002110000 +0800" stop="20241002123000 +0800" channel="cctv5">
 		<title lang="zh">2024年世乒联大满贯赛(北京站)-单打第二轮等</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241002120000 +0800" stop="20241002123000 +0800" channel="cctv5">
+	<programme start="20241002123000 +0800" stop="20241002130000 +0800" channel="cctv5">
 		<title lang="zh">体坛快讯</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241002123000 +0800" stop="20241002150500 +0800" channel="cctv5">
+	<programme start="20241002130000 +0800" stop="20241002150500 +0800" channel="cctv5">
 		<title lang="zh">2024年世乒联大满贯赛(北京站)-单打第二轮等</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9914,15 +9914,15 @@
 		<title lang="zh">日光之城第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003205500 +0800" stop="20241003205700 +0800" channel="cctv1">
+	<programme start="20241003205500 +0800" stop="20241003205900 +0800" channel="cctv1">
 		<title lang="zh">前情提要-日光之城-第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003205700 +0800" stop="20241003214600 +0800" channel="cctv1">
+	<programme start="20241003205900 +0800" stop="20241003214800 +0800" channel="cctv1">
 		<title lang="zh">日光之城第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003214600 +0800" stop="20241003220000 +0800" channel="cctv1">
+	<programme start="20241003214800 +0800" stop="20241003220000 +0800" channel="cctv1">
 		<title lang="zh">山水间的家-主题曲</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10206,8 +10206,12 @@
 		<title lang="zh">我的艺术清单-2024-25</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003220100 +0800" stop="20241003231100 +0800" channel="cctv3">
+	<programme start="20241003220100 +0800" stop="20241003231000 +0800" channel="cctv3">
 		<title lang="zh">会唱歌的院子-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241003231000 +0800" stop="20241003231100 +0800" channel="cctv3">
+		<title lang="zh">2024江山如画国庆系列音乐会-黄河的交响（三套版）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241003231100 +0800" stop="20241003235700 +0800" channel="cctv3">
@@ -11610,32 +11614,48 @@
 		<title lang="zh">电影-花儿朵朵</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003005300 +0800" stop="20241003060000 +0800" channel="cctv15">
+	<programme start="20241003005300 +0800" stop="20241003013300 +0800" channel="cctv15">
+		<title lang="zh">2024江山如画国庆系列音乐会-黄河的交响-分段版1-直送</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241003013300 +0800" stop="20241003021200 +0800" channel="cctv15">
+		<title lang="zh">2024江山如画国庆系列音乐会-黄河的交响-分段版2-直送</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241003021200 +0800" stop="20241003060000 +0800" channel="cctv15">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003060000 +0800" stop="20241003070400 +0800" channel="cctv15">
+	<programme start="20241003060000 +0800" stop="20241003071300 +0800" channel="cctv15">
 		<title lang="zh">精彩音乐汇-我的爱对你说-2024-258</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003070400 +0800" stop="20241003074200 +0800" channel="cctv15">
+	<programme start="20241003071300 +0800" stop="20241003072300 +0800" channel="cctv15">
+		<title lang="zh">音乐探索计划-崇左</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241003072300 +0800" stop="20241003080200 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2024-291</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003074200 +0800" stop="20241003085400 +0800" channel="cctv15">
+	<programme start="20241003080200 +0800" stop="20241003091400 +0800" channel="cctv15">
 		<title lang="zh">合唱先锋-2024-33</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003085400 +0800" stop="20241003100900 +0800" channel="cctv15">
+	<programme start="20241003091400 +0800" stop="20241003102900 +0800" channel="cctv15">
 		<title lang="zh">民歌·中国-2024-148山歌唱出幸福来2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003100900 +0800" stop="20241003112400 +0800" channel="cctv15">
+	<programme start="20241003102900 +0800" stop="20241003114400 +0800" channel="cctv15">
 		<title lang="zh">精彩音乐汇-我的爱对你说-2024-252</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241003112400 +0800" stop="20241003130800 +0800" channel="cctv15">
-		<title lang="zh">2024江山如画国庆系列音乐会-黄河的交响</title>
+	<programme start="20241003114400 +0800" stop="20241003122400 +0800" channel="cctv15">
+		<title lang="zh">2024江山如画国庆系列音乐会-黄河的交响-分段版1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241003122400 +0800" stop="20241003130800 +0800" channel="cctv15">
+		<title lang="zh">2024江山如画国庆系列音乐会-黄河的交响-分段版2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241003130800 +0800" stop="20241003135700 +0800" channel="cctv15">
@@ -15108,6 +15128,10 @@
 	</programme>
 	<programme start="20241004235600 +0800" stop="20241004235900 +0800" channel="cctv17">
 		<title lang="zh">三农群英汇-2024-272</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241004000000 +0800" stop="20241004060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241004060000 +0800" stop="20241004060100 +0800" channel="cctv4k">
