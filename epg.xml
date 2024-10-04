@@ -6626,15 +6626,11 @@
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241004223600 +0800" stop="20241004225600 +0800" channel="cctv1">
+	<programme start="20241004223600 +0800" stop="20241004231400 +0800" channel="cctv1">
 		<title lang="zh">国之颂-5（播出版）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241004225600 +0800" stop="20241004231000 +0800" channel="cctv1">
-		<title lang="zh">国之颂-5（播出版）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20241004231000 +0800" stop="20241004235900 +0800" channel="cctv1">
+	<programme start="20241004231400 +0800" stop="20241004235900 +0800" channel="cctv1">
 		<title lang="zh">三餐四季-4</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9686,31 +9682,27 @@
 		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005004900 +0800" stop="20241005011800 +0800" channel="cctv1">
+	<programme start="20241005005300 +0800" stop="20241005012200 +0800" channel="cctv1">
 		<title lang="zh">人与自然-2024-179</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005011800 +0800" stop="20241005014800 +0800" channel="cctv1">
+	<programme start="20241005012200 +0800" stop="20241005015200 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005014800 +0800" stop="20241005022000 +0800" channel="cctv1">
+	<programme start="20241005015200 +0800" stop="20241005022400 +0800" channel="cctv1">
 		<title lang="zh">寻宝-文脉春秋-6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005022000 +0800" stop="20241005023000 +0800" channel="cctv1">
+	<programme start="20241005022400 +0800" stop="20241005023400 +0800" channel="cctv1">
 		<title lang="zh">2024秘境之眼-岷山秘岭(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005023000 +0800" stop="20241005024000 +0800" channel="cctv1">
+	<programme start="20241005023400 +0800" stop="20241005024500 +0800" channel="cctv1">
 		<title lang="zh">2024秘境之眼-珠峰下的家园(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005024000 +0800" stop="20241005024400 +0800" channel="cctv1">
-		<title lang="zh">非遗里的中国-MV</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20241005024400 +0800" stop="20241005025100 +0800" channel="cctv1">
+	<programme start="20241005024500 +0800" stop="20241005025100 +0800" channel="cctv1">
 		<title lang="zh">山水间的家-主题曲</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10082,12 +10074,16 @@
 		<title lang="zh">乐在旅途第二季-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005210500 +0800" stop="20241005213300 +0800" channel="cctv3">
+	<programme start="20241005210500 +0800" stop="20241005212800 +0800" channel="cctv3">
 		<title lang="zh">国之颂-4（播出版）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241005213300 +0800" stop="20241005222700 +0800" channel="cctv3">
+	<programme start="20241005212800 +0800" stop="20241005222600 +0800" channel="cctv3">
 		<title lang="zh">综艺盛典-2024-21选对健康21</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241005222600 +0800" stop="20241005222700 +0800" channel="cctv3">
+		<title lang="zh">国之颂-4（播出版）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241005222700 +0800" stop="20241005235900 +0800" channel="cctv3">
@@ -13170,8 +13166,12 @@
 		<title lang="zh">文艺里的新中国-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241006211800 +0800" stop="20241006221600 +0800" channel="cctv3">
+	<programme start="20241006211800 +0800" stop="20241006221500 +0800" channel="cctv3">
 		<title lang="zh">幸福账单-勇者之战-2024-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241006221500 +0800" stop="20241006221600 +0800" channel="cctv3">
+		<title lang="zh">国之颂-5（播出版）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241006221600 +0800" stop="20241006225100 +0800" channel="cctv3">
