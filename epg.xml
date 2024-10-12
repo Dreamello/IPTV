@@ -7286,16 +7286,12 @@
 		<title lang="zh">2024年武汉网球公开赛-女单半决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241012210000 +0800" stop="20241012220500 +0800" channel="cctv5">
+	<programme start="20241012210000 +0800" stop="20241012230000 +0800" channel="cctv5">
 		<title lang="zh">2024/2025赛季斯诺克武汉公开赛-决赛  第二阶段</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241012220500 +0800" stop="20241012233500 +0800" channel="cctv5">
+	<programme start="20241012230000 +0800" stop="20241012235900 +0800" channel="cctv5">
 		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 6</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20241012233500 +0800" stop="20241012235900 +0800" channel="cctv5">
-		<title lang="zh">实况录像-2024年世界职业拳王争霸赛 12</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241012000500 +0800" stop="20241012010500 +0800" channel="cctv5plus">
@@ -7334,12 +7330,16 @@
 		<title lang="zh">实况录像-2024年世界技巧运动锦标赛 2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241012133500 +0800" stop="20241012150000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站1</title>
+	<programme start="20241012133500 +0800" stop="20241012140000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 洛桑站25分钟版</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241012150000 +0800" stop="20241012163000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 6</title>
+	<programme start="20241012140000 +0800" stop="20241012160000 +0800" channel="cctv5plus">
+		<title lang="zh">2024年LPGA高尔夫锦标赛-第三轮</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241012160000 +0800" stop="20241012163000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-2024年世界健美操锦标赛 1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241012163000 +0800" stop="20241012183500 +0800" channel="cctv5plus">
@@ -7350,8 +7350,12 @@
 		<title lang="zh">实况录像-2024年世界职业拳王争霸赛 12</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241012193000 +0800" stop="20241012230500 +0800" channel="cctv5plus">
-		<title lang="zh">2024/2025赛季斯诺克武汉公开赛-决赛  第二阶段</title>
+	<programme start="20241012193000 +0800" stop="20241012220500 +0800" channel="cctv5plus">
+		<title lang="zh">2024/2025赛季中国男子篮球职业联赛常规赛第一轮-（辽宁本钢-浙江稠州金租）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241012220500 +0800" stop="20241012230500 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-2024年世界公路自行车锦标赛 女子决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241012230500 +0800" stop="20241012235900 +0800" channel="cctv5plus">
@@ -8659,7 +8663,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241012211100 +0800" stop="20241012223500 +0800" channel="cctv17">
-		<title lang="zh">乡村大舞台-2024欢乐赶大集9</title>
+		<title lang="zh">乡村大舞台-2024欢乐赶大集8</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241012223500 +0800" stop="20241012230700 +0800" channel="cctv17">
@@ -10434,12 +10438,12 @@
 		<title lang="zh">2024国际皮划艇联合会“杭州超级杯”-激流回旋极限皮艇 决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241013153000 +0800" stop="20241013163000 +0800" channel="cctv5">
-		<title lang="zh">实况录像-2024年世界公路自行车锦标赛 男子决赛</title>
+	<programme start="20241013153000 +0800" stop="20241013170000 +0800" channel="cctv5">
+		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241013163000 +0800" stop="20241013190000 +0800" channel="cctv5">
-		<title lang="zh">2024年ATP1000男子网球大师赛（上海站）-决赛</title>
+	<programme start="20241013170000 +0800" stop="20241013190000 +0800" channel="cctv5">
+		<title lang="zh">2024年武汉网球公开赛-女单决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013190000 +0800" stop="20241013193000 +0800" channel="cctv5">
@@ -10855,7 +10859,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013202800 +0800" stop="20241013212000 +0800" channel="cctv8">
-		<title lang="zh">人民警察13/38</title>
+		<title lang="zh">人民警察第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013212000 +0800" stop="20241013212400 +0800" channel="cctv8">
@@ -11175,11 +11179,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013114700 +0800" stop="20241013123800 +0800" channel="cctv11">
-		<title lang="zh">爱在青山绿水间30/33</title>
+		<title lang="zh">爱在青山绿水间第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013123800 +0800" stop="20241013132800 +0800" channel="cctv11">
-		<title lang="zh">爱在青山绿水间31/33</title>
+		<title lang="zh">爱在青山绿水间第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013132800 +0800" stop="20241013144900 +0800" channel="cctv11">
@@ -11191,11 +11195,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013171300 +0800" stop="20241013180300 +0800" channel="cctv11">
-		<title lang="zh">天龙八部39/50</title>
+		<title lang="zh">天龙八部第39集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013180300 +0800" stop="20241013190000 +0800" channel="cctv11">
-		<title lang="zh">天龙八部40/50</title>
+		<title lang="zh">天龙八部第40集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013190000 +0800" stop="20241013193000 +0800" channel="cctv11">
@@ -11211,15 +11215,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013215300 +0800" stop="20241013224300 +0800" channel="cctv11">
-		<title lang="zh">亲爱的自己25/45</title>
+		<title lang="zh">亲爱的自己第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013224300 +0800" stop="20241013233400 +0800" channel="cctv11">
-		<title lang="zh">亲爱的自己26/45</title>
+		<title lang="zh">亲爱的自己第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013233400 +0800" stop="20241013235900 +0800" channel="cctv11">
-		<title lang="zh">亲爱的自己27/45</title>
+		<title lang="zh">亲爱的自己第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241013004000 +0800" stop="20241013012300 +0800" channel="cctv12">
@@ -13875,7 +13879,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241014064700 +0800" stop="20241014074300 +0800" channel="cctvjilu">
-		<title lang="zh">魅力万象2024-287</title>
+		<title lang="zh">全景自然2024-259</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241014074300 +0800" stop="20241014075900 +0800" channel="cctvjilu">
@@ -14114,8 +14118,12 @@
 		<title lang="zh">科学动物园-2024-41</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20241014002400 +0800" stop="20241014060600 +0800" channel="cctv11">
+	<programme start="20241014002400 +0800" stop="20241014005500 +0800" channel="cctv11">
 		<title lang="zh">典藏-2024-123</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20241014005500 +0800" stop="20241014060600 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20241014060600 +0800" stop="20241014071600 +0800" channel="cctv11">
