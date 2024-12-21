@@ -31,7 +31,6 @@ cctv_channel = [
 ]
 sat_channel = [
     'btv1',
-    'btvjishi',
     'dongfang',
     'hunan',
     'zhejiang',
@@ -61,7 +60,6 @@ cctv_channel_icons = [
     'https://dl.dropbox.com/scl/fi/sujeb9bcsgurrp15kegl0/CCTV-8K.png?rlkey=bsidcmjxs3taqni1j5kpyq3j8'
 ]
 sat_channel_icons = [
-    'https://dl.dropbox.com/scl/fi/dhtbhy67kr69k6uidz0rv/1.png?rlkey=8zjtxfmc1h4nrn3nn61wb9qtq',
     'https://dl.dropbox.com/scl/fi/dhtbhy67kr69k6uidz0rv/1.png?rlkey=8zjtxfmc1h4nrn3nn61wb9qtq',
     'https://dl.dropbox.com/scl/fi/ffac4toysvpi4ernq7wn1/.png?rlkey=f77saehqlsj5yx565tohhgzbl',
     'https://dl.dropbox.com/scl/fi/ihpbx4huat72oewdad6tv/.png?rlkey=d4afrv6tgtb2cinxdcz2dqvh3',
