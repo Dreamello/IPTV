@@ -113,7 +113,7 @@ def getChannelEPG(fhandle, channelID):
                 et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
 
                 fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
-                fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
+                fhandle.write(f'\t\t<title lang="zh">{detail["t"].replace("<", "[").replace(">", "]")}</title>\n')
                 fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
                 fhandle.write('\t</programme>\n')
 
