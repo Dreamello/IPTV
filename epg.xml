@@ -7209,7 +7209,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250112210500 +0800" stop="20250112235900 +0800" channel="cctv5plus">
-		<title lang="zh">2024/2025赛季斯诺克大师赛-第1轮1（奥沙利文—希金斯）</title>
+		<title lang="zh">2024/2025赛季斯诺克大师赛-第1轮1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250112004000 +0800" stop="20250112021400 +0800" channel="cctv6">
@@ -11460,11 +11460,11 @@
 		<title lang="zh">世界周刊</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113050000 +0800" stop="20250113051600 +0800" channel="cctv13">
+	<programme start="20250113050000 +0800" stop="20250113051200 +0800" channel="cctv13">
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113051600 +0800" stop="20250113060000 +0800" channel="cctv13">
+	<programme start="20250113051200 +0800" stop="20250113060000 +0800" channel="cctv13">
 		<title lang="zh">面对面</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11488,11 +11488,11 @@
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113120000 +0800" stop="20250113123300 +0800" channel="cctv13">
+	<programme start="20250113120000 +0800" stop="20250113123400 +0800" channel="cctv13">
 		<title lang="zh">新闻30分</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113123300 +0800" stop="20250113130000 +0800" channel="cctv13">
+	<programme start="20250113123400 +0800" stop="20250113130000 +0800" channel="cctv13">
 		<title lang="zh">法治在线</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11500,11 +11500,11 @@
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113140000 +0800" stop="20250113141600 +0800" channel="cctv13">
+	<programme start="20250113140000 +0800" stop="20250113141200 +0800" channel="cctv13">
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113141600 +0800" stop="20250113150000 +0800" channel="cctv13">
+	<programme start="20250113141200 +0800" stop="20250113150000 +0800" channel="cctv13">
 		<title lang="zh">面对面</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11524,11 +11524,15 @@
 		<title lang="zh">共同关注</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113190000 +0800" stop="20250113194000 +0800" channel="cctv13">
+	<programme start="20250113190000 +0800" stop="20250113193200 +0800" channel="cctv13">
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250113194000 +0800" stop="20250113200000 +0800" channel="cctv13">
+	<programme start="20250113193200 +0800" stop="20250113193900 +0800" channel="cctv13">
+		<title lang="zh">天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250113193900 +0800" stop="20250113200000 +0800" channel="cctv13">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11849,19 +11853,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113092900 +0800" stop="20250113102000 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇33/39</title>
+		<title lang="zh">刘家媳妇第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113102000 +0800" stop="20250113111100 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇34/39</title>
+		<title lang="zh">刘家媳妇第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113111100 +0800" stop="20250113113400 +0800" channel="cctv17">
-		<title lang="zh">乡村剧场（栏目剧）-福鼎一家人-29/48</title>
+		<title lang="zh">乡村剧场(栏目剧)-福鼎一家人-29/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113113400 +0800" stop="20250113120000 +0800" channel="cctv17">
-		<title lang="zh">乡村剧场（栏目剧）-福鼎一家人-30/48</title>
+		<title lang="zh">乡村剧场(栏目剧)-福鼎一家人-30/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113120000 +0800" stop="20250113123100 +0800" channel="cctv17">
@@ -11881,19 +11885,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113133500 +0800" stop="20250113142700 +0800" channel="cctv17">
-		<title lang="zh">青年霍元甲之威震津门24/39</title>
+		<title lang="zh">青年霍元甲之威震津门第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113142700 +0800" stop="20250113151900 +0800" channel="cctv17">
-		<title lang="zh">青年霍元甲之威震津门25/39</title>
+		<title lang="zh">青年霍元甲之威震津门第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113151900 +0800" stop="20250113161100 +0800" channel="cctv17">
-		<title lang="zh">青年霍元甲之威震津门26/39</title>
+		<title lang="zh">青年霍元甲之威震津门第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113161100 +0800" stop="20250113170000 +0800" channel="cctv17">
-		<title lang="zh">青年霍元甲之威震津门27/39</title>
+		<title lang="zh">青年霍元甲之威震津门第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113170000 +0800" stop="20250113173000 +0800" channel="cctv17">
@@ -11909,19 +11913,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113183500 +0800" stop="20250113192900 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇35/39</title>
+		<title lang="zh">刘家媳妇第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113192900 +0800" stop="20250113202300 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇36/39</title>
+		<title lang="zh">刘家媳妇第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113202300 +0800" stop="20250113204700 +0800" channel="cctv17">
-		<title lang="zh">乡村剧场（栏目剧）-福鼎一家人-31/48</title>
+		<title lang="zh">乡村剧场(栏目剧)-福鼎一家人-31/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113204700 +0800" stop="20250113211400 +0800" channel="cctv17">
-		<title lang="zh">乡村剧场（栏目剧）-福鼎一家人-32/48</title>
+		<title lang="zh">乡村剧场(栏目剧)-福鼎一家人-32/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250113211400 +0800" stop="20250113214400 +0800" channel="cctv17">
@@ -14728,15 +14732,15 @@
 		<title lang="zh">午夜新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114010000 +0800" stop="20250114012000 +0800" channel="cctv13">
+	<programme start="20250114010000 +0800" stop="20250114012100 +0800" channel="cctv13">
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114012000 +0800" stop="20250114013600 +0800" channel="cctv13">
+	<programme start="20250114012100 +0800" stop="20250114013700 +0800" channel="cctv13">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114013600 +0800" stop="20250114020000 +0800" channel="cctv13">
+	<programme start="20250114013700 +0800" stop="20250114020000 +0800" channel="cctv13">
 		<title lang="zh">法治在线</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14764,15 +14768,15 @@
 		<title lang="zh">新闻1+1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114050000 +0800" stop="20250114051700 +0800" channel="cctv13">
+	<programme start="20250114050000 +0800" stop="20250114051800 +0800" channel="cctv13">
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114051700 +0800" stop="20250114053300 +0800" channel="cctv13">
+	<programme start="20250114051800 +0800" stop="20250114053400 +0800" channel="cctv13">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114053300 +0800" stop="20250114060000 +0800" channel="cctv13">
+	<programme start="20250114053400 +0800" stop="20250114060000 +0800" channel="cctv13">
 		<title lang="zh">法治在线</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14792,11 +14796,11 @@
 		<title lang="zh">新闻直播间</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114120000 +0800" stop="20250114123300 +0800" channel="cctv13">
+	<programme start="20250114120000 +0800" stop="20250114123400 +0800" channel="cctv13">
 		<title lang="zh">新闻30分</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114123300 +0800" stop="20250114130000 +0800" channel="cctv13">
+	<programme start="20250114123400 +0800" stop="20250114130000 +0800" channel="cctv13">
 		<title lang="zh">法治在线</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14824,8 +14828,12 @@
 		<title lang="zh">共同关注</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114190000 +0800" stop="20250114194000 +0800" channel="cctv13">
+	<programme start="20250114190000 +0800" stop="20250114193200 +0800" channel="cctv13">
 		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250114193200 +0800" stop="20250114194000 +0800" channel="cctv13">
+		<title lang="zh">天气预报</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250114194000 +0800" stop="20250114200000 +0800" channel="cctv13">
@@ -14854,6 +14862,10 @@
 	</programme>
 	<programme start="20250114230000 +0800" stop="20250114235900 +0800" channel="cctv13">
 		<title lang="zh">24小时</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250114001300 +0800" stop="20250114060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250114060000 +0800" stop="20250114063000 +0800" channel="cctvchild">
@@ -15104,8 +15116,12 @@
 		<title lang="zh">共富经-2025-11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250114003200 +0800" stop="20250114055500 +0800" channel="cctv17">
+	<programme start="20250114003200 +0800" stop="20250114010500 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2025-9</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250114010500 +0800" stop="20250114055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250114055500 +0800" stop="20250114060500 +0800" channel="cctv17">
