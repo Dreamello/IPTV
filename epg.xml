@@ -10312,20 +10312,20 @@
 		<title lang="zh">开门大吉-2024-45</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123132900 +0800" stop="20250123133300 +0800" channel="cctv3">
-		<title lang="zh">悦读一夏-古村·古俗</title>
+	<programme start="20250123132900 +0800" stop="20250123133400 +0800" channel="cctv3">
+		<title lang="zh">悦读一夏-野猫记</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123133300 +0800" stop="20250123142800 +0800" channel="cctv3">
-		<title lang="zh">幸福账单-勇者之战-2025-3</title>
+	<programme start="20250123133400 +0800" stop="20250123140900 +0800" channel="cctv3">
+		<title lang="zh">黄金100秒-2025-3TOP音乐咖3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123142800 +0800" stop="20250123155100 +0800" channel="cctv3">
-		<title lang="zh">向幸福出发-2025-3</title>
+	<programme start="20250123140900 +0800" stop="20250123155000 +0800" channel="cctv3">
+		<title lang="zh">中央广播电视总台2025网络春晚-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123155100 +0800" stop="20250123155500 +0800" channel="cctv3">
-		<title lang="zh">悦读一夏-古村·古俗</title>
+	<programme start="20250123155000 +0800" stop="20250123155500 +0800" channel="cctv3">
+		<title lang="zh">悦读一夏-北京的春节（腊八）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250123155500 +0800" stop="20250123172000 +0800" channel="cctv3">
@@ -10516,24 +10516,16 @@
 		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123193000 +0800" stop="20250123200000 +0800" channel="cctv4">
+	<programme start="20250123193000 +0800" stop="20250123200600 +0800" channel="cctv4">
 		<title lang="zh">今日亚洲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123200000 +0800" stop="20250123203000 +0800" channel="cctv4">
-		<title lang="zh">记住乡愁2025-5</title>
+	<programme start="20250123200600 +0800" stop="20250123214000 +0800" channel="cctv4">
+		<title lang="zh">2024年经典之夜年度盛典-(四套）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123203000 +0800" stop="20250123210000 +0800" channel="cctv4">
-		<title lang="zh">海峡两岸-2025-23</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250123210000 +0800" stop="20250123213000 +0800" channel="cctv4">
-		<title lang="zh">中国新闻</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250123213000 +0800" stop="20250123220000 +0800" channel="cctv4">
-		<title lang="zh">今日关注</title>
+	<programme start="20250123214000 +0800" stop="20250123220000 +0800" channel="cctv4">
+		<title lang="zh">平凡匠心-2024-55</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250123220000 +0800" stop="20250123223000 +0800" channel="cctv4">
@@ -11477,7 +11469,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250123075200 +0800" stop="20250123083500 +0800" channel="cctv12">
-		<title lang="zh">现场-2024-54</title>
+		<title lang="zh">现场-2024-51</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250123083500 +0800" stop="20250123091000 +0800" channel="cctv12">
@@ -13232,8 +13224,12 @@
 		<title lang="zh">8K超高清万象-大寒2024</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250123225900 +0800" stop="20250123235900 +0800" channel="cctv8k">
+	<programme start="20250123225900 +0800" stop="20250123230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250123230000 +0800" stop="20250123235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250124011600 +0800" stop="20250124014400 +0800" channel="cctv1">
