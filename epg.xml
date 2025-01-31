@@ -12409,19 +12409,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201134800 +0800" stop="20250201143700 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远9/45</title>
+		<title lang="zh">回家的路有多远第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201143700 +0800" stop="20250201152600 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远10/45</title>
+		<title lang="zh">回家的路有多远第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201152600 +0800" stop="20250201161700 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远11/45</title>
+		<title lang="zh">回家的路有多远第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201161700 +0800" stop="20250201170500 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远12/45</title>
+		<title lang="zh">回家的路有多远第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201170500 +0800" stop="20250201173100 +0800" channel="cctv17">
@@ -12437,11 +12437,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201183100 +0800" stop="20250201192400 +0800" channel="cctv17">
-		<title lang="zh">岁岁年年柿柿红26/39</title>
+		<title lang="zh">岁岁年年柿柿红第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201192400 +0800" stop="20250201201100 +0800" channel="cctv17">
-		<title lang="zh">岁岁年年柿柿红27/39</title>
+		<title lang="zh">岁岁年年柿柿红第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250201201100 +0800" stop="20250201213800 +0800" channel="cctv17">
@@ -13992,8 +13992,12 @@
 		<title lang="zh">记住乡愁-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250201225900 +0800" stop="20250201235900 +0800" channel="cctv8k">
+	<programme start="20250201225900 +0800" stop="20250201230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250201230000 +0800" stop="20250201235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202002600 +0800" stop="20250202003800 +0800" channel="cctv1">
@@ -14696,8 +14700,12 @@
 		<title lang="zh">国防微视频-军歌嘹亮-强军路上大步走 （2025年）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250202003200 +0800" stop="20250202060300 +0800" channel="cctv7">
+	<programme start="20250202003200 +0800" stop="20250202011500 +0800" channel="cctv7">
 		<title lang="zh">第二战场-2025-5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250202011500 +0800" stop="20250202060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202060300 +0800" stop="20250202063300 +0800" channel="cctv7">
@@ -15076,8 +15084,12 @@
 		<title lang="zh">科幻地带-2025-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250202021600 +0800" stop="20250202060000 +0800" channel="cctv10">
+	<programme start="20250202021600 +0800" stop="20250202025600 +0800" channel="cctv10">
 		<title lang="zh">百家讲坛-天行健-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250202025600 +0800" stop="20250202060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202060000 +0800" stop="20250202061000 +0800" channel="cctv10">
@@ -15300,8 +15312,12 @@
 		<title lang="zh">小区大事-2025-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250202015200 +0800" stop="20250202060300 +0800" channel="cctv12">
+	<programme start="20250202015200 +0800" stop="20250202024300 +0800" channel="cctv12">
 		<title lang="zh">方圆剧阵2025-32</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250202024300 +0800" stop="20250202060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202060300 +0800" stop="20250202063600 +0800" channel="cctv12">
@@ -15774,6 +15790,10 @@
 	</programme>
 	<programme start="20250202225000 +0800" stop="20250202235900 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-2024/2025赛季花样滑冰大奖赛 加拿大站2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250202005500 +0800" stop="20250202055400 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202055400 +0800" stop="20250202060400 +0800" channel="cctv17">
