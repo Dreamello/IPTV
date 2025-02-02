@@ -8505,7 +8505,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202213500 +0800" stop="20250202235900 +0800" channel="cctvchild">
-		<title lang="zh">2025年春节联欢晚会-重播（媒资）</title>
+		<title lang="zh">2025年春节联欢晚会-完整版</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250202002600 +0800" stop="20250202011300 +0800" channel="cctv15">
@@ -11920,7 +11920,7 @@
 		<title lang="zh">24小时</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250203020500 +0800" stop="20250203060000 +0800" channel="cctvchild">
+	<programme start="20250203021300 +0800" stop="20250203060000 +0800" channel="cctvchild">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -13380,8 +13380,12 @@
 		<title lang="zh">舞蹈世界-在中国大地上边走边跳贵州站（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250203215900 +0800" stop="20250203235900 +0800" channel="cctv8k">
+	<programme start="20250203215900 +0800" stop="20250203220000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250203220000 +0800" stop="20250203235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250204011000 +0800" stop="20250204013700 +0800" channel="cctv1">
@@ -14224,8 +14228,12 @@
 		<title lang="zh">军事纪实-2025-24</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250204004700 +0800" stop="20250204060300 +0800" channel="cctv7">
+	<programme start="20250204004700 +0800" stop="20250204012500 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2025-24</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250204012500 +0800" stop="20250204060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250204060300 +0800" stop="20250204063300 +0800" channel="cctv7">
