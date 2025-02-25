@@ -7113,7 +7113,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250225200600 +0800" stop="20250225205500 +0800" channel="cctv1">
-		<title lang="zh">六姊妹33/38</title>
+		<title lang="zh">六姊妹第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250225205500 +0800" stop="20250225205800 +0800" channel="cctv1">
@@ -7121,7 +7121,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250225205800 +0800" stop="20250225220000 +0800" channel="cctv1">
-		<title lang="zh">六姊妹34/38</title>
+		<title lang="zh">六姊妹第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250225220000 +0800" stop="20250225223600 +0800" channel="cctv1">
@@ -10613,7 +10613,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250226205500 +0800" stop="20250226205600 +0800" channel="cctv1">
-		<title lang="zh">前情提要-六姊妹-36/38</title>
+		<title lang="zh">前情提要-六姊妹-第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250226205600 +0800" stop="20250226220000 +0800" channel="cctv1">
@@ -10977,22 +10977,22 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250226092800 +0800" stop="20250226100000 +0800" channel="cctv4">
-		<title lang="zh">中国文艺-2025-40</title>
+		<title lang="zh">走遍中国-2025-29</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226100000 +0800" stop="20250226101000 +0800" channel="cctv4">
-		<title lang="zh">中国新闻</title>
+	<programme start="20250226100000 +0800" stop="20250226103300 +0800" channel="cctv4">
+		<title lang="zh">2025年国台办发布会-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226101000 +0800" stop="20250226105500 +0800" channel="cctv4">
-		<title lang="zh">远方的家2025-19</title>
+	<programme start="20250226103300 +0800" stop="20250226110100 +0800" channel="cctv4">
+		<title lang="zh">走遍中国-2025-30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226105500 +0800" stop="20250226112600 +0800" channel="cctv4">
-		<title lang="zh">记住乡愁2025-33</title>
+	<programme start="20250226110100 +0800" stop="20250226113000 +0800" channel="cctv4">
+		<title lang="zh">走遍中国-2025-31</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226112600 +0800" stop="20250226120000 +0800" channel="cctv4">
+	<programme start="20250226113000 +0800" stop="20250226120000 +0800" channel="cctv4">
 		<title lang="zh">海峡两岸-2025-56</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11212,16 +11212,16 @@
 		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站  钢架雪车混合团体</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226140000 +0800" stop="20250226170000 +0800" channel="cctv5plus">
+	<programme start="20250226140000 +0800" stop="20250226163000 +0800" channel="cctv5plus">
 		<title lang="zh">2024/2025赛季斯诺克世界公开赛-第4轮1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226170000 +0800" stop="20250226180000 +0800" channel="cctv5plus">
-		<title lang="zh">2024/2025赛季自由式滑雪世界杯-加拿大斯托纳姆站 女子坡面障碍技巧决赛（4K）</title>
+	<programme start="20250226163000 +0800" stop="20250226183500 +0800" channel="cctv5plus">
+		<title lang="zh">2024/2025赛季中国冰壶联赛（吕梁站）-混双决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226180000 +0800" stop="20250226193000 +0800" channel="cctv5plus">
-		<title lang="zh">2024/2025西班牙足球甲级联赛-第25轮（皇家马德里-赫罗纳）（4K）</title>
+	<programme start="20250226183500 +0800" stop="20250226193000 +0800" channel="cctv5plus">
+		<title lang="zh">2024/2025赛季单板滑雪世界杯-加拿大卡尔加里站 坡面障碍技巧决赛（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250226193000 +0800" stop="20250226204500 +0800" channel="cctv5plus">
@@ -12416,24 +12416,12 @@
 		<title lang="zh">实况录像（奥林匹克）-2025年世界高山滑雪锦标赛3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226103500 +0800" stop="20250226110500 +0800" channel="cctv16">
-		<title lang="zh">奥林匹克典藏-东京奥运会射击女子10米气步枪决赛</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250226110500 +0800" stop="20250226120000 +0800" channel="cctv16">
-		<title lang="zh">奥林匹克典藏-2022年北京冬奥会 速度滑冰男子500米</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250226120000 +0800" stop="20250226122000 +0800" channel="cctv16">
-		<title lang="zh">艺术里的奥林匹克-2024-55</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250226122000 +0800" stop="20250226123500 +0800" channel="cctv16">
-		<title lang="zh">场•面-2025-6</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250226123500 +0800" stop="20250226133500 +0800" channel="cctv16">
+	<programme start="20250226103500 +0800" stop="20250226113000 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-哈尔滨2025年亚冬会 自由式滑雪U型场地决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250226113000 +0800" stop="20250226133500 +0800" channel="cctv16">
+		<title lang="zh">2024/2025赛季中国冰壶联赛（吕梁站）-混双半决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250226133500 +0800" stop="20250226150000 +0800" channel="cctv16">
@@ -14064,8 +14052,12 @@
 		<title lang="zh">2025年春节联欢晚会-幽兰（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250226225900 +0800" stop="20250226235900 +0800" channel="cctv8k">
+	<programme start="20250226225900 +0800" stop="20250226230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250226230000 +0800" stop="20250226235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250227005000 +0800" stop="20250227012000 +0800" channel="cctv1">
@@ -14880,8 +14872,12 @@
 		<title lang="zh">丛林奇航</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250227000400 +0800" stop="20250227060300 +0800" channel="cctv7">
+	<programme start="20250227000400 +0800" stop="20250227004200 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2025-41</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250227004200 +0800" stop="20250227060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250227060300 +0800" stop="20250227063300 +0800" channel="cctv7">
@@ -15320,8 +15316,12 @@
 		<title lang="zh">创新进行时-2025-41</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250227022600 +0800" stop="20250227060000 +0800" channel="cctv10">
+	<programme start="20250227022600 +0800" stop="20250227030600 +0800" channel="cctv10">
 		<title lang="zh">百家讲坛-2025-57</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250227030600 +0800" stop="20250227060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250227060000 +0800" stop="20250227061000 +0800" channel="cctv10">
@@ -15536,8 +15536,12 @@
 		<title lang="zh">2024社会与法电视剧精选-特战行动-2/35</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250227012900 +0800" stop="20250227060300 +0800" channel="cctv12">
+	<programme start="20250227012900 +0800" stop="20250227022300 +0800" channel="cctv12">
 		<title lang="zh">方圆剧阵2025-57</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250227022300 +0800" stop="20250227060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250227060300 +0800" stop="20250227063600 +0800" channel="cctv12">
