@@ -13525,23 +13525,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250316210000 +0800" stop="20250316210100 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣（第二季）-宣传片（8K）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250316210100 +0800" stop="20250316210100 +0800" channel="cctv8k">
 		<title lang="zh">简牍探中华-宣传片1（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250316210100 +0800" stop="20250316210200 +0800" channel="cctv8k">
+	<programme start="20250316210100 +0800" stop="20250316210100 +0800" channel="cctv8k">
 		<title lang="zh">澳门双行线-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250316210200 +0800" stop="20250316210200 +0800" channel="cctv8k">
+	<programme start="20250316210100 +0800" stop="20250316210200 +0800" channel="cctv8k">
 		<title lang="zh">主持人大赛-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250316210200 +0800" stop="20250316210300 +0800" channel="cctv8k">
-		<title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+		<title lang="zh">品牌强国总宣-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250316210300 +0800" stop="20250316210400 +0800" channel="cctv8k">
@@ -13593,7 +13589,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250316220000 +0800" stop="20250316220100 +0800" channel="cctv8k">
-		<title lang="zh">三餐四季总宣（第二季）-宣传片（8K）</title>
+		<title lang="zh">主持人大赛-宣传片（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250316220100 +0800" stop="20250316220100 +0800" channel="cctv8k">
@@ -13664,8 +13660,12 @@
 		<title lang="zh">2025年春节联欢晚会-幽兰（8K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250316225900 +0800" stop="20250316235900 +0800" channel="cctv8k">
+	<programme start="20250316225900 +0800" stop="20250316230000 +0800" channel="cctv8k">
 		<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250316230000 +0800" stop="20250316235900 +0800" channel="cctv8k">
+		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250317010600 +0800" stop="20250317013600 +0800" channel="cctv1">
