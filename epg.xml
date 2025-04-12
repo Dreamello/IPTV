@@ -10084,11 +10084,11 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250413200600 +0800" stop="20250413215100 +0800" channel="cctv1">
+	<programme start="20250413200600 +0800" stop="20250413215000 +0800" channel="cctv1">
 		<title lang="zh">三餐四季（第二季）-7（福建篇）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250413215100 +0800" stop="20250413220000 +0800" channel="cctv1">
+	<programme start="20250413215000 +0800" stop="20250413220000 +0800" channel="cctv1">
 		<title lang="zh">山水间的家-主题曲</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10296,12 +10296,16 @@
 		<title lang="zh">我爱满堂彩-2025-9一笑一周</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250413144000 +0800" stop="20250413160800 +0800" channel="cctv3">
+	<programme start="20250413144000 +0800" stop="20250413162200 +0800" channel="cctv3">
 		<title lang="zh">乐在旅途第三季-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250413160800 +0800" stop="20250413173200 +0800" channel="cctv3">
-		<title lang="zh">向幸福出发-2025-6</title>
+	<programme start="20250413162200 +0800" stop="20250413162500 +0800" channel="cctv3">
+		<title lang="zh">悦读一夏-旅行的艺术</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250413162500 +0800" stop="20250413173200 +0800" channel="cctv3">
+		<title lang="zh">综艺盛典-2025-13选对健康13</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250413173200 +0800" stop="20250413181000 +0800" channel="cctv3">
