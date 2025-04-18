@@ -7464,24 +7464,24 @@
 		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250418143000 +0800" stop="20250418151200 +0800" channel="cctv4">
-		<title lang="zh">特赦1959-（四套）-18/39</title>
+	<programme start="20250418143000 +0800" stop="20250418150000 +0800" channel="cctv4">
+		<title lang="zh">走遍中国-2025-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250418151200 +0800" stop="20250418155300 +0800" channel="cctv4">
-		<title lang="zh">特赦1959-（四套）-19/39</title>
+	<programme start="20250418150000 +0800" stop="20250418160000 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250418155300 +0800" stop="20250418163500 +0800" channel="cctv4">
-		<title lang="zh">特赦1959-（四套）-20/39</title>
+	<programme start="20250418160000 +0800" stop="20250418170000 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250418163500 +0800" stop="20250418171600 +0800" channel="cctv4">
-		<title lang="zh">特赦1959-（四套）-21/39</title>
+	<programme start="20250418170000 +0800" stop="20250418173300 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250418171600 +0800" stop="20250418180000 +0800" channel="cctv4">
-		<title lang="zh">特赦1959-（四套）-22/39</title>
+	<programme start="20250418173300 +0800" stop="20250418180000 +0800" channel="cctv4">
+		<title lang="zh">国家记忆-2025-15</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418180000 +0800" stop="20250418183000 +0800" channel="cctv4">
@@ -7489,7 +7489,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418183000 +0800" stop="20250418190000 +0800" channel="cctv4">
-		<title lang="zh">中国文艺-2025-78</title>
+		<title lang="zh">国家记忆-2024-134</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418190000 +0800" stop="20250418193000 +0800" channel="cctv4">
@@ -7501,7 +7501,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418200000 +0800" stop="20250418203000 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-15</title>
+		<title lang="zh">国家记忆-2024-135</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418203000 +0800" stop="20250418210000 +0800" channel="cctv4">
@@ -8045,7 +8045,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418193000 +0800" stop="20250418202400 +0800" channel="cctv8">
-		<title lang="zh">蛮好的人生3/36</title>
+		<title lang="zh">蛮好的人生第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418202400 +0800" stop="20250418202900 +0800" channel="cctv8">
@@ -8053,15 +8053,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418202900 +0800" stop="20250418212100 +0800" channel="cctv8">
-		<title lang="zh">蛮好的人生4/36</title>
+		<title lang="zh">蛮好的人生第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418212100 +0800" stop="20250418212400 +0800" channel="cctv8">
-		<title lang="zh">本集提要-借命而生-1/12</title>
+		<title lang="zh">本集提要-借命而生-第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418212400 +0800" stop="20250418221400 +0800" channel="cctv8">
-		<title lang="zh">借命而生1/12</title>
+		<title lang="zh">借命而生第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250418221400 +0800" stop="20250418221600 +0800" channel="cctv8">
@@ -10424,20 +10424,20 @@
 		<title lang="zh">朝闻天下</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419083700 +0800" stop="20250419092500 +0800" channel="cctv1">
+	<programme start="20250419083700 +0800" stop="20250419092400 +0800" channel="cctv1">
+		<title lang="zh">生活早参考-特别节目（生活圈）2025-78</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250419092400 +0800" stop="20250419101300 +0800" channel="cctv1">
 		<title lang="zh">我的后半生第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419092500 +0800" stop="20250419101400 +0800" channel="cctv1">
+	<programme start="20250419101300 +0800" stop="20250419110600 +0800" channel="cctv1">
 		<title lang="zh">我的后半生第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419101400 +0800" stop="20250419110700 +0800" channel="cctv1">
+	<programme start="20250419110600 +0800" stop="20250419115400 +0800" channel="cctv1">
 		<title lang="zh">我的后半生第28集</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250419110700 +0800" stop="20250419115400 +0800" channel="cctv1">
-		<title lang="zh">我的后半生第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419115400 +0800" stop="20250419120000 +0800" channel="cctv1">
@@ -10897,7 +10897,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419220000 +0800" stop="20250419223000 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2024-96</title>
+		<title lang="zh">国家记忆-2025-9</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419223000 +0800" stop="20250419230400 +0800" channel="cctv4">
@@ -10909,7 +10909,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419235900 +0800" stop="20250419235900 +0800" channel="cctv4">
-		<title lang="zh">兰桐花开第11集</title>
+		<title lang="zh">最美的乡村第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419010000 +0800" stop="20250419023000 +0800" channel="cctv5">
@@ -11401,7 +11401,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419212100 +0800" stop="20250419212400 +0800" channel="cctv8">
-		<title lang="zh">本集提要-借命而生-2/12</title>
+		<title lang="zh">本集提要-借命而生-第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419212400 +0800" stop="20250419221400 +0800" channel="cctv8">
@@ -11648,28 +11648,32 @@
 		<title lang="zh">味道-2025-40</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419193100 +0800" stop="20250419203100 +0800" channel="cctv10">
+	<programme start="20250419193100 +0800" stop="20250419203000 +0800" channel="cctv10">
 		<title lang="zh">自然传奇-2025-109</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419203100 +0800" stop="20250419212000 +0800" channel="cctv10">
+	<programme start="20250419203000 +0800" stop="20250419203100 +0800" channel="cctv10">
+		<title lang="zh">欣赏-2025年30秒-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250419203100 +0800" stop="20250419212100 +0800" channel="cctv10">
+		<title lang="zh">习近平经济思想系列讲读-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250419212100 +0800" stop="20250419221100 +0800" channel="cctv10">
 		<title lang="zh">探索·发现-2025-109</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419212000 +0800" stop="20250419215800 +0800" channel="cctv10">
-		<title lang="zh">实验现场-2025-15</title>
+	<programme start="20250419221100 +0800" stop="20250419224800 +0800" channel="cctv10">
+		<title lang="zh">实验现场-2025-16</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419215800 +0800" stop="20250419225500 +0800" channel="cctv10">
-		<title lang="zh">2024科教纪录片精选-38</title>
+	<programme start="20250419224800 +0800" stop="20250419234200 +0800" channel="cctv10">
+		<title lang="zh">2025大千世界-47</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250419225500 +0800" stop="20250419232600 +0800" channel="cctv10">
+	<programme start="20250419234200 +0800" stop="20250419235900 +0800" channel="cctv10">
 		<title lang="zh">味道-2025-40</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250419232600 +0800" stop="20250419235900 +0800" channel="cctv10">
-		<title lang="zh">探索·发现-2025-109</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250419002600 +0800" stop="20250419005700 +0800" channel="cctv11">
@@ -13745,19 +13749,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420083700 +0800" stop="20250420092500 +0800" channel="cctv1">
-		<title lang="zh">我的后半生-（高清版）-30/36</title>
+		<title lang="zh">我的后半生-（高清版）-29/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420092500 +0800" stop="20250420101400 +0800" channel="cctv1">
-		<title lang="zh">我的后半生-（高清版）-31/36</title>
+		<title lang="zh">我的后半生-（高清版）-30/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420101400 +0800" stop="20250420110700 +0800" channel="cctv1">
-		<title lang="zh">我的后半生-（高清版）-32/36</title>
+		<title lang="zh">我的后半生-（高清版）-31/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420110700 +0800" stop="20250420115400 +0800" channel="cctv1">
-		<title lang="zh">我的后半生-（高清版）-33/36</title>
+		<title lang="zh">我的后半生-（高清版）-32/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420115400 +0800" stop="20250420120000 +0800" channel="cctv1">
@@ -13805,7 +13809,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420200600 +0800" stop="20250420215200 +0800" channel="cctv1">
-		<title lang="zh">三餐四季（第二季）-8（云南篇）</title>
+		<title lang="zh">三餐四季（第二季）-8（河南篇）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420215200 +0800" stop="20250420220000 +0800" channel="cctv1">
@@ -14049,7 +14053,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420004500 +0800" stop="20250420013300 +0800" channel="cctv4">
-		<title lang="zh">兰桐花开第12集</title>
+		<title lang="zh">最美的乡村第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420013300 +0800" stop="20250420020000 +0800" channel="cctv4">
@@ -14116,28 +14120,28 @@
 		<title lang="zh">今日关注</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420080000 +0800" stop="20250420090200 +0800" channel="cctv4">
+	<programme start="20250420080000 +0800" stop="20250420090000 +0800" channel="cctv4">
 		<title lang="zh">今日环球</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420090200 +0800" stop="20250420093200 +0800" channel="cctv4">
+	<programme start="20250420090000 +0800" stop="20250420092800 +0800" channel="cctv4">
+		<title lang="zh">今日亚洲</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250420092800 +0800" stop="20250420095800 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420093200 +0800" stop="20250420095900 +0800" channel="cctv4">
+	<programme start="20250420095800 +0800" stop="20250420102900 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-12</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420095900 +0800" stop="20250420102600 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-13</title>
+	<programme start="20250420102900 +0800" stop="20250420105700 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁2025-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420102600 +0800" stop="20250420105300 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-14</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250420105300 +0800" stop="20250420112600 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-15</title>
+	<programme start="20250420105700 +0800" stop="20250420112600 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁2025-2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420112600 +0800" stop="20250420120000 +0800" channel="cctv4">
@@ -14153,39 +14157,35 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420133000 +0800" stop="20250420141300 +0800" channel="cctv4">
-		<title lang="zh">战天狼-(四套)-9/39</title>
+		<title lang="zh">特赦1959-（四套）-23/39</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420141300 +0800" stop="20250420145500 +0800" channel="cctv4">
-		<title lang="zh">战天狼-(四套)-10/39</title>
+		<title lang="zh">特赦1959-（四套）-24/39</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420145500 +0800" stop="20250420153800 +0800" channel="cctv4">
-		<title lang="zh">战天狼-(四套)-11/39</title>
+		<title lang="zh">特赦1959-（四套）-25/39</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420153800 +0800" stop="20250420162100 +0800" channel="cctv4">
-		<title lang="zh">战天狼-(四套)-12/39</title>
+		<title lang="zh">特赦1959-（四套）-26/39</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420162100 +0800" stop="20250420162900 +0800" channel="cctv4">
-		<title lang="zh">国家公园精彩片段-11</title>
+	<programme start="20250420162100 +0800" stop="20250420164800 +0800" channel="cctv4">
+		<title lang="zh">国家记忆-2025-10</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420162900 +0800" stop="20250420163700 +0800" channel="cctv4">
-		<title lang="zh">国家公园精彩片段-12</title>
+	<programme start="20250420164800 +0800" stop="20250420165200 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁-片段展播-2024-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420163700 +0800" stop="20250420164000 +0800" channel="cctv4">
+	<programme start="20250420165200 +0800" stop="20250420165500 +0800" channel="cctv4">
 		<title lang="zh">记住乡愁-片段展播-2024-27</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420164000 +0800" stop="20250420164500 +0800" channel="cctv4">
+	<programme start="20250420165500 +0800" stop="20250420170000 +0800" channel="cctv4">
 		<title lang="zh">记住乡愁-片段展播-2024-28</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250420164500 +0800" stop="20250420170000 +0800" channel="cctv4">
-		<title lang="zh">平凡匠心-2025-32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420170000 +0800" stop="20250420180000 +0800" channel="cctv4">
@@ -14229,7 +14229,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420233000 +0800" stop="20250420235900 +0800" channel="cctv4">
-		<title lang="zh">兰桐花开13/42</title>
+		<title lang="zh">兰桐花开1/42</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250420010500 +0800" stop="20250420023500 +0800" channel="cctv5">
@@ -14852,23 +14852,23 @@
 		<title lang="zh">9视频2025-110</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420000600 +0800" stop="20250420003600 +0800" channel="cctv10">
+	<programme start="20250420001200 +0800" stop="20250420005200 +0800" channel="cctv10">
+		<title lang="zh">探索·发现-2025-109</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250420005200 +0800" stop="20250420012200 +0800" channel="cctv10">
 		<title lang="zh">地理·中国-2025-109</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420003600 +0800" stop="20250420011600 +0800" channel="cctv10">
+	<programme start="20250420012200 +0800" stop="20250420020200 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2025-109</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420011600 +0800" stop="20250420015600 +0800" channel="cctv10">
-		<title lang="zh">科幻地带-2025-17</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250420015600 +0800" stop="20250420023600 +0800" channel="cctv10">
+	<programme start="20250420020200 +0800" stop="20250420024200 +0800" channel="cctv10">
 		<title lang="zh">百家讲坛-2025-109</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250420023600 +0800" stop="20250420060000 +0800" channel="cctv10">
+	<programme start="20250420024200 +0800" stop="20250420060000 +0800" channel="cctv10">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
