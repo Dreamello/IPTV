@@ -6988,15 +6988,15 @@
 		<title lang="zh">非遗里的中国-MV</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821220000 +0800" stop="20250821223300 +0800" channel="cctv1">
+	<programme start="20250821220000 +0800" stop="20250821223200 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821223300 +0800" stop="20250821230700 +0800" channel="cctv1">
-		<title lang="zh">寻古中国（第二季）-吴越记2</title>
+	<programme start="20250821223200 +0800" stop="20250821232200 +0800" channel="cctv1">
+		<title lang="zh">山河铭记-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821230700 +0800" stop="20250821235900 +0800" channel="cctv1">
+	<programme start="20250821232200 +0800" stop="20250821235900 +0800" channel="cctv1">
 		<title lang="zh">山水间的家（第三季）-11</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7324,12 +7324,16 @@
 		<title lang="zh">走遍中国-2025-133</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821093000 +0800" stop="20250821113100 +0800" channel="cctv4">
+	<programme start="20250821093000 +0800" stop="20250821115100 +0800" channel="cctv4">
 		<title lang="zh">西藏自治区成立60周年庆祝大会直播报道-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821113100 +0800" stop="20250821120000 +0800" channel="cctv4">
-		<title lang="zh">海峡两岸-2025-232</title>
+	<programme start="20250821115100 +0800" stop="20250821115300 +0800" channel="cctv4">
+		<title lang="zh">四套栏目宣传-8月备播2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250821115300 +0800" stop="20250821120000 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁-片段展播-2024-7</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250821120000 +0800" stop="20250821130100 +0800" channel="cctv4">
@@ -9000,35 +9004,39 @@
 		<title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821093000 +0800" stop="20250821113000 +0800" channel="cctv4k">
+	<programme start="20250821093000 +0800" stop="20250821114700 +0800" channel="cctv4k">
 		<title lang="zh">4K直播-西藏自治区成立60周年庆祝大会</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821113000 +0800" stop="20250821113000 +0800" channel="cctv4k">
+	<programme start="20250821114700 +0800" stop="20250821114800 +0800" channel="cctv4k">
 		<title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821113000 +0800" stop="20250821121000 +0800" channel="cctv4k">
+	<programme start="20250821114800 +0800" stop="20250821122800 +0800" channel="cctv4k">
 		<title lang="zh">探索·发现（4K）-2024-24</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821121000 +0800" stop="20250821125900 +0800" channel="cctv4k">
+	<programme start="20250821122800 +0800" stop="20250821131700 +0800" channel="cctv4k">
 		<title lang="zh">澳门之味-3（4K )</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821125900 +0800" stop="20250821130400 +0800" channel="cctv4k">
+	<programme start="20250821131700 +0800" stop="20250821132200 +0800" channel="cctv4k">
 		<title lang="zh">5亿年，岩石里的生命奇迹 第一季-9（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821130400 +0800" stop="20250821132900 +0800" channel="cctv4k">
-		<title lang="zh">遇见最极致的中国-3（4K）</title>
+	<programme start="20250821132200 +0800" stop="20250821132200 +0800" channel="cctv4k">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821132900 +0800" stop="20250821135700 +0800" channel="cctv4k">
+	<programme start="20250821132200 +0800" stop="20250821135000 +0800" channel="cctv4k">
 		<title lang="zh">记住乡愁2025-41（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250821135700 +0800" stop="20250821140000 +0800" channel="cctv4k">
+	<programme start="20250821135000 +0800" stop="20250821135500 +0800" channel="cctv4k">
+		<title lang="zh">4K节目垫播-美丽中国四季2025</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250821135500 +0800" stop="20250821140000 +0800" channel="cctv4k">
 		<title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10132,23 +10140,27 @@
 		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822004800 +0800" stop="20250822011800 +0800" channel="cctv1">
-		<title lang="zh">寻宝-文脉春秋-19</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250822011800 +0800" stop="20250822014800 +0800" channel="cctv1">
+	<programme start="20250822010200 +0800" stop="20250822013200 +0800" channel="cctv1">
 		<title lang="zh">今日说法-2025-162</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822014800 +0800" stop="20250822022000 +0800" channel="cctv1">
+	<programme start="20250822013200 +0800" stop="20250822020400 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822022000 +0800" stop="20250822023000 +0800" channel="cctv1">
+	<programme start="20250822020400 +0800" stop="20250822021400 +0800" channel="cctv1">
 		<title lang="zh">非遗里的中国（第二季）-精编6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822023000 +0800" stop="20250822023500 +0800" channel="cctv1">
+	<programme start="20250822021400 +0800" stop="20250822022500 +0800" channel="cctv1">
+		<title lang="zh">非遗里的中国（第二季）-精编1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250822022500 +0800" stop="20250822023100 +0800" channel="cctv1">
+		<title lang="zh">非遗里的中国（第二季）-剑魂侠影</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250822023100 +0800" stop="20250822023500 +0800" channel="cctv1">
 		<title lang="zh">字从遇见你（精品展播）-机</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10253,7 +10265,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250822200500 +0800" stop="20250822205900 +0800" channel="cctv1">
-		<title lang="zh">我们的河山7/36</title>
+		<title lang="zh">我们的河山第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250822205900 +0800" stop="20250822215200 +0800" channel="cctv1">
@@ -10264,15 +10276,15 @@
 		<title lang="zh">山水间的家-主题曲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822220000 +0800" stop="20250822223400 +0800" channel="cctv1">
+	<programme start="20250822220000 +0800" stop="20250822223200 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822223400 +0800" stop="20250822233700 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+	<programme start="20250822223200 +0800" stop="20250822232100 +0800" channel="cctv1">
+		<title lang="zh">山河铭记-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822233700 +0800" stop="20250822235900 +0800" channel="cctv1">
+	<programme start="20250822232100 +0800" stop="20250822235900 +0800" channel="cctv1">
 		<title lang="zh">山水间的家（第三季）-2</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10596,20 +10608,24 @@
 		<title lang="zh">今日亚洲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822092700 +0800" stop="20250822095700 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2024-148</title>
+	<programme start="20250822092700 +0800" stop="20250822095500 +0800" channel="cctv4">
+		<title lang="zh">走遍中国-2025-134</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822095700 +0800" stop="20250822102400 +0800" channel="cctv4">
+	<programme start="20250822095500 +0800" stop="20250822102200 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-78</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822102400 +0800" stop="20250822105400 +0800" channel="cctv4">
+	<programme start="20250822102200 +0800" stop="20250822105200 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-79</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822105400 +0800" stop="20250822112600 +0800" channel="cctv4">
+	<programme start="20250822105200 +0800" stop="20250822112200 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-80</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250822112200 +0800" stop="20250822112600 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁-片段展播-2024-42</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250822112600 +0800" stop="20250822120000 +0800" channel="cctv4">
@@ -11052,40 +11068,40 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822193300 +0800" stop="20250822200300 +0800" channel="cctv7">
+	<programme start="20250822193300 +0800" stop="20250822195900 +0800" channel="cctv7">
 		<title lang="zh">军事报道</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822200300 +0800" stop="20250822201800 +0800" channel="cctv7">
+	<programme start="20250822195900 +0800" stop="20250822204900 +0800" channel="cctv7">
+		<title lang="zh">山河铭记-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250822204900 +0800" stop="20250822210400 +0800" channel="cctv7">
 		<title lang="zh">飞越抗日根据地-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822201800 +0800" stop="20250822202400 +0800" channel="cctv7">
+	<programme start="20250822210400 +0800" stop="20250822211100 +0800" channel="cctv7">
 		<title lang="zh">国防微视频-军歌嘹亮-游击队歌（抗战歌曲展播）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822202400 +0800" stop="20250822205800 +0800" channel="cctv7">
+	<programme start="20250822211100 +0800" stop="20250822214500 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-234</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822205800 +0800" stop="20250822213200 +0800" channel="cctv7">
+	<programme start="20250822214500 +0800" stop="20250822221800 +0800" channel="cctv7">
 		<title lang="zh">军事纪实-2025-168</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822213200 +0800" stop="20250822220800 +0800" channel="cctv7">
+	<programme start="20250822221800 +0800" stop="20250822225400 +0800" channel="cctv7">
 		<title lang="zh">第二战场-2025-34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822220800 +0800" stop="20250822225500 +0800" channel="cctv7">
+	<programme start="20250822225400 +0800" stop="20250822234200 +0800" channel="cctv7">
 		<title lang="zh">战火熔炉8/13</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250822225500 +0800" stop="20250822234400 +0800" channel="cctv7">
+	<programme start="20250822234200 +0800" stop="20250822235900 +0800" channel="cctv7">
 		<title lang="zh">战火熔炉9/13</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250822234400 +0800" stop="20250822235900 +0800" channel="cctv7">
-		<title lang="zh">军事纪实-2025-168</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250822004300 +0800" stop="20250822012900 +0800" channel="cctv8">
@@ -13544,19 +13560,27 @@
 		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823011800 +0800" stop="20250823020200 +0800" channel="cctv1">
+	<programme start="20250823010100 +0800" stop="20250823014500 +0800" channel="cctv1">
 		<title lang="zh">生活早参考-特别节目（生活圈）2025-172</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823020200 +0800" stop="20250823023400 +0800" channel="cctv1">
+	<programme start="20250823014500 +0800" stop="20250823021700 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823023400 +0800" stop="20250823023900 +0800" channel="cctv1">
+	<programme start="20250823021700 +0800" stop="20250823022500 +0800" channel="cctv1">
+		<title lang="zh">非遗里的中国（第二季）-精编2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250823022500 +0800" stop="20250823023400 +0800" channel="cctv1">
+		<title lang="zh">非遗里的中国（第二季）-精编3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250823023400 +0800" stop="20250823023800 +0800" channel="cctv1">
 		<title lang="zh">字从遇见你（精品展播）-蚕</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823023900 +0800" stop="20250823024600 +0800" channel="cctv1">
+	<programme start="20250823023800 +0800" stop="20250823024600 +0800" channel="cctv1">
 		<title lang="zh">字从遇见你（精品展播）-系</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -13672,15 +13696,15 @@
 		<title lang="zh">非遗里的中国-MV</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823220000 +0800" stop="20250823223400 +0800" channel="cctv1">
+	<programme start="20250823220000 +0800" stop="20250823223200 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823223400 +0800" stop="20250823233700 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+	<programme start="20250823223200 +0800" stop="20250823231800 +0800" channel="cctv1">
+		<title lang="zh">山河铭记-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823233700 +0800" stop="20250823235900 +0800" channel="cctv1">
+	<programme start="20250823231800 +0800" stop="20250823235900 +0800" channel="cctv1">
 		<title lang="zh">山水间的家（第三季）-12</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14332,11 +14356,15 @@
 		<title lang="zh">死侍2：我爱我家</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823001900 +0800" stop="20250823005700 +0800" channel="cctv7">
+	<programme start="20250823003100 +0800" stop="20250823010500 +0800" channel="cctv7">
+		<title lang="zh">军事纪实-2025-168</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250823010500 +0800" stop="20250823014300 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2025-168</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823005700 +0800" stop="20250823060300 +0800" channel="cctv7">
+	<programme start="20250823014300 +0800" stop="20250823060300 +0800" channel="cctv7">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14432,36 +14460,36 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823193300 +0800" stop="20250823200300 +0800" channel="cctv7">
+	<programme start="20250823193300 +0800" stop="20250823195900 +0800" channel="cctv7">
 		<title lang="zh">军事报道</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823200300 +0800" stop="20250823201800 +0800" channel="cctv7">
+	<programme start="20250823195900 +0800" stop="20250823204900 +0800" channel="cctv7">
+		<title lang="zh">山河铭记-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250823204900 +0800" stop="20250823210400 +0800" channel="cctv7">
 		<title lang="zh">飞越抗日根据地-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823201800 +0800" stop="20250823202500 +0800" channel="cctv7">
+	<programme start="20250823210400 +0800" stop="20250823211100 +0800" channel="cctv7">
 		<title lang="zh">国防微视频-军歌嘹亮-地道战（抗战歌曲展播）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823202500 +0800" stop="20250823210000 +0800" channel="cctv7">
+	<programme start="20250823211100 +0800" stop="20250823214600 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-235</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823210000 +0800" stop="20250823220800 +0800" channel="cctv7">
+	<programme start="20250823214600 +0800" stop="20250823225400 +0800" channel="cctv7">
 		<title lang="zh">老兵你好-2025-34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823220800 +0800" stop="20250823225600 +0800" channel="cctv7">
+	<programme start="20250823225400 +0800" stop="20250823234200 +0800" channel="cctv7">
 		<title lang="zh">战火熔炉10/13</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250823225600 +0800" stop="20250823234900 +0800" channel="cctv7">
+	<programme start="20250823234200 +0800" stop="20250823235900 +0800" channel="cctv7">
 		<title lang="zh">战火熔炉11/13</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250823234900 +0800" stop="20250823235900 +0800" channel="cctv7">
-		<title lang="zh">第二战场-2025-34</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250823004300 +0800" stop="20250823012900 +0800" channel="cctv8">
