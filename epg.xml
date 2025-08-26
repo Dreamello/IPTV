@@ -6873,7 +6873,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250826164900 +0800" stop="20250826181800 +0800" channel="cctv1">
-		<title lang="zh">城市风华录-9</title>
+		<title lang="zh">城市风华录-10</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250826181800 +0800" stop="20250826182000 +0800" channel="cctv1">
@@ -6893,15 +6893,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250826200400 +0800" stop="20250826203400 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+		<title lang="zh">胜利-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250826203400 +0800" stop="20250826210700 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250826210700 +0800" stop="20250826211000 +0800" channel="cctv1">
-		<title lang="zh">前情提要-我们的河山-第11集</title>
+	<programme start="20250826203400 +0800" stop="20250826211000 +0800" channel="cctv1">
+		<title lang="zh">胜利-2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250826211000 +0800" stop="20250826220000 +0800" channel="cctv1">
@@ -7853,7 +7849,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250826202800 +0800" stop="20250826211900 +0800" channel="cctv8">
-		<title lang="zh">归队4/34</title>
+		<title lang="zh">归队第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250826211900 +0800" stop="20250826212400 +0800" channel="cctv8">
@@ -10316,23 +10312,19 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827193800 +0800" stop="20250827200600 +0800" channel="cctv1">
+	<programme start="20250827193800 +0800" stop="20250827200500 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827200600 +0800" stop="20250827203600 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+	<programme start="20250827200500 +0800" stop="20250827203500 +0800" channel="cctv1">
+		<title lang="zh">胜利-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827203600 +0800" stop="20250827210700 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+	<programme start="20250827203500 +0800" stop="20250827211000 +0800" channel="cctv1">
+		<title lang="zh">胜利-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827210700 +0800" stop="20250827210900 +0800" channel="cctv1">
-		<title lang="zh">前情提要-我们的河山-第12集</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250827210900 +0800" stop="20250827220000 +0800" channel="cctv1">
+	<programme start="20250827211000 +0800" stop="20250827220000 +0800" channel="cctv1">
 		<title lang="zh">我们的河山第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10572,12 +10564,12 @@
 		<title lang="zh">开门大吉-2025-34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827193000 +0800" stop="20250827205100 +0800" channel="cctv3">
-		<title lang="zh">越战越勇-2025-32</title>
+	<programme start="20250827193000 +0800" stop="20250827202300 +0800" channel="cctv3">
+		<title lang="zh">烽火战歌-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827205100 +0800" stop="20250827214700 +0800" channel="cctv3">
-		<title lang="zh">烽火战歌-1</title>
+	<programme start="20250827202300 +0800" stop="20250827214700 +0800" channel="cctv3">
+		<title lang="zh">星光大道-2025-32（这一站星光25）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827214700 +0800" stop="20250827225300 +0800" channel="cctv3">
@@ -11064,48 +11056,44 @@
 		<title lang="zh">军事纪录-英雄百岁-13</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827120000 +0800" stop="20250827123600 +0800" channel="cctv7">
+	<programme start="20250827120000 +0800" stop="20250827123300 +0800" channel="cctv7">
 		<title lang="zh">正午国防军事</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827123600 +0800" stop="20250827130600 +0800" channel="cctv7">
+	<programme start="20250827123300 +0800" stop="20250827132300 +0800" channel="cctv7">
+		<title lang="zh">山河铭记-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250827132300 +0800" stop="20250827135300 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-238</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827130600 +0800" stop="20250827132800 +0800" channel="cctv7">
+	<programme start="20250827135300 +0800" stop="20250827141500 +0800" channel="cctv7">
 		<title lang="zh">飞越抗日根据地-7</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827132800 +0800" stop="20250827140800 +0800" channel="cctv7">
-		<title lang="zh">军武零距离-2025-34(4K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250827140800 +0800" stop="20250827143800 +0800" channel="cctv7">
+	<programme start="20250827141500 +0800" stop="20250827144500 +0800" channel="cctv7">
 		<title lang="zh">军事纪录-2025-163</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827143800 +0800" stop="20250827152600 +0800" channel="cctv7">
+	<programme start="20250827144500 +0800" stop="20250827153200 +0800" channel="cctv7">
 		<title lang="zh">父亲的身份22/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827152600 +0800" stop="20250827161200 +0800" channel="cctv7">
+	<programme start="20250827153200 +0800" stop="20250827161800 +0800" channel="cctv7">
 		<title lang="zh">父亲的身份23/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827161200 +0800" stop="20250827170000 +0800" channel="cctv7">
+	<programme start="20250827161800 +0800" stop="20250827170500 +0800" channel="cctv7">
 		<title lang="zh">父亲的身份24/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827170000 +0800" stop="20250827172800 +0800" channel="cctv7">
+	<programme start="20250827170500 +0800" stop="20250827173000 +0800" channel="cctv7">
 		<title lang="zh">世界战史-2025-155</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827172800 +0800" stop="20250827175300 +0800" channel="cctv7">
+	<programme start="20250827173000 +0800" stop="20250827175900 +0800" channel="cctv7">
 		<title lang="zh">军事纪录-2025-164</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250827175300 +0800" stop="20250827175900 +0800" channel="cctv7">
-		<title lang="zh">国防微视频-军歌嘹亮-军民大生产（抗战歌曲展播）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827175900 +0800" stop="20250827182500 +0800" channel="cctv7">
@@ -11133,22 +11121,22 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827201800 +0800" stop="20250827202500 +0800" channel="cctv7">
-		<title lang="zh">国防微视频-军歌嘹亮-弹起我心爱的土琵琶（抗战歌曲展播）</title>
+		<title lang="zh">国防微视频-军歌嘹亮-胜利荣光</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827202500 +0800" stop="20250827205900 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-239</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827205900 +0800" stop="20250827213200 +0800" channel="cctv7">
+	<programme start="20250827205900 +0800" stop="20250827213300 +0800" channel="cctv7">
 		<title lang="zh">军事纪实-2025-171</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827213200 +0800" stop="20250827220800 +0800" channel="cctv7">
+	<programme start="20250827213300 +0800" stop="20250827220900 +0800" channel="cctv7">
 		<title lang="zh">军迷行天下-2025-35</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250827220800 +0800" stop="20250827225600 +0800" channel="cctv7">
+	<programme start="20250827220900 +0800" stop="20250827225600 +0800" channel="cctv7">
 		<title lang="zh">五星剧场-雪迷宫5/31</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11281,7 +11269,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827192800 +0800" stop="20250827193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-归队-5/34</title>
+		<title lang="zh">本集提要-归队-第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827193000 +0800" stop="20250827202300 +0800" channel="cctv8">
@@ -11289,7 +11277,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827202300 +0800" stop="20250827202800 +0800" channel="cctv8">
-		<title lang="zh">本集提要-归队-6/34</title>
+		<title lang="zh">本集提要-归队-第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250827202800 +0800" stop="20250827211900 +0800" channel="cctv8">
@@ -13625,18 +13613,14 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250828200500 +0800" stop="20250828203500 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+		<title lang="zh">胜利-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828203500 +0800" stop="20250828210800 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+	<programme start="20250828203500 +0800" stop="20250828211100 +0800" channel="cctv1">
+		<title lang="zh">胜利-6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828210800 +0800" stop="20250828211000 +0800" channel="cctv1">
-		<title lang="zh">前情提要-我们的河山-13/36</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250828211000 +0800" stop="20250828220000 +0800" channel="cctv1">
+	<programme start="20250828211100 +0800" stop="20250828220000 +0800" channel="cctv1">
 		<title lang="zh">我们的河山13/36</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14244,51 +14228,55 @@
 		<title lang="zh">万物有灵</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828033700 +0800" stop="20250828072500 +0800" channel="cctv6">
+	<programme start="20250828033700 +0800" stop="20250828050100 +0800" channel="cctv6">
 		<title lang="zh">火烈鸟</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828072500 +0800" stop="20250828092100 +0800" channel="cctv6">
+	<programme start="20250828050100 +0800" stop="20250828063800 +0800" channel="cctv6">
+		<title lang="zh">潜行</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250828063800 +0800" stop="20250828083400 +0800" channel="cctv6">
 		<title lang="zh">龙之战</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828092100 +0800" stop="20250828110500 +0800" channel="cctv6">
+	<programme start="20250828083400 +0800" stop="20250828101800 +0800" channel="cctv6">
 		<title lang="zh">谁动了我的幸福</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828110500 +0800" stop="20250828124600 +0800" channel="cctv6">
-		<title lang="zh">爱无所依</title>
+	<programme start="20250828101800 +0800" stop="20250828122200 +0800" channel="cctv6">
+		<title lang="zh">厨子戏子痞子</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828124600 +0800" stop="20250828125200 +0800" channel="cctv6">
+	<programme start="20250828122200 +0800" stop="20250828123000 +0800" channel="cctv6">
 		<title lang="zh">音乐电影欣赏</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828125200 +0800" stop="20250828143500 +0800" channel="cctv6">
+	<programme start="20250828123000 +0800" stop="20250828141000 +0800" channel="cctv6">
 		<title lang="zh">三进山城</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828143500 +0800" stop="20250828151200 +0800" channel="cctv6">
-		<title lang="zh">三闯少林（上）</title>
+	<programme start="20250828141000 +0800" stop="20250828144500 +0800" channel="cctv6">
+		<title lang="zh">请帖（上）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828151200 +0800" stop="20250828161300 +0800" channel="cctv6">
-		<title lang="zh">三闯少林（下）</title>
+	<programme start="20250828144500 +0800" stop="20250828160600 +0800" channel="cctv6">
+		<title lang="zh">请帖（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828161300 +0800" stop="20250828180300 +0800" channel="cctv6">
+	<programme start="20250828160600 +0800" stop="20250828180500 +0800" channel="cctv6">
 		<title lang="zh">九龙不败</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828180300 +0800" stop="20250828181400 +0800" channel="cctv6">
+	<programme start="20250828180500 +0800" stop="20250828181500 +0800" channel="cctv6">
 		<title lang="zh">今日影评2025-172</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828181400 +0800" stop="20250828201800 +0800" channel="cctv6">
+	<programme start="20250828181500 +0800" stop="20250828201900 +0800" channel="cctv6">
 		<title lang="zh">奇门遁甲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828201800 +0800" stop="20250828220000 +0800" channel="cctv6">
+	<programme start="20250828201900 +0800" stop="20250828220000 +0800" channel="cctv6">
 		<title lang="zh">裂战</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14312,11 +14300,11 @@
 		<title lang="zh">苏捷斯卡战役（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828001900 +0800" stop="20250828005700 +0800" channel="cctv7">
+	<programme start="20250828002000 +0800" stop="20250828005800 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2025-171</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828005700 +0800" stop="20250828060300 +0800" channel="cctv7">
+	<programme start="20250828005800 +0800" stop="20250828060300 +0800" channel="cctv7">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14368,28 +14356,24 @@
 		<title lang="zh">军事纪录-英雄百岁-14</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828120000 +0800" stop="20250828123600 +0800" channel="cctv7">
+	<programme start="20250828120000 +0800" stop="20250828123300 +0800" channel="cctv7">
 		<title lang="zh">正午国防军事</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828123600 +0800" stop="20250828130600 +0800" channel="cctv7">
+	<programme start="20250828123300 +0800" stop="20250828132200 +0800" channel="cctv7">
+		<title lang="zh">山河铭记-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250828132200 +0800" stop="20250828135200 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-239</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828130600 +0800" stop="20250828132300 +0800" channel="cctv7">
+	<programme start="20250828135200 +0800" stop="20250828140900 +0800" channel="cctv7">
 		<title lang="zh">飞越抗日根据地-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250828132300 +0800" stop="20250828135100 +0800" channel="cctv7">
+	<programme start="20250828140900 +0800" stop="20250828144500 +0800" channel="cctv7">
 		<title lang="zh">军营的味道-2025-34</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250828135100 +0800" stop="20250828141700 +0800" channel="cctv7">
-		<title lang="zh">兵器面面观-2025-171</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250828141700 +0800" stop="20250828144500 +0800" channel="cctv7">
-		<title lang="zh">军事纪录-2025-164</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250828144500 +0800" stop="20250828153200 +0800" channel="cctv7">
