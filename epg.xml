@@ -6856,15 +6856,15 @@
 		<title lang="zh">山水间的家-主题曲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250831220000 +0800" stop="20250831223400 +0800" channel="cctv1">
+	<programme start="20250831220000 +0800" stop="20250831223100 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250831223400 +0800" stop="20250831233700 +0800" channel="cctv1">
-		<title lang="zh">烽火战歌-5</title>
+	<programme start="20250831223100 +0800" stop="20250831232200 +0800" channel="cctv1">
+		<title lang="zh">烽火战歌-6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250831233700 +0800" stop="20250831235900 +0800" channel="cctv1">
+	<programme start="20250831232200 +0800" stop="20250831235900 +0800" channel="cctv1">
 		<title lang="zh">非遗里的中国（第三季）-4</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7192,12 +7192,12 @@
 		<title lang="zh">国家记忆-2025-111</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250831100000 +0800" stop="20250831110000 +0800" channel="cctv4">
+	<programme start="20250831100000 +0800" stop="20250831112500 +0800" channel="cctv4">
 		<title lang="zh">2025年国新办发布会-11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250831110000 +0800" stop="20250831113000 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-47</title>
+	<programme start="20250831112500 +0800" stop="20250831113000 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁-片段展播-2024-13</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250831113000 +0800" stop="20250831120000 +0800" channel="cctv4">
@@ -10148,23 +10148,31 @@
 		<title lang="zh">8K再见</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901011800 +0800" stop="20250901015000 +0800" channel="cctv1">
+	<programme start="20250901010300 +0800" stop="20250901013500 +0800" channel="cctv1">
 		<title lang="zh">本草流芳（精品展播）-灵芝</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901015000 +0800" stop="20250901022200 +0800" channel="cctv1">
+	<programme start="20250901013500 +0800" stop="20250901020500 +0800" channel="cctv1">
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901022200 +0800" stop="20250901023200 +0800" channel="cctv1">
+	<programme start="20250901020500 +0800" stop="20250901021500 +0800" channel="cctv1">
 		<title lang="zh">非遗里的中国（第二季）-精编6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901023200 +0800" stop="20250901023900 +0800" channel="cctv1">
+	<programme start="20250901021500 +0800" stop="20250901022200 +0800" channel="cctv1">
 		<title lang="zh">非遗里的中国（第二季）-精编7</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901023900 +0800" stop="20250901024600 +0800" channel="cctv1">
+	<programme start="20250901022200 +0800" stop="20250901023300 +0800" channel="cctv1">
+		<title lang="zh">非遗里的中国（第二季）-精编1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250901023300 +0800" stop="20250901024000 +0800" channel="cctv1">
+		<title lang="zh">非遗里的中国（第二季）-精编8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250901024000 +0800" stop="20250901024600 +0800" channel="cctv1">
 		<title lang="zh">三餐四季（第二季）-宣传片</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10292,11 +10300,11 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901200000 +0800" stop="20250901211100 +0800" channel="cctv1">
+	<programme start="20250901200000 +0800" stop="20250901211200 +0800" channel="cctv1">
 		<title lang="zh">2025开学第一课-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901211100 +0800" stop="20250901211200 +0800" channel="cctv1">
+	<programme start="20250901211200 +0800" stop="20250901211200 +0800" channel="cctv1">
 		<title lang="zh">前情提要-我们的河山-第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10684,11 +10692,11 @@
 		<title lang="zh">记住乡愁-片段展播-2024-31</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901153000 +0800" stop="20250901163200 +0800" channel="cctv4">
+	<programme start="20250901153000 +0800" stop="20250901163000 +0800" channel="cctv4">
 		<title lang="zh">上海合作组织天津峰会特别报道-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250901163200 +0800" stop="20250901165900 +0800" channel="cctv4">
+	<programme start="20250901163000 +0800" stop="20250901165900 +0800" channel="cctv4">
 		<title lang="zh">中国缘-2025-60</title>
 		<desc lang="zh"></desc>
 	</programme>
