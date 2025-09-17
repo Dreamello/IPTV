@@ -6901,7 +6901,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917200600 +0800" stop="20250917205600 +0800" channel="cctv1">
-		<title lang="zh">阵地3/32</title>
+		<title lang="zh">阵地第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917205600 +0800" stop="20250917210100 +0800" channel="cctv1">
@@ -6909,7 +6909,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917210100 +0800" stop="20250917220000 +0800" channel="cctv1">
-		<title lang="zh">阵地4/32</title>
+		<title lang="zh">阵地第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917220000 +0800" stop="20250917223300 +0800" channel="cctv1">
@@ -7881,11 +7881,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917212600 +0800" stop="20250917221600 +0800" channel="cctv8">
-		<title lang="zh">枫桥警事5/30</title>
+		<title lang="zh">枫桥警事第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917221600 +0800" stop="20250917230500 +0800" channel="cctv8">
-		<title lang="zh">枫桥警事6/30</title>
+		<title lang="zh">枫桥警事第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250917230500 +0800" stop="20250917235100 +0800" channel="cctv8">
@@ -10145,7 +10145,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918052700 +0800" stop="20250918060000 +0800" channel="cctv1">
-		<title lang="zh">本草流芳（精品展播）-黄连</title>
+		<title lang="zh">本草流芳（精品展播）-石斛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918060000 +0800" stop="20250918083700 +0800" channel="cctv1">
@@ -10477,7 +10477,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918172700 +0800" stop="20250918180600 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2025-21</title>
+		<title lang="zh">综艺喜乐汇-2025-588</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918180600 +0800" stop="20250918193000 +0800" channel="cctv3">
@@ -10488,16 +10488,20 @@
 		<title lang="zh">星光大道-2025-38（这一站星光31）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250918205300 +0800" stop="20250918220800 +0800" channel="cctv3">
-		<title lang="zh">沧海运河谣-1</title>
+	<programme start="20250918205300 +0800" stop="20250918213900 +0800" channel="cctv3">
+		<title lang="zh">烽火战歌-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250918220800 +0800" stop="20250918231500 +0800" channel="cctv3">
+	<programme start="20250918213900 +0800" stop="20250918224700 +0800" channel="cctv3">
 		<title lang="zh">一起音乐吧-2025-54</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250918231500 +0800" stop="20250918235900 +0800" channel="cctv3">
+	<programme start="20250918224700 +0800" stop="20250918233300 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2025-868 暗夜与黎明23/38</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250918233300 +0800" stop="20250918235900 +0800" channel="cctv3">
+		<title lang="zh">综艺喜乐汇-2025-869 暗夜与黎明24/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918002700 +0800" stop="20250918011000 +0800" channel="cctv4">
@@ -10900,24 +10904,20 @@
 		<title lang="zh">中国电影报道 2025-261</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250918221800 +0800" stop="20250918222400 +0800" channel="cctv6">
+	<programme start="20250918221800 +0800" stop="20250918222300 +0800" channel="cctv6">
 		<title lang="zh">中国福利彩票阳光开奖2025-09-18</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250918222400 +0800" stop="20250918230000 +0800" channel="cctv6">
-		<title lang="zh">坚不可摧（上）</title>
+	<programme start="20250918222300 +0800" stop="20250918230000 +0800" channel="cctv6">
+		<title lang="zh">珍珠港（上）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918230000 +0800" stop="20250918230100 +0800" channel="cctv6">
 		<title lang="zh">中国体育彩票阳光开奖2025-09-18</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250918230100 +0800" stop="20250918235200 +0800" channel="cctv6">
-		<title lang="zh">坚不可摧（下）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250918235200 +0800" stop="20250918235900 +0800" channel="cctv6">
-		<title lang="zh">今日影评2025-187</title>
+	<programme start="20250918230100 +0800" stop="20250918235900 +0800" channel="cctv6">
+		<title lang="zh">珍珠港（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250918000300 +0800" stop="20250918004100 +0800" channel="cctv7">
@@ -13812,16 +13812,20 @@
 		<title lang="zh">经济半小时</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919000100 +0800" stop="20250919004700 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2025-869 暗夜与黎明24/38</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250919004700 +0800" stop="20250919013300 +0800" channel="cctv3">
+	<programme start="20250919001900 +0800" stop="20250919010500 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2025-870 暗夜与黎明25/38</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919013300 +0800" stop="20250919033500 +0800" channel="cctv3">
+	<programme start="20250919010500 +0800" stop="20250919030800 +0800" channel="cctv3">
 		<title lang="zh">影视留声机-2025-67-经典电影欣赏《洪湖赤卫队》</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919030800 +0800" stop="20250919033100 +0800" channel="cctv3">
+		<title lang="zh">国宝音乐会-故宫篇-重播版1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919033100 +0800" stop="20250919033500 +0800" channel="cctv3">
+		<title lang="zh">大地的号角-永恒的诗行-3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250919033500 +0800" stop="20250919044300 +0800" channel="cctv3">
@@ -14200,12 +14204,20 @@
 		<title lang="zh">实况录像-2025年世界女排锦标赛 1/8决赛  2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919130000 +0800" stop="20250919143000 +0800" channel="cctv5plus">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第4轮 伯恩利—利物浦（4K）</title>
+	<programme start="20250919130000 +0800" stop="20250919134500 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-2025年世界泳联世锦赛 游泳比赛1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919143000 +0800" stop="20250919160000 +0800" channel="cctv5plus">
+	<programme start="20250919134500 +0800" stop="20250919143000 +0800" channel="cctv5plus">
+		<title lang="zh">2025年国际滑联花样滑冰奥运资格赛-冰舞韵律舞</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919143000 +0800" stop="20250919150500 +0800" channel="cctv5plus">
 		<title lang="zh">实况录像-2025年男篮亚洲杯 半决赛 2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919150500 +0800" stop="20250919160000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-2025年皮划艇激流回旋世界杯 斯洛文尼亚站</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250919160000 +0800" stop="20250919170000 +0800" channel="cctv5plus">
@@ -14228,24 +14240,28 @@
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 西里西亚站</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919000500 +0800" stop="20250919013100 +0800" channel="cctv6">
+	<programme start="20250919011400 +0800" stop="20250919012700 +0800" channel="cctv6">
+		<title lang="zh">今日影评2025-187</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919012700 +0800" stop="20250919025300 +0800" channel="cctv6">
 		<title lang="zh">风雷天决</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919013100 +0800" stop="20250919030200 +0800" channel="cctv6">
+	<programme start="20250919025300 +0800" stop="20250919042400 +0800" channel="cctv6">
 		<title lang="zh">男人四十</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919030200 +0800" stop="20250919033600 +0800" channel="cctv6">
+	<programme start="20250919042400 +0800" stop="20250919042500 +0800" channel="cctv6">
+		<title lang="zh">红樱桃</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919042500 +0800" stop="20250919045900 +0800" channel="cctv6">
 		<title lang="zh">一个不愿观看  泰坦尼克号  的盲人（上）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919033600 +0800" stop="20250919042400 +0800" channel="cctv6">
+	<programme start="20250919045900 +0800" stop="20250919061800 +0800" channel="cctv6">
 		<title lang="zh">一个不愿观看  泰坦尼克号  的盲人（下）</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20250919042400 +0800" stop="20250919061800 +0800" channel="cctv6">
-		<title lang="zh">红樱桃</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250919061800 +0800" stop="20250919065200 +0800" channel="cctv6">
@@ -15440,16 +15456,20 @@
 		<title lang="zh">艺术里的奥林匹克2025-24</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919201500 +0800" stop="20250919214000 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-2025年男篮亚洲杯 半决赛1</title>
+	<programme start="20250919201500 +0800" stop="20250919203000 +0800" channel="cctv16">
+		<title lang="zh">赛事集锦（奥林匹克）-2025年世界泳联世锦赛 花样游泳比赛10分钟版 3（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919214000 +0800" stop="20250919231000 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-2025年世界女排锦标赛 小组赛 中国队-墨西哥队</title>
+	<programme start="20250919203000 +0800" stop="20250919220500 +0800" channel="cctv16">
+		<title lang="zh">2025年国际滑联花样滑冰奥运资格赛-女单短节目</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20250919231000 +0800" stop="20250919235900 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-2025年世界泳联世锦赛 游泳比赛4</title>
+	<programme start="20250919220500 +0800" stop="20250919233500 +0800" channel="cctv16">
+		<title lang="zh">实况录像（奥林匹克）-2025年世界女排锦标赛 小组赛 中国队-墨西哥队（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20250919233500 +0800" stop="20250919235900 +0800" channel="cctv16">
+		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女子七人制橄榄球比赛（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20250919001700 +0800" stop="20250919014600 +0800" channel="cctv17">
