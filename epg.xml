@@ -7085,7 +7085,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251015200700 +0800" stop="20251015205700 +0800" channel="cctv1">
-		<title lang="zh">阵地26/32</title>
+		<title lang="zh">阵地第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251015205700 +0800" stop="20251015210100 +0800" channel="cctv1">
@@ -7464,15 +7464,15 @@
 		<title lang="zh">记住乡愁-片段展播-2024-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251015100000 +0800" stop="20251015103200 +0800" channel="cctv4">
+	<programme start="20251015100000 +0800" stop="20251015103500 +0800" channel="cctv4">
 		<title lang="zh">2025年国台办发布会-17</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251015103200 +0800" stop="20251015110000 +0800" channel="cctv4">
+	<programme start="20251015103500 +0800" stop="20251015110300 +0800" channel="cctv4">
 		<title lang="zh">走遍中国-2025-164</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251015110000 +0800" stop="20251015113000 +0800" channel="cctv4">
+	<programme start="20251015110300 +0800" stop="20251015113000 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-144</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -8105,7 +8105,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251015193000 +0800" stop="20251015202600 +0800" channel="cctv8">
-		<title lang="zh">沉默的荣耀31/39</title>
+		<title lang="zh">沉默的荣耀第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251015202600 +0800" stop="20251015203100 +0800" channel="cctv8">
@@ -8113,7 +8113,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251015203100 +0800" stop="20251015212500 +0800" channel="cctv8">
-		<title lang="zh">沉默的荣耀32/39</title>
+		<title lang="zh">沉默的荣耀第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251015212500 +0800" stop="20251015213000 +0800" channel="cctv8">
@@ -11336,36 +11336,36 @@
 		<title lang="zh">国防军事早报</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251016075800 +0800" stop="20251016090300 +0800" channel="cctv7">
-		<title lang="zh">讲武堂-2025-41</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251016090300 +0800" stop="20251016093500 +0800" channel="cctv7">
-		<title lang="zh">防务新观察-2025-288</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251016093500 +0800" stop="20251016100500 +0800" channel="cctv7">
+	<programme start="20251016075800 +0800" stop="20251016082800 +0800" channel="cctv7">
 		<title lang="zh">军事纪实-2025-206</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251016100500 +0800" stop="20251016103300 +0800" channel="cctv7">
+	<programme start="20251016082800 +0800" stop="20251016085600 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2025-206</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251016103300 +0800" stop="20251016110100 +0800" channel="cctv7">
+	<programme start="20251016085600 +0800" stop="20251016092800 +0800" channel="cctv7">
+		<title lang="zh">防务新观察-2025-288</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251016092800 +0800" stop="20251016095300 +0800" channel="cctv7">
 		<title lang="zh">世界战史-2025-189</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251016110100 +0800" stop="20251016112800 +0800" channel="cctv7">
+	<programme start="20251016095300 +0800" stop="20251016100000 +0800" channel="cctv7">
+		<title lang="zh">国防微视频-军歌嘹亮-映山红（长征歌曲展播）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251016100000 +0800" stop="20251016110300 +0800" channel="cctv7">
+		<title lang="zh">直击第七届中国天津国际直升机博览会-特别节目1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251016110300 +0800" stop="20251016113000 +0800" channel="cctv7">
 		<title lang="zh">国防故事-2025-167</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251016112800 +0800" stop="20251016115300 +0800" channel="cctv7">
+	<programme start="20251016113000 +0800" stop="20251016120000 +0800" channel="cctv7">
 		<title lang="zh">军事纪录-2025-198</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251016115300 +0800" stop="20251016120000 +0800" channel="cctv7">
-		<title lang="zh">国防微视频-军歌嘹亮-映山红（长征歌曲展播）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251016120000 +0800" stop="20251016123600 +0800" channel="cctv7">
@@ -14788,35 +14788,35 @@
 		<title lang="zh">正午国防军事</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017123600 +0800" stop="20251017131200 +0800" channel="cctv7">
+	<programme start="20251017123600 +0800" stop="20251017130800 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-289</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017131200 +0800" stop="20251017134700 +0800" channel="cctv7">
+	<programme start="20251017130800 +0800" stop="20251017134100 +0800" channel="cctv7">
 		<title lang="zh">军迷行天下-2025-42</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017134700 +0800" stop="20251017141400 +0800" channel="cctv7">
+	<programme start="20251017134100 +0800" stop="20251017140600 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2025-207</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017141400 +0800" stop="20251017144200 +0800" channel="cctv7">
+	<programme start="20251017140600 +0800" stop="20251017143000 +0800" channel="cctv7">
 		<title lang="zh">军事纪录-2025-199</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017144200 +0800" stop="20251017152900 +0800" channel="cctv7">
+	<programme start="20251017143000 +0800" stop="20251017153000 +0800" channel="cctv7">
+		<title lang="zh">直击第七届中国天津国际直升机博览会-特别节目2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251017153000 +0800" stop="20251017161600 +0800" channel="cctv7">
 		<title lang="zh">铁道风云5/34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017152900 +0800" stop="20251017161500 +0800" channel="cctv7">
+	<programme start="20251017161600 +0800" stop="20251017170300 +0800" channel="cctv7">
 		<title lang="zh">铁道风云6/34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017161500 +0800" stop="20251017170400 +0800" channel="cctv7">
-		<title lang="zh">铁道风云7/34</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251017170400 +0800" stop="20251017173100 +0800" channel="cctv7">
+	<programme start="20251017170300 +0800" stop="20251017173100 +0800" channel="cctv7">
 		<title lang="zh">世界战史-2025-191</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -14825,7 +14825,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251017175600 +0800" stop="20251017180200 +0800" channel="cctv7">
-		<title lang="zh">国防微视频-军歌嘹亮-映山红（长征歌曲展播）</title>
+		<title lang="zh">国防微视频-军歌嘹亮-情深意长（长征歌曲展播）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251017180200 +0800" stop="20251017182800 +0800" channel="cctv7">
@@ -14844,32 +14844,32 @@
 		<title lang="zh">军事报道</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017200300 +0800" stop="20251017200900 +0800" channel="cctv7">
+	<programme start="20251017200300 +0800" stop="20251017204800 +0800" channel="cctv7">
+		<title lang="zh">时代楷模发布厅-2025-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251017204800 +0800" stop="20251017205400 +0800" channel="cctv7">
 		<title lang="zh">国防微视频-军歌嘹亮-情深意长（长征歌曲展播）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017200900 +0800" stop="20251017204300 +0800" channel="cctv7">
+	<programme start="20251017205400 +0800" stop="20251017212800 +0800" channel="cctv7">
 		<title lang="zh">防务新观察-2025-290</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017204300 +0800" stop="20251017211700 +0800" channel="cctv7">
+	<programme start="20251017212800 +0800" stop="20251017220200 +0800" channel="cctv7">
 		<title lang="zh">军事纪实-2025-208</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017211700 +0800" stop="20251017215300 +0800" channel="cctv7">
+	<programme start="20251017220200 +0800" stop="20251017223800 +0800" channel="cctv7">
 		<title lang="zh">第二战场-2025-42</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017215300 +0800" stop="20251017224000 +0800" channel="cctv7">
+	<programme start="20251017223800 +0800" stop="20251017232500 +0800" channel="cctv7">
 		<title lang="zh">猎手36/40</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251017224000 +0800" stop="20251017232900 +0800" channel="cctv7">
+	<programme start="20251017232500 +0800" stop="20251017235900 +0800" channel="cctv7">
 		<title lang="zh">猎手37/40</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251017232900 +0800" stop="20251017235900 +0800" channel="cctv7">
-		<title lang="zh">军事纪实-2025-208</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251017000300 +0800" stop="20251017004900 +0800" channel="cctv8">
