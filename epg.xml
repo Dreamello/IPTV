@@ -7060,15 +7060,27 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251105194000 +0800" stop="20251105200700 +0800" channel="cctv1">
+	<programme start="20251105194000 +0800" stop="20251105200200 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251105200700 +0800" stop="20251105214900 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+	<programme start="20251105200200 +0800" stop="20251105200700 +0800" channel="cctv1">
+		<title lang="zh">前情提要-红石榴餐厅-第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251105214900 +0800" stop="20251105220000 +0800" channel="cctv1">
+	<programme start="20251105200700 +0800" stop="20251105205500 +0800" channel="cctv1">
+		<title lang="zh">红石榴餐厅第18集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251105205500 +0800" stop="20251105205900 +0800" channel="cctv1">
+		<title lang="zh">前情提要-红石榴餐厅-第19集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251105205900 +0800" stop="20251105214800 +0800" channel="cctv1">
+		<title lang="zh">红石榴餐厅第19集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251105214800 +0800" stop="20251105220000 +0800" channel="cctv1">
 		<title lang="zh">山水间的家-主题曲</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7481,7 +7493,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251105200000 +0800" stop="20251105203000 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-160</title>
+		<title lang="zh">国土重光-纪念台湾光复80周年-4</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251105203000 +0800" stop="20251105210000 +0800" channel="cctv4">
@@ -10501,19 +10513,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106200100 +0800" stop="20251106200600 +0800" channel="cctv1">
-		<title lang="zh">前情提要-红石榴餐厅-18/20</title>
+		<title lang="zh">前情提要-红石榴餐厅-第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106200600 +0800" stop="20251106205700 +0800" channel="cctv1">
-		<title lang="zh">红石榴餐厅18/20</title>
+		<title lang="zh">红石榴餐厅第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106205700 +0800" stop="20251106205900 +0800" channel="cctv1">
-		<title lang="zh">前情提要-红石榴餐厅-19/20</title>
+		<title lang="zh">前情提要-红石榴餐厅-第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106205900 +0800" stop="20251106214700 +0800" channel="cctv1">
-		<title lang="zh">红石榴餐厅19/20</title>
+		<title lang="zh">红石榴餐厅第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106214700 +0800" stop="20251106220000 +0800" channel="cctv1">
@@ -10625,7 +10637,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106154500 +0800" stop="20251106170000 +0800" channel="cctv2">
-		<title lang="zh">正点财经</title>
+		<title lang="zh">2025世界互联网大会领先科技成果发布</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106170000 +0800" stop="20251106173200 +0800" channel="cctv2">
@@ -10740,12 +10752,12 @@
 		<title lang="zh">国家宝藏-周游季-45</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251106133200 +0800" stop="20251106145100 +0800" channel="cctv3">
-		<title lang="zh">中国唱将-1</title>
+	<programme start="20251106133200 +0800" stop="20251106150100 +0800" channel="cctv3">
+		<title lang="zh">太湖雅集-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251106145100 +0800" stop="20251106151700 +0800" channel="cctv3">
-		<title lang="zh">国宝音乐会-故宫篇-重播版1</title>
+	<programme start="20251106150100 +0800" stop="20251106151700 +0800" channel="cctv3">
+		<title lang="zh">国家宝藏-周游季-9</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106151700 +0800" stop="20251106165200 +0800" channel="cctv3">
@@ -10813,23 +10825,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106043000 +0800" stop="20251106050000 +0800" channel="cctv4">
-		<title lang="zh">中国文艺-2025-221</title>
+		<title lang="zh">今日关注</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251106050000 +0800" stop="20251106052800 +0800" channel="cctv4">
-		<title lang="zh">走遍中国-2025-175</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251106052800 +0800" stop="20251106055600 +0800" channel="cctv4">
-		<title lang="zh">走遍中国-2025-176</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20251106055600 +0800" stop="20251106063000 +0800" channel="cctv4">
+	<programme start="20251106050000 +0800" stop="20251106053000 +0800" channel="cctv4">
 		<title lang="zh">国家记忆-2025-160</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251106063000 +0800" stop="20251106070000 +0800" channel="cctv4">
+	<programme start="20251106053000 +0800" stop="20251106060000 +0800" channel="cctv4">
+		<title lang="zh">走遍中国-2025-177</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251106060000 +0800" stop="20251106063000 +0800" channel="cctv4">
 		<title lang="zh">海峡两岸-2025-309</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251106063000 +0800" stop="20251106070000 +0800" channel="cctv4">
+		<title lang="zh">今日亚洲</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106070000 +0800" stop="20251106073000 +0800" channel="cctv4">
@@ -10837,19 +10849,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106073000 +0800" stop="20251106080000 +0800" channel="cctv4">
-		<title lang="zh">走遍中国-2025-177</title>
+		<title lang="zh">今日关注</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251106080000 +0800" stop="20251106090100 +0800" channel="cctv4">
+	<programme start="20251106080000 +0800" stop="20251106090000 +0800" channel="cctv4">
 		<title lang="zh">今日环球</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251106090100 +0800" stop="20251106092800 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-158</title>
+	<programme start="20251106090000 +0800" stop="20251106092800 +0800" channel="cctv4">
+		<title lang="zh">今日亚洲</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106092800 +0800" stop="20251106100000 +0800" channel="cctv4">
-		<title lang="zh">国家记忆-2025-159</title>
+		<title lang="zh">中国文艺-2025-221</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106100000 +0800" stop="20251106101000 +0800" channel="cctv4">
@@ -10933,7 +10945,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106200000 +0800" stop="20251106203000 +0800" channel="cctv4">
-		<title lang="zh">国土重光-纪念台湾光复80周年-4</title>
+		<title lang="zh">国土重光-纪念台湾光复80周年-5</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106203000 +0800" stop="20251106210000 +0800" channel="cctv4">
@@ -11481,7 +11493,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106193000 +0800" stop="20251106202500 +0800" channel="cctv8">
-		<title lang="zh">依依向北风37/38</title>
+		<title lang="zh">依依向北风第37集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106202500 +0800" stop="20251106203000 +0800" channel="cctv8">
@@ -11489,7 +11501,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106203000 +0800" stop="20251106212100 +0800" channel="cctv8">
-		<title lang="zh">依依向北风38/38</title>
+		<title lang="zh">依依向北风第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251106212100 +0800" stop="20251106212600 +0800" channel="cctv8">
