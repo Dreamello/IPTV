@@ -7309,7 +7309,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203200600 +0800" stop="20251203205700 +0800" channel="cctv1">
-		<title lang="zh">乌蒙深处25/28</title>
+		<title lang="zh">乌蒙深处第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203205700 +0800" stop="20251203210200 +0800" channel="cctv1">
@@ -7317,7 +7317,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203210200 +0800" stop="20251203220000 +0800" channel="cctv1">
-		<title lang="zh">乌蒙深处26/28</title>
+		<title lang="zh">乌蒙深处第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203220000 +0800" stop="20251203223500 +0800" channel="cctv1">
@@ -8277,7 +8277,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203193000 +0800" stop="20251203202500 +0800" channel="cctv8">
-		<title lang="zh">大生意人17/40</title>
+		<title lang="zh">大生意人第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203202500 +0800" stop="20251203203000 +0800" channel="cctv8">
@@ -8285,7 +8285,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203203000 +0800" stop="20251203212200 +0800" channel="cctv8">
-		<title lang="zh">大生意人18/40</title>
+		<title lang="zh">大生意人第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203212200 +0800" stop="20251203212700 +0800" channel="cctv8">
@@ -8301,7 +8301,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203221900 +0800" stop="20251203230900 +0800" channel="cctv8">
-		<title lang="zh">即刻上场9/24</title>
+		<title lang="zh">即刻上场第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251203230900 +0800" stop="20251203235500 +0800" channel="cctv8">
@@ -11209,7 +11209,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204100000 +0800" stop="20251204103000 +0800" channel="cctv5">
-		<title lang="zh">实况录像-2025年亚洲射箭锦标赛 1</title>
+		<title lang="zh">2025年国际乒联混合团体世界杯-第二阶段 第2轮（中国队-韩国队）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204103000 +0800" stop="20251204120000 +0800" channel="cctv5">
@@ -11237,26 +11237,30 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204170000 +0800" stop="20251204180000 +0800" channel="cctv5">
-		<title lang="zh">足球之夜</title>
+		<title lang="zh">2025年国际乒联混合团体世界杯-第二阶段 第3轮(中国队-法国队)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204180000 +0800" stop="20251204190000 +0800" channel="cctv5">
+	<programme start="20251204180000 +0800" stop="20251204193000 +0800" channel="cctv5">
 		<title lang="zh">体育新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204190000 +0800" stop="20251204210000 +0800" channel="cctv5">
-		<title lang="zh">2025年国际乒联混合团体世界杯-第二阶段 第3轮</title>
+	<programme start="20251204193000 +0800" stop="20251204200000 +0800" channel="cctv5">
+		<title lang="zh">体坛零距离-2025-46(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204210000 +0800" stop="20251204213000 +0800" channel="cctv5">
-		<title lang="zh">体坛零距离(4K)</title>
+	<programme start="20251204200000 +0800" stop="20251204210000 +0800" channel="cctv5">
+		<title lang="zh">足球之夜-2025-45</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204213000 +0800" stop="20251204220000 +0800" channel="cctv5">
+	<programme start="20251204210000 +0800" stop="20251204220000 +0800" channel="cctv5">
+		<title lang="zh">2025/2026赛季斯诺克英国锦标赛-第2轮2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251204220000 +0800" stop="20251204221500 +0800" channel="cctv5">
 		<title lang="zh">体育世界</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204220000 +0800" stop="20251204235900 +0800" channel="cctv5">
+	<programme start="20251204221500 +0800" stop="20251204235900 +0800" channel="cctv5">
 		<title lang="zh">2025/2026赛季斯诺克英国锦标赛-第2轮2</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11292,8 +11296,12 @@
 		<title lang="zh">2025/2026西班牙足球甲级联赛-第14轮集锦</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204120000 +0800" stop="20251204140000 +0800" channel="cctv5plus">
-		<title lang="zh">2025年国际乒联混合团体世界杯-第二阶段 第2轮2</title>
+	<programme start="20251204120000 +0800" stop="20251204130000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 荷兰站 1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251204130000 +0800" stop="20251204140000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 羽毛球女单决赛（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204140000 +0800" stop="20251204150000 +0800" channel="cctv5plus">
@@ -11301,23 +11309,31 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204150000 +0800" stop="20251204153000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像-2025/2026赛季雪车世界杯 奥地利因斯布鲁克站 男子钢架雪车</title>
+		<title lang="zh">2025/2026法国足球甲级联赛-第14轮集锦</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204153000 +0800" stop="20251204170000 +0800" channel="cctv5plus">
 		<title lang="zh">2025/2026西班牙足球甲级联赛-第14轮（塞维利亚-皇家贝蒂斯）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204170000 +0800" stop="20251204190000 +0800" channel="cctv5plus">
-		<title lang="zh">2025年国际乒联混合团体世界杯-第二阶段 第3轮1</title>
+	<programme start="20251204170000 +0800" stop="20251204180000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 游泳比赛1（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204190000 +0800" stop="20251204203000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 篮球男子决赛（4K）</title>
+	<programme start="20251204180000 +0800" stop="20251204190000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 田径比赛1（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204203000 +0800" stop="20251204212000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水女子3米板决赛（4K）</title>
+	<programme start="20251204190000 +0800" stop="20251204210000 +0800" channel="cctv5plus">
+		<title lang="zh">2025年国际乒联混合团体世界杯-第二阶段 （德国队-克罗地亚队）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251204210000 +0800" stop="20251204211000 +0800" channel="cctv5plus">
+		<title lang="zh">实况录像-荣耀十分 苏翊鸣获大跳台世界杯云顶站冠军</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251204211000 +0800" stop="20251204212000 +0800" channel="cctv5plus">
+		<title lang="zh">赛事集锦（奥林匹克）-全运新势力1（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204212000 +0800" stop="20251204222000 +0800" channel="cctv5plus">
@@ -11325,7 +11341,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204222000 +0800" stop="20251204225000 +0800" channel="cctv5plus">
-		<title lang="zh">实况录像-2025/2026赛季雪车世界杯 奥地利因斯布鲁克站 女子钢架雪车</title>
+		<title lang="zh">实况录像-2025年亚洲射箭锦标赛 2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204225000 +0800" stop="20251204234500 +0800" channel="cctv5plus">
@@ -11721,7 +11737,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204230900 +0800" stop="20251204235500 +0800" channel="cctv8">
-		<title lang="zh">大侠霍元甲9/45</title>
+		<title lang="zh">大侠霍元甲第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204235500 +0800" stop="20251204235900 +0800" channel="cctv8">
@@ -12141,7 +12157,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204192300 +0800" stop="20251204200700 +0800" channel="cctv12">
-		<title lang="zh">一线-2025-244</title>
+		<title lang="zh">平安中国2025-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204200700 +0800" stop="20251204204700 +0800" channel="cctv12">
@@ -12484,12 +12500,12 @@
 		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 乒乓球女单比赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204093000 +0800" stop="20251204103000 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男子曲棍球决赛 荷兰队-德国队</title>
+	<programme start="20251204093000 +0800" stop="20251204110000 +0800" channel="cctv16">
+		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 足球女子决赛（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204103000 +0800" stop="20251204120000 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 足球女子决赛</title>
+	<programme start="20251204110000 +0800" stop="20251204120000 +0800" channel="cctv16">
+		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男子曲棍球决赛 荷兰队-德国队（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204120000 +0800" stop="20251204122000 +0800" channel="cctv16">
@@ -12508,12 +12524,16 @@
 		<title lang="zh">运动一起赢-2025-338</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204135500 +0800" stop="20251204152500 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛</title>
+	<programme start="20251204135500 +0800" stop="20251204142000 +0800" channel="cctv16">
+		<title lang="zh">实况录像（奥林匹克）-2025年世界跆拳道锦标赛1（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251204152500 +0800" stop="20251204155500 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-2025年世界跆拳道锦标赛1</title>
+	<programme start="20251204142000 +0800" stop="20251204143000 +0800" channel="cctv16">
+		<title lang="zh">2014年索契冬奥会-速度滑冰女子1000米冠军  张虹</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20251204143000 +0800" stop="20251204155500 +0800" channel="cctv16">
+		<title lang="zh">2025年中国网球巡回赛总决赛-男子、女子单打小组赛 第三轮</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204155500 +0800" stop="20251204161500 +0800" channel="cctv16">
@@ -12529,7 +12549,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204175200 +0800" stop="20251204192000 +0800" channel="cctv16">
-		<title lang="zh">实况录像（奥林匹克）-2025/2026赛季德国杯足球赛第三轮 柏林联合—拜仁慕尼黑 录播</title>
+		<title lang="zh">实况录像（奥林匹克）-2025/2026赛季德国杯足球赛第三轮 柏林联合—拜仁慕尼黑 录播（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251204192000 +0800" stop="20251204195500 +0800" channel="cctv16">
@@ -14288,20 +14308,16 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251205193900 +0800" stop="20251205200500 +0800" channel="cctv1">
+	<programme start="20251205193900 +0800" stop="20251205200600 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251205200500 +0800" stop="20251205205900 +0800" channel="cctv1">
+	<programme start="20251205200600 +0800" stop="20251205210300 +0800" channel="cctv1">
 		<title lang="zh">踏歌行-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20251205205900 +0800" stop="20251205210300 +0800" channel="cctv1">
-		<title lang="zh">前情提要-电视剧（高清文件）</title>
-		<desc lang="zh"></desc>
-	</programme>
 	<programme start="20251205210300 +0800" stop="20251205220000 +0800" channel="cctv1">
-		<title lang="zh">电视剧-（高清文件）</title>
+		<title lang="zh">花开中国-北京篇（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205220000 +0800" stop="20251205223500 +0800" channel="cctv1">
@@ -14437,7 +14453,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205180500 +0800" stop="20251205183000 +0800" channel="cctv2">
-		<title lang="zh">2024精品财经纪录-城市烟火-2</title>
+		<title lang="zh">2024精品财经纪录-城市烟火-3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205183000 +0800" stop="20251205190000 +0800" channel="cctv2">
@@ -14537,7 +14553,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205133300 +0800" stop="20251205151400 +0800" channel="cctv3">
-		<title lang="zh">味你而来-6</title>
+		<title lang="zh">味你而来-5</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205151400 +0800" stop="20251205153200 +0800" channel="cctv3">
@@ -15661,11 +15677,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205091000 +0800" stop="20251205100400 +0800" channel="cctv12">
-		<title lang="zh">方圆剧阵2025-313</title>
+		<title lang="zh">方圆剧阵2025-299</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205100400 +0800" stop="20251205105800 +0800" channel="cctv12">
-		<title lang="zh">方圆剧阵2025-314</title>
+		<title lang="zh">方圆剧阵2025-312</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205105800 +0800" stop="20251205113000 +0800" channel="cctv12">
@@ -15701,7 +15717,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205161300 +0800" stop="20251205165700 +0800" channel="cctv12">
-		<title lang="zh">一线-2025-244</title>
+		<title lang="zh">平安中国2025-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20251205165700 +0800" stop="20251205172900 +0800" channel="cctv12">
