@@ -10180,19 +10180,19 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260706193800 +0800" stop="20260706195900 +0800" channel="cctv1">
+	<programme start="20260706193800 +0800" stop="20260706195800 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260706195900 +0800" stop="20260706200300 +0800" channel="cctv1">
+	<programme start="20260706195800 +0800" stop="20260706200100 +0800" channel="cctv1">
 		<title lang="zh">前情提要-种墨园-第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260706200300 +0800" stop="20260706205400 +0800" channel="cctv1">
+	<programme start="20260706200100 +0800" stop="20260706205200 +0800" channel="cctv1">
 		<title lang="zh">种墨园15/34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260706205400 +0800" stop="20260706205500 +0800" channel="cctv1">
+	<programme start="20260706205200 +0800" stop="20260706205500 +0800" channel="cctv1">
 		<title lang="zh">前情提要-种墨园-16/34</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -12065,11 +12065,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706101900 +0800" stop="20260706110900 +0800" channel="cctv17">
-		<title lang="zh">亲爱的孩子们4/40</title>
+		<title lang="zh">亲爱的孩子们第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706110900 +0800" stop="20260706120000 +0800" channel="cctv17">
-		<title lang="zh">亲爱的孩子们5/40</title>
+		<title lang="zh">亲爱的孩子们第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706120000 +0800" stop="20260706123100 +0800" channel="cctv17">
@@ -12093,19 +12093,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706133900 +0800" stop="20260706142700 +0800" channel="cctv17">
-		<title lang="zh">四喜2/36</title>
+		<title lang="zh">四喜第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706142700 +0800" stop="20260706151900 +0800" channel="cctv17">
-		<title lang="zh">四喜3/36</title>
+		<title lang="zh">四喜第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706151900 +0800" stop="20260706161300 +0800" channel="cctv17">
-		<title lang="zh">四喜4/36</title>
+		<title lang="zh">四喜第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706161300 +0800" stop="20260706170400 +0800" channel="cctv17">
-		<title lang="zh">四喜5/36</title>
+		<title lang="zh">四喜第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706170400 +0800" stop="20260706173200 +0800" channel="cctv17">
@@ -12125,11 +12125,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706185500 +0800" stop="20260706195000 +0800" channel="cctv17">
-		<title lang="zh">亲爱的孩子们6/40</title>
+		<title lang="zh">亲爱的孩子们第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706195000 +0800" stop="20260706204500 +0800" channel="cctv17">
-		<title lang="zh">亲爱的孩子们7/40</title>
+		<title lang="zh">亲爱的孩子们第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260706204500 +0800" stop="20260706211300 +0800" channel="cctv17">
@@ -15252,8 +15252,12 @@
 		<title lang="zh">乡土中国-2024-43</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260707005300 +0800" stop="20260707055600 +0800" channel="cctv17">
+	<programme start="20260707005300 +0800" stop="20260707012400 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2026-132</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260707012400 +0800" stop="20260707055600 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260707055600 +0800" stop="20260707060500 +0800" channel="cctv17">
