@@ -1,5 +1,3 @@
-argparse
-datetime
-lxml
+lxml>=6,<7
 pytz
 requests
