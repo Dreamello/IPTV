@@ -6812,8 +6812,16 @@
 		<title lang="zh">开门大吉-2026-35</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260906193000 +0800" stop="20260906212500 +0800" channel="cctv3">
-		<title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+	<programme start="20260906193000 +0800" stop="20260906200900 +0800" channel="cctv3">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260906200900 +0800" stop="20260906204000 +0800" channel="cctv3">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260906204000 +0800" stop="20260906212500 +0800" channel="cctv3">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260906212500 +0800" stop="20260906222100 +0800" channel="cctv3">
@@ -7461,7 +7469,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260906203000 +0800" stop="20260906212400 +0800" channel="cctv8">
-		<title lang="zh">交锋2/40</title>
+		<title lang="zh">交锋第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260906212400 +0800" stop="20260906212900 +0800" channel="cctv8">
@@ -8196,19 +8204,27 @@
 		<title lang="zh">精彩音乐汇-我的爱对你说-2026-344</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260906193000 +0800" stop="20260906211500 +0800" channel="cctv15">
-		<title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+	<programme start="20260906193000 +0800" stop="20260906200900 +0800" channel="cctv15">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260906211500 +0800" stop="20260906221500 +0800" channel="cctv15">
+	<programme start="20260906200900 +0800" stop="20260906204000 +0800" channel="cctv15">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260906204000 +0800" stop="20260906213000 +0800" channel="cctv15">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260906213000 +0800" stop="20260906223000 +0800" channel="cctv15">
 		<title lang="zh">音乐公开课-2026-15</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260906221500 +0800" stop="20260906231400 +0800" channel="cctv15">
+	<programme start="20260906223000 +0800" stop="20260906232900 +0800" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2026-155-“名家华彩”协奏曲系列音乐会（1）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260906231400 +0800" stop="20260906235900 +0800" channel="cctv15">
+	<programme start="20260906232900 +0800" stop="20260906235900 +0800" channel="cctv15">
 		<title lang="zh">精彩音乐汇-我的爱对你说-2026-279</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9800,27 +9816,27 @@
 		<title lang="zh">新闻联播</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907194000 +0800" stop="20260907200000 +0800" channel="cctv1">
+	<programme start="20260907194000 +0800" stop="20260907200100 +0800" channel="cctv1">
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907200000 +0800" stop="20260907200500 +0800" channel="cctv1">
+	<programme start="20260907200100 +0800" stop="20260907200500 +0800" channel="cctv1">
 		<title lang="zh">前情提要-生逢其时-第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907200500 +0800" stop="20260907205400 +0800" channel="cctv1">
+	<programme start="20260907200500 +0800" stop="20260907205500 +0800" channel="cctv1">
 		<title lang="zh">生逢其时4/26</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907205400 +0800" stop="20260907205700 +0800" channel="cctv1">
+	<programme start="20260907205500 +0800" stop="20260907210000 +0800" channel="cctv1">
 		<title lang="zh">前情提要-生逢其时-第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907205700 +0800" stop="20260907215100 +0800" channel="cctv1">
+	<programme start="20260907210000 +0800" stop="20260907215200 +0800" channel="cctv1">
 		<title lang="zh">生逢其时5/26</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907215100 +0800" stop="20260907220000 +0800" channel="cctv1">
+	<programme start="20260907215200 +0800" stop="20260907220000 +0800" channel="cctv1">
 		<title lang="zh">非遗里的中国-MV</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9984,12 +10000,16 @@
 		<title lang="zh">远山之约（蜀山篇）-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907023400 +0800" stop="20260907063300 +0800" channel="cctv3">
+	<programme start="20260907023400 +0800" stop="20260907053500 +0800" channel="cctv3">
 		<title lang="zh">中国唱将-7</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907063300 +0800" stop="20260907065500 +0800" channel="cctv3">
-		<title lang="zh">国宝音乐会-故宫篇-重播版1</title>
+	<programme start="20260907053500 +0800" stop="20260907053800 +0800" channel="cctv3">
+		<title lang="zh">综艺喜乐汇-2026-1133 真善美</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260907053800 +0800" stop="20260907065500 +0800" channel="cctv3">
+		<title lang="zh">你好时光（第二季）-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260907065500 +0800" stop="20260907080100 +0800" channel="cctv3">
@@ -11424,11 +11444,11 @@
 		<title lang="zh">天下同心-11/21</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907002800 +0800" stop="20260907010300 +0800" channel="cctv15">
+	<programme start="20260907004300 +0800" stop="20260907011800 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2026-255</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907010300 +0800" stop="20260907060000 +0800" channel="cctv15">
+	<programme start="20260907011800 +0800" stop="20260907060000 +0800" channel="cctv15">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -11456,16 +11476,16 @@
 		<title lang="zh">精彩音乐汇-我的爱对你说-2026-404</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907115900 +0800" stop="20260907133800 +0800" channel="cctv15">
-		<title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+	<programme start="20260907115900 +0800" stop="20260907123900 +0800" channel="cctv15">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907133800 +0800" stop="20260907134600 +0800" channel="cctv15">
-		<title lang="zh">中国节拍-品味古典77</title>
+	<programme start="20260907123900 +0800" stop="20260907131000 +0800" channel="cctv15">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260907134600 +0800" stop="20260907140300 +0800" channel="cctv15">
-		<title lang="zh">中国节拍-品味古典78</title>
+	<programme start="20260907131000 +0800" stop="20260907140300 +0800" channel="cctv15">
+		<title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260907140300 +0800" stop="20260907154300 +0800" channel="cctv15">
