@@ -7300,24 +7300,28 @@
 		<title lang="zh">今日关注</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260912220000 +0800" stop="20260912223000 +0800" channel="cctv4">
-		<title lang="zh">中国缘-2026-59</title>
+	<programme start="20260912220000 +0800" stop="20260912221700 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260912223000 +0800" stop="20260912230400 +0800" channel="cctv4">
+	<programme start="20260912221700 +0800" stop="20260912224400 +0800" channel="cctv4">
+		<title lang="zh">深度国际-2026年9月-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260912224400 +0800" stop="20260912230000 +0800" channel="cctv4">
+		<title lang="zh">平凡匠心-2026-5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260912230000 +0800" stop="20260912231600 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260912231600 +0800" stop="20260912233000 +0800" channel="cctv4">
+		<title lang="zh">平凡匠心-2026-56</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260912233000 +0800" stop="20260912235900 +0800" channel="cctv4">
 		<title lang="zh">新闻联播</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260912230400 +0800" stop="20260912233000 +0800" channel="cctv4">
-		<title lang="zh">今日亚洲</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260912233000 +0800" stop="20260912235700 +0800" channel="cctv4">
-		<title lang="zh">海峡两岸-2026-255</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260912235700 +0800" stop="20260912235900 +0800" channel="cctv4">
-		<title lang="zh">亲爱的孩子们第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260912001400 +0800" stop="20260912003000 +0800" channel="cctv5">
@@ -10348,36 +10352,52 @@
 		<title lang="zh">综艺喜乐汇-2026-940 护宝寻踪 2/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260913004300 +0800" stop="20260913012900 +0800" channel="cctv4">
-		<title lang="zh">亲爱的孩子们第11集</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260913012900 +0800" stop="20260913020000 +0800" channel="cctv4">
-		<title lang="zh">中国缘-2026-36</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260913020000 +0800" stop="20260913023000 +0800" channel="cctv4">
-		<title lang="zh">新闻联播</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260913023000 +0800" stop="20260913030000 +0800" channel="cctv4">
-		<title lang="zh">华人故事-2026-38</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20260913030000 +0800" stop="20260913031000 +0800" channel="cctv4">
+	<programme start="20260913000000 +0800" stop="20260913001500 +0800" channel="cctv4">
 		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260913031000 +0800" stop="20260913032500 +0800" channel="cctv4">
-		<title lang="zh">平凡匠心-2026-75</title>
+	<programme start="20260913001500 +0800" stop="20260913004100 +0800" channel="cctv4">
+		<title lang="zh">国宝发现-2026-11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260913032500 +0800" stop="20260913035300 +0800" channel="cctv4">
-		<title lang="zh">深度国际-2026年9月-2</title>
+	<programme start="20260913004100 +0800" stop="20260913010000 +0800" channel="cctv4">
+		<title lang="zh">平凡匠心-2026-7</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20260913035300 +0800" stop="20260913040000 +0800" channel="cctv4">
-		<title lang="zh">记住乡愁-片段展播-2024-43</title>
+	<programme start="20260913010000 +0800" stop="20260913011700 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913011700 +0800" stop="20260913013700 +0800" channel="cctv4">
+		<title lang="zh">荟萃节目-窑变景德镇何以千年</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913013700 +0800" stop="20260913014100 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁-片段展播-2024-5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913014100 +0800" stop="20260913020000 +0800" channel="cctv4">
+		<title lang="zh">平凡匠心-2026-51</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913020000 +0800" stop="20260913023200 +0800" channel="cctv4">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913023200 +0800" stop="20260913030000 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁2025-6</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913030000 +0800" stop="20260913031500 +0800" channel="cctv4">
+		<title lang="zh">中国新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913031500 +0800" stop="20260913035700 +0800" channel="cctv4">
+		<title lang="zh">远方的家2026-92</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20260913035700 +0800" stop="20260913040000 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁-片段展播-2025-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260913040000 +0800" stop="20260913041500 +0800" channel="cctv4">
@@ -11089,7 +11109,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260913193000 +0800" stop="20260913202500 +0800" channel="cctv8">
-		<title lang="zh">交锋15/40</title>
+		<title lang="zh">交锋第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20260913202500 +0800" stop="20260913203000 +0800" channel="cctv8">
