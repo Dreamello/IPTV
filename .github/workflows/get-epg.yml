@@ -30,7 +30,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
       - name: Set timezone
-        run: sudo timedatectl set-timezone 'Asia/Shanghai'\
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: Generate EPG
         uses: nick-fields/retry@v3
         with:
