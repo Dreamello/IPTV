@@ -6876,11 +6876,11 @@
 		<title lang="zh">前情提要-伟大的长征-第60集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261115200200 +0800" stop="20261115205200 +0800" channel="cctv1">
+	<programme start="20261115200200 +0800" stop="20261115205100 +0800" channel="cctv1">
 		<title lang="zh">伟大的长征第60集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261115205200 +0800" stop="20261115214600 +0800" channel="cctv1">
+	<programme start="20261115205100 +0800" stop="20261115214600 +0800" channel="cctv1">
 		<title lang="zh">2026花开中国-7 福建福州</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7653,11 +7653,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20261115215200 +0800" stop="20261115224300 +0800" channel="cctv7">
-		<title lang="zh">伟大的长征-(高清文件重播版)-1/60</title>
+		<title lang="zh">伟大的长征-（高清文件重播版）-第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20261115224300 +0800" stop="20261115233900 +0800" channel="cctv7">
-		<title lang="zh">伟大的长征-(高清文件重播版)-2/60</title>
+		<title lang="zh">伟大的长征-（高清文件重播版）-第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20261115233900 +0800" stop="20261115235900 +0800" channel="cctv7">
@@ -10512,20 +10512,16 @@
 		<title lang="zh">开门大吉-2026-46</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261116205400 +0800" stop="20261116220100 +0800" channel="cctv3">
-		<title lang="zh">中国唱将2026-落地遴选1 1/2</title>
+	<programme start="20261116205400 +0800" stop="20261116220700 +0800" channel="cctv3">
+		<title lang="zh">中国唱将2026-落地遴选1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261116220100 +0800" stop="20261116230800 +0800" channel="cctv3">
+	<programme start="20261116220700 +0800" stop="20261116231400 +0800" channel="cctv3">
 		<title lang="zh">跟着春晚游中国（宜宾篇）-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261116230800 +0800" stop="20261116235400 +0800" channel="cctv3">
+	<programme start="20261116231400 +0800" stop="20261116235900 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2026-1240 利剑玫瑰23/32</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20261116235400 +0800" stop="20261116235900 +0800" channel="cctv3">
-		<title lang="zh">综艺喜乐汇-2026-1241 利剑玫瑰24/32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20261116001700 +0800" stop="20261116010300 +0800" channel="cctv4">
@@ -13852,35 +13848,39 @@
 		<title lang="zh">经济半小时</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117004000 +0800" stop="20261117012600 +0800" channel="cctv3">
+	<programme start="20261117000000 +0800" stop="20261117004600 +0800" channel="cctv3">
+		<title lang="zh">综艺喜乐汇-2026-1241 利剑玫瑰24/32</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20261117004600 +0800" stop="20261117013200 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2026-1242 利剑玫瑰25/32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117012600 +0800" stop="20261117030600 +0800" channel="cctv3">
+	<programme start="20261117013200 +0800" stop="20261117031200 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2026-1120 国家宝藏第四季精编 3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117030600 +0800" stop="20261117042300 +0800" channel="cctv3">
+	<programme start="20261117031200 +0800" stop="20261117042900 +0800" channel="cctv3">
 		<title lang="zh">全民畅舞-26</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117042300 +0800" stop="20261117051300 +0800" channel="cctv3">
+	<programme start="20261117042900 +0800" stop="20261117051900 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2026-1073 跟着春晚游中国 2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117051300 +0800" stop="20261117061400 +0800" channel="cctv3">
-		<title lang="zh">星光艺起唱-1</title>
+	<programme start="20261117051900 +0800" stop="20261117060900 +0800" channel="cctv3">
+		<title lang="zh">我的艺术清单-2026-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117061400 +0800" stop="20261117063500 +0800" channel="cctv3">
+	<programme start="20261117060900 +0800" stop="20261117063000 +0800" channel="cctv3">
 		<title lang="zh">文化十分-2026-230</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117063500 +0800" stop="20261117073600 +0800" channel="cctv3">
+	<programme start="20261117063000 +0800" stop="20261117073000 +0800" channel="cctv3">
 		<title lang="zh">国音正青春-6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20261117073600 +0800" stop="20261117084300 +0800" channel="cctv3">
+	<programme start="20261117073000 +0800" stop="20261117084300 +0800" channel="cctv3">
 		<title lang="zh">中国唱将2026-落地遴选1</title>
 		<desc lang="zh"></desc>
 	</programme>
